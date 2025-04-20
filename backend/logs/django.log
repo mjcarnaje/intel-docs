@@ -1,0 +1,2140 @@
+INFO 2025-04-20 03:36:49,155 autoreload 763 140302671637376 Watching for file changes with StatReloader
+INFO 2025-04-20 03:36:59,004 autoreload 763 140302671637376 /usr/src/app/inteldocs/celery.py changed, reloading.
+INFO 2025-04-20 03:36:59,969 autoreload 786 139731578469248 Watching for file changes with StatReloader
+INFO 2025-04-20 03:37:08,792 autoreload 786 139731578469248 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 03:37:09,779 autoreload 809 140139383700352 Watching for file changes with StatReloader
+INFO 2025-04-20 03:37:56,075 autoreload 809 140139383700352 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 03:37:57,061 autoreload 832 140402464914304 Watching for file changes with StatReloader
+INFO 2025-04-20 03:38:58,057 basehttp 832 140401435621056 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:38:58,075 basehttp 832 140401435621056 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:38:59,283 basehttp 832 140401435621056 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 03:38:59,300 basehttp 832 140401435621056 "GET /api/documents HTTP/1.1" 200 359
+INFO 2025-04-20 03:39:24,149 autoreload 832 140402464914304 /usr/src/app/app/utils/doc_processor.py changed, reloading.
+INFO 2025-04-20 03:39:25,130 autoreload 884 139847773215616 Watching for file changes with StatReloader
+INFO 2025-04-20 03:39:39,397 basehttp 884 139846744012480 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:39:39,411 basehttp 884 139846735619776 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:39:41,758 basehttp 884 139846735619776 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 03:39:41,775 basehttp 884 139846735619776 "GET /api/documents HTTP/1.1" 200 359
+INFO 2025-04-20 03:40:25,941 autoreload 884 139847773215616 /usr/src/app/app/utils/doc_processor.py changed, reloading.
+INFO 2025-04-20 03:40:26,941 autoreload 909 139646527929216 Watching for file changes with StatReloader
+INFO 2025-04-20 03:40:28,515 basehttp 909 139645492917952 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:40:28,529 basehttp 909 139645492917952 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:40:28,884 basehttp 909 139645492917952 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:40:28,906 basehttp 909 139645484525248 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:40:33,112 basehttp 909 139645484525248 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 03:40:33,130 basehttp 909 139645484525248 "GET /api/documents HTTP/1.1" 200 359
+INFO 2025-04-20 03:40:59,334 autoreload 909 139646527929216 /usr/src/app/app/utils/doc_processor.py changed, reloading.
+INFO 2025-04-20 03:41:00,255 autoreload 934 140235423296384 Watching for file changes with StatReloader
+INFO 2025-04-20 03:41:04,974 basehttp 934 140234461574848 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:41:04,992 basehttp 934 140234453182144 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:41:05,951 basehttp 934 140234453182144 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 03:41:05,976 basehttp 934 140234453182144 "GET /api/documents HTTP/1.1" 200 359
+INFO 2025-04-20 03:41:40,817 autoreload 934 140235423296384 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 03:41:43,533 autoreload 959 140712075422592 Watching for file changes with StatReloader
+INFO 2025-04-20 03:41:48,010 basehttp 959 140711046411968 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:41:48,025 basehttp 959 140711038019264 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:41:49,076 basehttp 959 140711038019264 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 03:41:49,093 basehttp 959 140711038019264 "GET /api/documents HTTP/1.1" 200 359
+INFO 2025-04-20 03:42:01,883 autoreload 959 140712075422592 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 03:42:02,994 autoreload 984 139966279105408 Watching for file changes with StatReloader
+INFO 2025-04-20 03:42:26,109 autoreload 984 139966279105408 /usr/src/app/app/utils/doc_processor.py changed, reloading.
+INFO 2025-04-20 03:42:27,024 autoreload 1007 139773548956544 Watching for file changes with StatReloader
+INFO 2025-04-20 03:42:31,868 basehttp 1007 139772519511744 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:42:31,881 basehttp 1007 139772519511744 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:42:32,837 basehttp 1007 139772519511744 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 03:42:32,862 basehttp 1007 139772519511744 "GET /api/documents HTTP/1.1" 200 359
+INFO 2025-04-20 03:42:44,220 basehttp 1007 139772519511744 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 03:42:44,234 basehttp 1007 139772511119040 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 04:10:24,155 autoreload 73 140188452064128 Watching for file changes with StatReloader
+WARNING 2025-04-20 04:11:36,854 log 73 140187422480064 Unauthorized: /api/documents
+WARNING 2025-04-20 04:11:36,854 basehttp 73 140187422480064 "GET /api/documents HTTP/1.1" 401 58
+WARNING 2025-04-20 04:11:46,518 log 73 140187405694656 Not Found: /
+WARNING 2025-04-20 04:11:46,518 basehttp 73 140187405694656 "GET / HTTP/1.1" 404 2313
+INFO 2025-04-20 04:11:53,733 basehttp 73 140187405694656 "GET /admin HTTP/1.1" 301 0
+INFO 2025-04-20 04:11:53,773 basehttp 73 140187414087360 "GET /admin/ HTTP/1.1" 200 7713
+INFO 2025-04-20 04:11:53,848 basehttp 73 140187414087360 "GET /static/admin/css/base.css HTTP/1.1" 200 22092
+INFO 2025-04-20 04:11:53,871 basehttp 73 140187414087360 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+INFO 2025-04-20 04:11:53,899 basehttp 73 140187405694656 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-04-20 04:11:53,900 basehttp 73 140187194619584 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-04-20 04:11:53,900 basehttp 73 140187186226880 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-04-20 04:11:53,901 basehttp 73 140187177834176 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+INFO 2025-04-20 04:11:53,913 basehttp 73 140187177834176 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-04-20 04:11:53,913 basehttp 73 140187186226880 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-04-20 04:11:53,914 basehttp 73 140187194619584 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-04-20 04:11:55,440 basehttp 73 140187194619584 "GET /admin/app/user/ HTTP/1.1" 200 9558
+INFO 2025-04-20 04:11:55,519 basehttp 73 140187194619584 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2025-04-20 04:11:55,548 basehttp 73 140187194619584 "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-04-20 04:11:55,548 basehttp 73 140187405694656 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-04-20 04:11:55,552 basehttp 73 140187414087360 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-04-20 04:11:55,552 basehttp 73 140187169441472 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+INFO 2025-04-20 04:11:55,553 basehttp 73 140187405694656 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-04-20 04:11:55,554 basehttp 73 140187194619584 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-04-20 04:11:55,562 basehttp 73 140187414087360 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-04-20 04:11:55,565 basehttp 73 140187186226880 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 04:11:55,566 basehttp 73 140187177834176 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-04-20 04:11:55,570 basehttp 73 140187186226880 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-04-20 04:11:55,591 basehttp 73 140187186226880 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-04-20 04:11:56,646 basehttp 73 140187186226880 "GET /admin/app/user/1/change/ HTTP/1.1" 200 23468
+INFO 2025-04-20 04:11:56,689 basehttp 73 140187186226880 "GET /static/admin/css/forms.css HTTP/1.1" 200 8794
+INFO 2025-04-20 04:11:56,721 basehttp 73 140187177834176 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 04:11:56,738 basehttp 73 140187405694656 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-04-20 04:11:56,739 basehttp 73 140187414087360 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-04-20 04:11:56,739 basehttp 73 140187186226880 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2025-04-20 04:11:56,740 basehttp 73 140187177834176 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+INFO 2025-04-20 04:11:56,743 basehttp 73 140187177834176 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-04-20 04:11:56,910 basehttp 73 140187177834176 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-04-20 04:11:56,911 basehttp 73 140187414087360 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2025-04-20 04:11:59,929 basehttp 73 140187414087360 "GET /admin/app/user/ HTTP/1.1" 200 9558
+INFO 2025-04-20 04:12:01,011 basehttp 73 140187414087360 "GET /admin/ HTTP/1.1" 200 7713
+INFO 2025-04-20 04:12:02,408 basehttp 73 140187414087360 "GET /admin/ HTTP/1.1" 200 7713
+INFO 2025-04-20 04:12:03,305 basehttp 73 140187414087360 "GET /admin/ HTTP/1.1" 200 7713
+INFO 2025-04-20 04:12:17,333 basehttp 73 140187422480064 "OPTIONS /api/auth/login HTTP/1.1" 200 0
+INFO 2025-04-20 04:12:17,524 basehttp 73 140187422480064 "POST /api/auth/login HTTP/1.1" 200 646
+INFO 2025-04-20 04:12:23,374 basehttp 73 140187422480064 "OPTIONS /api/documents HTTP/1.1" 200 0
+INFO 2025-04-20 04:12:23,377 basehttp 73 140187160000192 "OPTIONS /api/documents HTTP/1.1" 200 0
+INFO 2025-04-20 04:12:23,403 basehttp 73 140187422480064 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 04:12:23,416 basehttp 73 140187160000192 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 04:12:24,543 tasks 30 140370590333824 Starting summary generation for Document ID: 2
+INFO 2025-04-20 04:12:24,547 basehttp 73 140187160000192 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 04:12:24,562 tasks 30 140370590333824 Document status updated to 'generating_summary' for Document ID: 2
+INFO 2025-04-20 04:12:24,562 basehttp 73 140187160000192 "GET /api/documents HTTP/1.1" 200 359
+INFO 2025-04-20 04:12:24,568 doc_processor 30 140370590333824 Generating title and summary for text: Thomas Hobbes
+
+Thomas Hobbes
+1588-1679 (Westport, England)
+
+• He was abandoned by his father at an early
+
+age; was brought up by his uncle
+
+• He studied at the University of Oxford at 15
+
+years old
+
+• Experienced the turbulent half of the
+
+seventeenth century in England (conflict
+between royalists and Parliamentarians)
+
+• Sought refuge in France because of his
+
+association with the royalist circles (he was
+the tutor to Charles II of Wales) and his
+antiparliamentarian writings
+
+• Hobbes was a defender of an absolute
+
+government
+
+• He wrote the Leviathan (1651) before he
+
+returned to England
+
+https://www.biography.com/scholar/thomas-hobbes
+
+Key Points
+
+• Theory of human nature
+• State of nature and laws of nature
+• The social contract
+• Sovereign power
+• Types of government
+• The right to resist
+
+Key Questions
+
+1. How did Hobbes describe the state of nature?
+2. What is the social contract according to
+
+Thomas Hobbes?
+
+3. What is the difference between the life in the
+INFO 2025-04-20 04:12:24,571 tasks 30 140370590333824 Document status updated to 'summary_generated' for Document ID: 2
+INFO 2025-04-20 04:12:24,571 tasks 30 140370590333824 Summary and title generated for Document ID: 2
+INFO 2025-04-20 04:12:24,591 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+ERROR 2025-04-20 04:12:24,638 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:12:24,640 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:13:01,484 basehttp 73 140187160000192 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:13:01,500 basehttp 73 140187422480064 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:13:24,658 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+ERROR 2025-04-20 04:13:24,695 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:13:24,697 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:13:52,747 autoreload 73 140188452064128 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 04:13:53,698 autoreload 105 139755969690496 Watching for file changes with StatReloader
+INFO 2025-04-20 04:13:57,192 basehttp 105 139754940135104 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:13:57,208 basehttp 105 139754931742400 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:13:58,256 basehttp 105 139754931742400 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 04:13:58,262 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:13:58,274 basehttp 105 139754931742400 "GET /api/documents HTTP/1.1" 200 339
+ERROR 2025-04-20 04:13:58,304 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:13:58,306 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:14:00,789 basehttp 105 139754931742400 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:14:00,806 basehttp 105 139754940135104 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:14:02,393 basehttp 105 139754940135104 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 04:14:02,399 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:14:02,412 basehttp 105 139754940135104 "GET /api/documents HTTP/1.1" 200 339
+ERROR 2025-04-20 04:14:02,442 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:14:02,443 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:14:15,806 autoreload 105 139755969690496 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 04:14:16,793 autoreload 130 140041429764992 Watching for file changes with StatReloader
+INFO 2025-04-20 04:14:20,524 autoreload 130 140041429764992 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 04:14:21,419 autoreload 153 139768068225920 Watching for file changes with StatReloader
+INFO 2025-04-20 04:14:27,155 autoreload 153 139768068225920 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 04:14:28,147 autoreload 176 140541429033856 Watching for file changes with StatReloader
+INFO 2025-04-20 04:14:30,594 basehttp 176 140540467312320 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:14:30,608 basehttp 176 140540389619392 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:14:31,672 basehttp 176 140540389619392 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 04:14:31,680 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:14:31,687 basehttp 176 140540389619392 "GET /api/documents HTTP/1.1" 200 339
+ERROR 2025-04-20 04:14:31,720 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:14:31,723 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:14:44,143 autoreload 176 140541429033856 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 04:14:45,059 autoreload 201 139754361805696 Watching for file changes with StatReloader
+INFO 2025-04-20 04:14:58,319 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+ERROR 2025-04-20 04:14:58,357 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:14:58,372 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:14:58,916 autoreload 201 139754361805696 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 04:14:59,818 autoreload 224 140094399122304 Watching for file changes with StatReloader
+INFO 2025-04-20 04:15:01,529 autoreload 224 140094399122304 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 04:15:02,362 autoreload 247 140381944814464 Watching for file changes with StatReloader
+INFO 2025-04-20 04:15:02,454 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+ERROR 2025-04-20 04:15:02,489 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:15:02,505 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:15:07,131 autoreload 247 140381944814464 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 04:15:08,057 autoreload 270 140628884683648 Watching for file changes with StatReloader
+INFO 2025-04-20 04:15:19,878 autoreload 270 140628884683648 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 04:15:20,766 autoreload 293 140381398731648 Watching for file changes with StatReloader
+INFO 2025-04-20 04:15:31,733 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+ERROR 2025-04-20 04:15:31,770 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:15:31,772 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:16:32,356 autoreload 293 140381398731648 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 04:16:33,343 autoreload 316 139656588675968 Watching for file changes with StatReloader
+INFO 2025-04-20 04:16:35,587 basehttp 316 139655559247552 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:16:35,602 basehttp 316 139655550854848 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:16:37,009 basehttp 316 139655550854848 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 04:16:37,016 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:16:37,025 basehttp 316 139655550854848 "GET /api/documents HTTP/1.1" 200 339
+ERROR 2025-04-20 04:16:37,056 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:16:37,058 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:17:02,584 autoreload 316 139656588675968 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 04:17:03,548 autoreload 341 139744518589312 Watching for file changes with StatReloader
+INFO 2025-04-20 04:17:37,073 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+ERROR 2025-04-20 04:17:37,107 tasks 30 140370590333824 Embedding failed for document 2: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+INFO 2025-04-20 04:17:37,110 tasks 30 140370590333824 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:18:39,736 autoreload 74 139735546669952 Watching for file changes with StatReloader
+INFO 2025-04-20 04:19:23,134 basehttp 74 139734517167808 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:19:23,148 basehttp 74 139734508775104 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:19:25,406 basehttp 74 139734508775104 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 04:19:25,423 basehttp 74 139734508775104 "GET /api/documents HTTP/1.1" 200 339
+INFO 2025-04-20 04:19:25,424 tasks 30 140624749849472 Document status updated to 'embedding_text' for Document ID: 2
+ERROR 2025-04-20 04:19:25,435 tasks 30 140624749849472 Embedding failed for document 2: model "bge-m3" not found, try pulling it first (status code: 404)
+INFO 2025-04-20 04:19:25,437 tasks 30 140624749849472 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:20:25,455 tasks 30 140624749849472 Document status updated to 'embedding_text' for Document ID: 2
+ERROR 2025-04-20 04:20:25,459 tasks 30 140624749849472 Embedding failed for document 2: model "bge-m3" not found, try pulling it first (status code: 404)
+INFO 2025-04-20 04:20:25,482 tasks 30 140624749849472 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:22:03,759 basehttp 74 139734508775104 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:22:03,774 basehttp 74 139734517167808 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:22:04,586 basehttp 74 139734517167808 "POST /api/documents/2/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 04:22:04,593 tasks 30 140624749849472 Document status updated to 'embedding_text' for Document ID: 2
+ERROR 2025-04-20 04:22:04,600 tasks 30 140624749849472 Embedding failed for document 2: model "bge-m3" not found, try pulling it first (status code: 404)
+INFO 2025-04-20 04:22:04,601 basehttp 74 139734517167808 "GET /api/documents HTTP/1.1" 200 339
+INFO 2025-04-20 04:22:04,602 tasks 30 140624749849472 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 04:42:57,361 autoreload 73 139809318067072 Watching for file changes with StatReloader
+WARNING 2025-04-20 04:43:33,326 log 73 139808288536256 Unauthorized: /api/documents
+WARNING 2025-04-20 04:43:33,327 basehttp 73 139808288536256 "GET /api/documents HTTP/1.1" 401 51
+WARNING 2025-04-20 04:43:33,339 log 73 139808288536256 Unauthorized: /api/documents
+WARNING 2025-04-20 04:43:33,339 basehttp 73 139808288536256 "GET /api/documents HTTP/1.1" 401 51
+INFO 2025-04-20 04:43:33,462 basehttp 73 139808288536256 "OPTIONS /api/auth/token/refresh HTTP/1.1" 200 0
+INFO 2025-04-20 04:43:33,465 basehttp 73 139808288536256 "OPTIONS /api/auth/token/refresh HTTP/1.1" 200 0
+ERROR 2025-04-20 04:43:33,545 log 73 139808280143552 Internal Server Error: /api/auth/token/refresh
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework_simplejwt/views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/serializers.py", line 447, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework_simplejwt/serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/query.py", line 649, in get
+    raise self.model.DoesNotExist(
+app.models.User.DoesNotExist: User matching query does not exist.
+ERROR 2025-04-20 04:43:33,545 log 73 139808288536256 Internal Server Error: /api/auth/token/refresh
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework_simplejwt/views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/serializers.py", line 447, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework_simplejwt/serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/query.py", line 649, in get
+    raise self.model.DoesNotExist(
+app.models.User.DoesNotExist: User matching query does not exist.
+ERROR 2025-04-20 04:43:33,550 basehttp 73 139808280143552 "POST /api/auth/token/refresh HTTP/1.1" 500 114366
+ERROR 2025-04-20 04:43:33,551 basehttp 73 139808288536256 "POST /api/auth/token/refresh HTTP/1.1" 500 114366
+WARNING 2025-04-20 04:43:35,306 log 73 139808288536256 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:43:35,306 basehttp 73 139808288536256 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:43:37,040 log 73 139808288536256 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:43:37,040 basehttp 73 139808288536256 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:43:40,228 log 73 139808288536256 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:43:40,228 basehttp 73 139808288536256 "POST /api/auth/login HTTP/1.1" 401 32
+INFO 2025-04-20 04:45:09,822 autoreload 73 139848792861568 Watching for file changes with StatReloader
+INFO 2025-04-20 04:45:41,557 autoreload 73 140493290826624 Watching for file changes with StatReloader
+INFO 2025-04-20 04:46:37,916 autoreload 73 140493290826624 /usr/src/app/app/migrations/0002_vector.py changed, reloading.
+INFO 2025-04-20 04:46:38,852 autoreload 156 140551927778176 Watching for file changes with StatReloader
+WARNING 2025-04-20 04:47:15,161 log 156 140550898915008 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:47:15,161 basehttp 156 140550898915008 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:47:18,947 log 156 140550898915008 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:47:18,948 basehttp 156 140550898915008 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:47:33,857 log 156 140550898915008 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:47:33,857 basehttp 156 140550898915008 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:47:35,969 log 156 140550898915008 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:47:35,970 basehttp 156 140550898915008 "POST /api/auth/login HTTP/1.1" 401 32
+INFO 2025-04-20 04:48:17,874 autoreload 156 140551927778176 /usr/src/app/app/utils/permissions.py changed, reloading.
+INFO 2025-04-20 04:48:18,801 autoreload 207 139760386087808 Watching for file changes with StatReloader
+INFO 2025-04-20 04:48:29,769 autoreload 207 139760386087808 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 04:48:30,609 autoreload 230 140242931035008 Watching for file changes with StatReloader
+INFO 2025-04-20 04:48:32,470 autoreload 230 140242931035008 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 04:48:33,368 autoreload 253 139739522222976 Watching for file changes with StatReloader
+INFO 2025-04-20 04:48:35,223 autoreload 253 139739522222976 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 04:48:36,071 autoreload 276 140318983912320 Watching for file changes with StatReloader
+WARNING 2025-04-20 04:48:42,294 log 276 140317954291392 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:48:42,294 basehttp 276 140317954291392 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:48:43,625 log 276 140317954291392 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:48:43,625 basehttp 276 140317954291392 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:48:45,357 log 276 140317954291392 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:48:45,357 basehttp 276 140317954291392 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:48:49,544 log 276 140317954291392 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:48:49,544 basehttp 276 140317954291392 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:48:54,609 log 276 140317954291392 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:48:54,609 basehttp 276 140317954291392 "POST /api/auth/login HTTP/1.1" 401 32
+INFO 2025-04-20 04:49:25,558 autoreload 276 140318983912320 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 04:49:26,509 autoreload 300 139845875202944 Watching for file changes with StatReloader
+WARNING 2025-04-20 04:49:27,936 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:49:27,936 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:49:29,480 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:49:29,480 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:49:48,747 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:49:48,747 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:50:02,965 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:50:02,965 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:50:04,262 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:50:04,262 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:50:05,007 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:50:05,008 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:50:05,547 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:50:05,548 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:50:06,116 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:50:06,117 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:50:06,686 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:50:06,686 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:51:46,553 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:51:46,553 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:51:59,620 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:51:59,621 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:00,301 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:00,302 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:01,063 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:01,063 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:02,204 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:02,205 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:02,933 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:02,933 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:04,014 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:04,014 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:05,295 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:05,295 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:06,426 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:06,427 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:07,436 log 300 139844846556864 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:07,436 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 401 32
+INFO 2025-04-20 04:52:27,794 basehttp 300 139844837115584 "OPTIONS /api/auth/login HTTP/1.1" 200 0
+WARNING 2025-04-20 04:52:27,987 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:27,987 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:35,641 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:35,642 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:36,527 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:36,528 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:37,103 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:37,103 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:37,687 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:37,687 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:38,223 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:38,223 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:38,923 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:38,923 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:39,508 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:39,509 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:40,064 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:40,064 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+WARNING 2025-04-20 04:52:40,773 log 300 139844837115584 Unauthorized: /api/auth/login
+WARNING 2025-04-20 04:52:40,773 basehttp 300 139844837115584 "POST /api/auth/login HTTP/1.1" 401 32
+INFO 2025-04-20 04:53:02,315 basehttp 300 139844837115584 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-04-20 04:53:02,330 basehttp 300 139844837115584 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4165
+INFO 2025-04-20 04:53:02,486 basehttp 300 139844837115584 "GET /static/admin/css/base.css HTTP/1.1" 200 22092
+INFO 2025-04-20 04:53:02,505 basehttp 300 139844837115584 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+INFO 2025-04-20 04:53:02,511 basehttp 300 139844819281600 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-04-20 04:53:02,511 basehttp 300 139844828722880 "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2025-04-20 04:53:02,512 basehttp 300 139844604917440 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+INFO 2025-04-20 04:53:02,512 basehttp 300 139844596524736 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-04-20 04:53:02,524 basehttp 300 139844596524736 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-04-20 04:53:17,764 basehttp 300 139844596524736 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4362
+INFO 2025-04-20 04:53:22,561 basehttp 300 139844596524736 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4362
+INFO 2025-04-20 04:53:25,339 basehttp 300 139844596524736 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4362
+INFO 2025-04-20 04:55:07,113 basehttp 300 139844596524736 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4362
+INFO 2025-04-20 04:55:07,157 basehttp 300 139844596524736 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-20 04:55:07,160 basehttp 300 139844596524736 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-20 04:55:07,196 basehttp 300 139844596524736 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-20 04:55:07,197 basehttp 300 139844819281600 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-20 04:55:07,197 basehttp 300 139844604917440 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-04-20 04:55:07,197 basehttp 300 139844828722880 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-20 04:55:07,234 basehttp 300 139844828722880 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-20 04:55:10,460 basehttp 300 139844828722880 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-04-20 04:55:10,480 basehttp 300 139844828722880 "GET /admin/ HTTP/1.1" 200 7308
+INFO 2025-04-20 04:55:10,565 basehttp 300 139844828722880 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-04-20 04:55:10,623 basehttp 300 139844828722880 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-04-20 04:55:10,625 basehttp 300 139844604917440 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-04-20 04:55:24,637 basehttp 300 139844604917440 "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-04-20 04:55:24,656 basehttp 300 139844604917440 "GET /admin/ HTTP/1.1" 200 7308
+INFO 2025-04-20 04:55:29,127 basehttp 300 139844846556864 "POST /api/auth/login HTTP/1.1" 200 651
+INFO 2025-04-20 04:55:35,829 basehttp 300 139844846556864 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 04:55:35,841 basehttp 300 139844846556864 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 04:55:39,936 basehttp 300 139844846556864 "OPTIONS /api/documents/upload HTTP/1.1" 200 0
+WARNING 2025-04-20 04:55:39,947 log 300 139844846556864 Forbidden: /api/documents/upload
+WARNING 2025-04-20 04:55:39,968 basehttp 300 139844846556864 "POST /api/documents/upload HTTP/1.1" 403 63
+INFO 2025-04-20 04:56:00,085 basehttp 300 139844604917440 "GET /admin/ HTTP/1.1" 200 7308
+INFO 2025-04-20 04:56:01,328 basehttp 300 139844604917440 "GET /admin/app/user/ HTTP/1.1" 200 9558
+INFO 2025-04-20 04:56:01,355 basehttp 300 139844604917440 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2025-04-20 04:56:01,368 basehttp 300 139844604917440 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-04-20 04:56:01,369 basehttp 300 139844837115584 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+INFO 2025-04-20 04:56:01,369 basehttp 300 139844579739328 "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-04-20 04:56:01,371 basehttp 300 139844596524736 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-04-20 04:56:01,374 basehttp 300 139844819281600 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-04-20 04:56:01,383 basehttp 300 139844828722880 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 04:56:01,395 basehttp 300 139844837115584 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-04-20 04:56:01,396 basehttp 300 139844604917440 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-04-20 04:56:01,399 basehttp 300 139844596524736 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-04-20 04:56:01,426 basehttp 300 139844596524736 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-04-20 04:56:01,439 basehttp 300 139844596524736 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-04-20 04:56:02,413 basehttp 300 139844596524736 "GET /admin/app/user/1/change/ HTTP/1.1" 200 23455
+INFO 2025-04-20 04:56:02,445 basehttp 300 139844819281600 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-04-20 04:56:02,445 basehttp 300 139844828722880 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-04-20 04:56:02,446 basehttp 300 139844596524736 "GET /static/admin/css/forms.css HTTP/1.1" 200 8794
+INFO 2025-04-20 04:56:02,446 basehttp 300 139844604917440 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2025-04-20 04:56:02,455 basehttp 300 139844837115584 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 04:56:02,483 basehttp 300 139844837115584 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+INFO 2025-04-20 04:56:02,483 basehttp 300 139844604917440 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-04-20 04:56:02,567 basehttp 300 139844604917440 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2025-04-20 04:56:02,568 basehttp 300 139844837115584 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-04-20 04:56:11,407 basehttp 300 139844604917440 "POST /admin/app/user/1/change/ HTTP/1.1" 302 0
+INFO 2025-04-20 04:56:11,426 basehttp 300 139844604917440 "GET /admin/app/user/ HTTP/1.1" 200 9781
+INFO 2025-04-20 04:56:11,559 basehttp 300 139844604917440 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 04:56:11,568 basehttp 300 139844604917440 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2025-04-20 04:56:13,534 basehttp 300 139844846556864 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 04:56:13,546 basehttp 300 139844588132032 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 04:56:18,433 basehttp 300 139844588132032 "POST /api/documents/upload HTTP/1.1" 201 65
+INFO 2025-04-20 04:56:18,434 tasks 30 140181617625984 Starting chunk extraction for Document ID: 1
+INFO 2025-04-20 04:56:18,457 tasks 30 140181617625984 Document status updated to 'text_extracting' for Document ID: 1
+INFO 2025-04-20 04:56:19,594 tasks 30 140181617625984 Document status updated to 'text_extracted' for Document ID: 1
+INFO 2025-04-20 04:56:19,594 tasks 30 140181617625984 Successfully processed and saved chunks for Document ID: 1
+INFO 2025-04-20 04:56:19,602 tasks 30 140181617625984 Starting summary generation for Document ID: 1
+INFO 2025-04-20 04:56:19,613 tasks 30 140181617625984 Document status updated to 'generating_summary' for Document ID: 1
+INFO 2025-04-20 04:56:19,616 doc_processor 30 140181617625984 Generating title and summary for text: Thomas Hobbes
+
+Thomas Hobbes
+1588-1679 (Westport, England)
+
+• He was abandoned by his father at an early
+
+age; was brought up by his uncle
+
+• He studied at the University of Oxford at 15
+
+years old
+
+• Experienced the turbulent half of the
+
+seventeenth century in England (conflict
+between royalists and Parliamentarians)
+
+• Sought refuge in France because of his
+
+association with the royalist circles (he was
+the tutor to Charles II of Wales) and his
+antiparliamentarian writings
+
+• Hobbes was a defender of an absolute
+
+government
+
+• He wrote the Leviathan (1651) before he
+
+returned to England
+
+https://www.biography.com/scholar/thomas-hobbes
+
+Key Points
+
+• Theory of human nature
+• State of nature and laws of nature
+• The social contract
+• Sovereign power
+• Types of government
+• The right to resist
+
+Key Questions
+
+1. How did Hobbes describe the state of nature?
+2. What is the social contract according to
+
+Thomas Hobbes?
+
+3. What is the difference between the life in the
+INFO 2025-04-20 04:56:19,618 tasks 30 140181617625984 Document status updated to 'summary_generated' for Document ID: 1
+INFO 2025-04-20 04:56:19,618 tasks 30 140181617625984 Summary and title generated for Document ID: 1
+INFO 2025-04-20 04:56:19,632 tasks 30 140181617625984 Document status updated to 'embedding_text' for Document ID: 1
+ERROR 2025-04-20 04:56:19,643 tasks 30 140181617625984 Embedding failed for document 1: model "bge-m3" not found, try pulling it first (status code: 404)
+INFO 2025-04-20 04:56:19,645 tasks 30 140181617625984 Document status updated to 'embedding_text' for Document ID: 1
+INFO 2025-04-20 04:57:19,659 tasks 30 140181617625984 Document status updated to 'embedding_text' for Document ID: 1
+ERROR 2025-04-20 04:57:19,668 tasks 30 140181617625984 Embedding failed for document 1: model "bge-m3" not found, try pulling it first (status code: 404)
+INFO 2025-04-20 04:57:19,684 tasks 30 140181617625984 Document status updated to 'embedding_text' for Document ID: 1
+INFO 2025-04-20 04:59:09,477 basehttp 300 139844604917440 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:59:09,491 basehttp 300 139844828722880 "GET /api/documents HTTP/1.1" 200 338
+INFO 2025-04-20 04:59:10,511 basehttp 300 139844828722880 "OPTIONS /api/documents/1/retry/ HTTP/1.1" 200 0
+INFO 2025-04-20 04:59:10,530 basehttp 300 139844828722880 "POST /api/documents/1/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 04:59:10,540 tasks 30 140181617625984 Document status updated to 'embedding_text' for Document ID: 1
+INFO 2025-04-20 04:59:10,545 basehttp 300 139844828722880 "GET /api/documents HTTP/1.1" 200 339
+INFO 2025-04-20 04:59:13,107 tasks 30 140181617625984 Document status updated to 'completed' for Document ID: 1
+INFO 2025-04-20 04:59:19,700 basehttp 300 139844828722880 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 04:59:19,714 basehttp 300 139844604917440 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 05:00:24,645 basehttp 300 139844604917440 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 05:00:24,659 basehttp 300 139844604917440 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 05:00:42,845 autoreload 300 139845875202944 /usr/src/app/app/utils/doc_processor.py changed, reloading.
+INFO 2025-04-20 05:00:43,798 autoreload 446 140668363336576 Watching for file changes with StatReloader
+INFO 2025-04-20 05:00:51,762 tasks 30 140181617625984 Starting chunk extraction for Document ID: 2
+INFO 2025-04-20 05:00:51,765 basehttp 446 140667333842624 "POST /api/documents/upload HTTP/1.1" 201 65
+INFO 2025-04-20 05:00:51,772 tasks 30 140181617625984 Document status updated to 'text_extracting' for Document ID: 2
+INFO 2025-04-20 05:00:52,784 tasks 30 140181617625984 Document status updated to 'text_extracted' for Document ID: 2
+INFO 2025-04-20 05:00:52,785 tasks 30 140181617625984 Successfully processed and saved chunks for Document ID: 2
+INFO 2025-04-20 05:00:52,788 tasks 30 140181617625984 Starting summary generation for Document ID: 2
+INFO 2025-04-20 05:00:52,797 tasks 30 140181617625984 Document status updated to 'generating_summary' for Document ID: 2
+INFO 2025-04-20 05:00:52,799 doc_processor 30 140181617625984 Generating title and summary for text: Thomas Hobbes
+
+Thomas Hobbes
+1588-1679 (Westport, England)
+
+• He was abandoned by his father at an early
+
+age; was brought up by his uncle
+
+• He studied at the University of Oxford at 15
+
+years old
+
+• Experienced the turbulent half of the
+
+seventeenth century in England (conflict
+between royalists and Parliamentarians)
+
+• Sought refuge in France because of his
+
+association with the royalist circles (he was
+the tutor to Charles II of Wales) and his
+antiparliamentarian writings
+
+• Hobbes was a defender of an absolute
+
+government
+
+• He wrote the Leviathan (1651) before he
+
+returned to England
+
+https://www.biography.com/scholar/thomas-hobbes
+
+Key Points
+
+• Theory of human nature
+• State of nature and laws of nature
+• The social contract
+• Sovereign power
+• Types of government
+• The right to resist
+
+Key Questions
+
+1. How did Hobbes describe the state of nature?
+2. What is the social contract according to
+
+Thomas Hobbes?
+
+3. What is the difference between the life in the
+INFO 2025-04-20 05:00:52,802 tasks 30 140181617625984 Document status updated to 'summary_generated' for Document ID: 2
+INFO 2025-04-20 05:00:52,802 tasks 30 140181617625984 Summary and title generated for Document ID: 2
+INFO 2025-04-20 05:00:52,815 tasks 30 140181617625984 Document status updated to 'embedding_text' for Document ID: 2
+INFO 2025-04-20 05:00:53,244 tasks 30 140181617625984 Document status updated to 'completed' for Document ID: 2
+INFO 2025-04-20 05:01:02,968 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 667
+INFO 2025-04-20 05:01:02,984 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 667
+INFO 2025-04-20 05:01:04,756 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 667
+INFO 2025-04-20 05:01:04,770 basehttp 446 140667321255616 "GET /api/documents HTTP/1.1" 200 667
+INFO 2025-04-20 05:01:09,644 basehttp 446 140667321255616 "GET /api/documents HTTP/1.1" 200 667
+INFO 2025-04-20 05:01:09,969 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 667
+INFO 2025-04-20 05:01:10,559 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 667
+INFO 2025-04-20 05:01:10,571 basehttp 446 140667321255616 "GET /api/documents HTTP/1.1" 200 667
+INFO 2025-04-20 05:01:11,212 basehttp 446 140667321255616 "OPTIONS /api/documents/2/delete HTTP/1.1" 200 0
+INFO 2025-04-20 05:01:11,238 documents 446 140667321255616 Task 5008c39a-58a0-4469-887d-c30ceff930a3 revoked successfully
+INFO 2025-04-20 05:01:11,243 documents 446 140667321255616 Document deleted successfully: 2
+INFO 2025-04-20 05:01:11,244 basehttp 446 140667321255616 "DELETE /api/documents/2/delete HTTP/1.1" 200 62
+INFO 2025-04-20 05:01:12,174 basehttp 446 140667321255616 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 05:01:12,190 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 05:01:12,855 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 05:01:12,870 basehttp 446 140667321255616 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 05:01:13,498 documents 446 140667321255616 Task 19fbd630-5754-4c60-80a4-7b8eb719a6cc revoked successfully
+INFO 2025-04-20 05:01:13,504 documents 446 140667321255616 Document deleted successfully: 1
+INFO 2025-04-20 05:01:13,504 basehttp 446 140667321255616 "DELETE /api/documents/1/delete HTTP/1.1" 200 62
+INFO 2025-04-20 05:01:13,984 basehttp 446 140667321255616 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 05:01:13,996 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 05:01:14,408 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 05:01:14,420 basehttp 446 140667321255616 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 05:01:19,347 tasks 30 140181617625984 Starting chunk extraction for Document ID: 3
+INFO 2025-04-20 05:01:19,348 basehttp 446 140667333842624 "POST /api/documents/upload HTTP/1.1" 201 65
+INFO 2025-04-20 05:01:19,357 tasks 30 140181617625984 Document status updated to 'text_extracting' for Document ID: 3
+INFO 2025-04-20 05:01:20,333 tasks 30 140181617625984 Document status updated to 'text_extracted' for Document ID: 3
+INFO 2025-04-20 05:01:20,333 tasks 30 140181617625984 Successfully processed and saved chunks for Document ID: 3
+INFO 2025-04-20 05:01:20,335 tasks 30 140181617625984 Starting summary generation for Document ID: 3
+INFO 2025-04-20 05:01:20,344 tasks 30 140181617625984 Document status updated to 'generating_summary' for Document ID: 3
+INFO 2025-04-20 05:01:20,346 doc_processor 30 140181617625984 Generating title and summary for text: Thomas Hobbes
+
+Thomas Hobbes
+1588-1679 (Westport, England)
+
+• He was abandoned by his father at an early
+
+age; was brought up by his uncle
+
+• He studied at the University of Oxford at 15
+
+years old
+
+• Experienced the turbulent half of the
+
+seventeenth century in England (conflict
+between royalists and Parliamentarians)
+
+• Sought refuge in France because of his
+
+association with the royalist circles (he was
+the tutor to Charles II of Wales) and his
+antiparliamentarian writings
+
+• Hobbes was a defender of an absolute
+
+government
+
+• He wrote the Leviathan (1651) before he
+
+returned to England
+
+https://www.biography.com/scholar/thomas-hobbes
+
+Key Points
+
+• Theory of human nature
+• State of nature and laws of nature
+• The social contract
+• Sovereign power
+• Types of government
+• The right to resist
+
+Key Questions
+
+1. How did Hobbes describe the state of nature?
+2. What is the social contract according to
+
+Thomas Hobbes?
+
+3. What is the difference between the life in the
+INFO 2025-04-20 05:01:20,347 tasks 30 140181617625984 Document status updated to 'summary_generated' for Document ID: 3
+INFO 2025-04-20 05:01:20,347 tasks 30 140181617625984 Summary and title generated for Document ID: 3
+INFO 2025-04-20 05:01:20,359 tasks 30 140181617625984 Document status updated to 'embedding_text' for Document ID: 3
+INFO 2025-04-20 05:01:20,793 tasks 30 140181617625984 Document status updated to 'completed' for Document ID: 3
+INFO 2025-04-20 05:01:27,179 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 05:01:27,193 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 334
+INFO 2025-04-20 05:01:28,057 basehttp 446 140667321255616 "OPTIONS /api/documents/3/delete HTTP/1.1" 200 0
+INFO 2025-04-20 05:01:28,073 documents 446 140667321255616 Task 54f338a4-f4b7-431b-af95-fae526c140bd revoked successfully
+INFO 2025-04-20 05:01:28,080 documents 446 140667321255616 Document deleted successfully: 3
+INFO 2025-04-20 05:01:28,080 basehttp 446 140667321255616 "DELETE /api/documents/3/delete HTTP/1.1" 200 62
+INFO 2025-04-20 05:01:28,820 basehttp 446 140667321255616 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 05:01:28,833 basehttp 446 140667333842624 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 05:02:14,002 autoreload 73 140705187416960 Watching for file changes with StatReloader
+INFO 2025-04-20 05:02:33,910 basehttp 73 140704158398144 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 05:02:33,924 basehttp 73 140704150005440 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 05:02:38,664 tasks 30 140360035326848 Starting chunk extraction for Document ID: 4
+INFO 2025-04-20 05:02:38,664 basehttp 73 140704150005440 "POST /api/documents/upload HTTP/1.1" 201 65
+INFO 2025-04-20 05:02:38,685 tasks 30 140360035326848 Document status updated to 'text_extracting' for Document ID: 4
+INFO 2025-04-20 05:02:39,813 tasks 30 140360035326848 Document status updated to 'text_extracted' for Document ID: 4
+INFO 2025-04-20 05:02:39,813 tasks 30 140360035326848 Successfully processed and saved chunks for Document ID: 4
+INFO 2025-04-20 05:02:39,821 tasks 30 140360035326848 Starting summary generation for Document ID: 4
+INFO 2025-04-20 05:02:39,832 tasks 30 140360035326848 Document status updated to 'generating_summary' for Document ID: 4
+INFO 2025-04-20 05:02:39,835 doc_processor 30 140360035326848 Generating title and summary for text: Thomas Hobbes
+
+Thomas Hobbes
+1588-1679 (Westport, England)
+
+• He was abandoned by his father at an early
+
+age; was brought up by his uncle
+
+• He studied at the University of Oxford at 15
+
+years old
+
+• Experienced the turbulent half of the
+
+seventeenth century in England (conflict
+between royalists and Parliamentarians)
+
+• Sought refuge in France because of his
+
+association with the royalist circles (he was
+the tutor to Charles II of Wales) and his
+antiparliamentarian writings
+
+• Hobbes was a defender of an absolute
+
+government
+
+• He wrote the Leviathan (1651) before he
+
+returned to England
+
+https://www.biography.com/scholar/thomas-hobbes
+
+Key Points
+
+• Theory of human nature
+• State of nature and laws of nature
+• The social contract
+• Sovereign power
+• Types of government
+• The right to resist
+
+Key Questions
+
+1. How did Hobbes describe the state of nature?
+2. What is the social contract according to
+
+Thomas Hobbes?
+
+3. What is the difference between the life in the
+INFO 2025-04-20 05:02:43,415 doc_processor 30 140360035326848 Title and summary generated successfully.
+INFO 2025-04-20 05:02:43,431 tasks 30 140360035326848 Document status updated to 'generating_summary' for Document ID: 4
+ERROR 2025-04-20 05:02:43,431 tasks 30 140360035326848 Summary generation failed for Document ID 4: 'TitleSummary' object is not subscriptable
+INFO 2025-04-20 05:02:55,464 autoreload 73 140705187416960 /usr/src/app/app/utils/doc_processor.py changed, reloading.
+INFO 2025-04-20 05:02:56,413 autoreload 98 140014240279424 Watching for file changes with StatReloader
+INFO 2025-04-20 05:03:00,048 basehttp 98 140013210842816 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 05:03:00,063 basehttp 98 140013202450112 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 05:03:01,163 basehttp 98 140013202450112 "OPTIONS /api/documents/4/retry/ HTTP/1.1" 200 0
+INFO 2025-04-20 05:03:01,221 tasks 30 140360035326848 Starting summary generation for Document ID: 4
+INFO 2025-04-20 05:03:01,223 basehttp 98 140013202450112 "POST /api/documents/4/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 05:03:01,230 tasks 30 140360035326848 Document status updated to 'generating_summary' for Document ID: 4
+INFO 2025-04-20 05:03:01,233 doc_processor 30 140360035326848 Generating title and summary for text: Thomas Hobbes
+
+Thomas Hobbes
+1588-1679 (Westport, England)
+
+• He was abandoned by his father at an early
+
+age; was brought up by his uncle
+
+• He studied at the University of Oxford at 15
+
+years old
+
+• Experienced the turbulent half of the
+
+seventeenth century in England (conflict
+between royalists and Parliamentarians)
+
+• Sought refuge in France because of his
+
+association with the royalist circles (he was
+the tutor to Charles II of Wales) and his
+antiparliamentarian writings
+
+• Hobbes was a defender of an absolute
+
+government
+
+• He wrote the Leviathan (1651) before he
+
+returned to England
+
+https://www.biography.com/scholar/thomas-hobbes
+
+Key Points
+
+• Theory of human nature
+• State of nature and laws of nature
+• The social contract
+• Sovereign power
+• Types of government
+• The right to resist
+
+Key Questions
+
+1. How did Hobbes describe the state of nature?
+2. What is the social contract according to
+
+Thomas Hobbes?
+
+3. What is the difference between the life in the
+INFO 2025-04-20 05:03:01,237 basehttp 98 140013202450112 "GET /api/documents HTTP/1.1" 200 359
+INFO 2025-04-20 05:03:01,911 doc_processor 30 140360035326848 Title and summary generated successfully.
+INFO 2025-04-20 05:03:01,913 tasks 30 140360035326848 Document status updated to 'generating_summary' for Document ID: 4
+ERROR 2025-04-20 05:03:01,913 tasks 30 140360035326848 Summary generation failed for Document ID 4: 'TitleSummary' object is not subscriptable
+INFO 2025-04-20 05:03:03,709 basehttp 98 140013202450112 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 05:03:03,723 basehttp 98 140013210842816 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 05:03:17,718 autoreload 73 140367399181184 Watching for file changes with StatReloader
+INFO 2025-04-20 05:03:21,180 basehttp 73 140366370043584 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 05:03:21,193 basehttp 73 140366370043584 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 05:03:24,368 basehttp 73 140366370043584 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 05:03:24,382 basehttp 73 140366361650880 "GET /api/documents HTTP/1.1" 200 358
+INFO 2025-04-20 05:03:25,143 tasks 30 140113883831168 Starting summary generation for Document ID: 4
+INFO 2025-04-20 05:03:25,145 basehttp 73 140366361650880 "POST /api/documents/4/retry/ HTTP/1.1" 200 111
+INFO 2025-04-20 05:03:25,161 basehttp 73 140366361650880 "GET /api/documents HTTP/1.1" 200 359
+INFO 2025-04-20 05:03:25,165 tasks 30 140113883831168 Document status updated to 'generating_summary' for Document ID: 4
+INFO 2025-04-20 05:03:25,169 doc_processor 30 140113883831168 Generating title and summary for text: Thomas Hobbes
+
+Thomas Hobbes
+1588-1679 (Westport, England)
+
+• He was abandoned by his father at an early
+
+age; was brought up by his uncle
+
+• He studied at the University of Oxford at 15
+
+years old
+
+• Experienced the turbulent half of the
+
+seventeenth century in England (conflict
+between royalists and Parliamentarians)
+
+• Sought refuge in France because of his
+
+association with the royalist circles (he was
+the tutor to Charles II of Wales) and his
+antiparliamentarian writings
+
+• Hobbes was a defender of an absolute
+
+government
+
+• He wrote the Leviathan (1651) before he
+
+returned to England
+
+https://www.biography.com/scholar/thomas-hobbes
+
+Key Points
+
+• Theory of human nature
+• State of nature and laws of nature
+• The social contract
+• Sovereign power
+• Types of government
+• The right to resist
+
+Key Questions
+
+1. How did Hobbes describe the state of nature?
+2. What is the social contract according to
+
+Thomas Hobbes?
+
+3. What is the difference between the life in the
+INFO 2025-04-20 05:03:27,761 doc_processor 30 140113883831168 Title and summary generated successfully.
+INFO 2025-04-20 05:03:27,777 tasks 30 140113883831168 Document status updated to 'summary_generated' for Document ID: 4
+INFO 2025-04-20 05:03:27,777 tasks 30 140113883831168 Summary and title generated for Document ID: 4
+INFO 2025-04-20 05:03:27,795 tasks 30 140113883831168 Document status updated to 'embedding_text' for Document ID: 4
+INFO 2025-04-20 05:03:29,875 tasks 30 140113883831168 Document status updated to 'completed' for Document ID: 4
+INFO 2025-04-20 05:03:33,133 basehttp 73 140366370043584 "GET /api/documents HTTP/1.1" 200 709
+INFO 2025-04-20 05:03:33,148 basehttp 73 140366361650880 "GET /api/documents HTTP/1.1" 200 709
+INFO 2025-04-20 05:03:43,441 tasks 30 140113883831168 Starting summary generation for Document ID: 4
+INFO 2025-04-20 05:03:43,465 tasks 30 140113883831168 Document status updated to 'generating_summary' for Document ID: 4
+INFO 2025-04-20 05:03:43,468 doc_processor 30 140113883831168 Generating title and summary for text: Thomas Hobbes
+
+Thomas Hobbes
+1588-1679 (Westport, England)
+
+• He was abandoned by his father at an early
+
+age; was brought up by his uncle
+
+• He studied at the University of Oxford at 15
+
+years old
+
+• Experienced the turbulent half of the
+
+seventeenth century in England (conflict
+between royalists and Parliamentarians)
+
+• Sought refuge in France because of his
+
+association with the royalist circles (he was
+the tutor to Charles II of Wales) and his
+antiparliamentarian writings
+
+• Hobbes was a defender of an absolute
+
+government
+
+• He wrote the Leviathan (1651) before he
+
+returned to England
+
+https://www.biography.com/scholar/thomas-hobbes
+
+Key Points
+
+• Theory of human nature
+• State of nature and laws of nature
+• The social contract
+• Sovereign power
+• Types of government
+• The right to resist
+
+Key Questions
+
+1. How did Hobbes describe the state of nature?
+2. What is the social contract according to
+
+Thomas Hobbes?
+
+3. What is the difference between the life in the
+INFO 2025-04-20 05:03:44,298 doc_processor 30 140113883831168 Title and summary generated successfully.
+INFO 2025-04-20 05:03:44,315 tasks 30 140113883831168 Document status updated to 'summary_generated' for Document ID: 4
+INFO 2025-04-20 05:03:44,315 tasks 30 140113883831168 Summary and title generated for Document ID: 4
+INFO 2025-04-20 05:03:44,326 tasks 30 140113883831168 Document status updated to 'embedding_text' for Document ID: 4
+INFO 2025-04-20 05:03:44,598 tasks 30 140113883831168 Document status updated to 'completed' for Document ID: 4
+INFO 2025-04-20 05:03:51,067 basehttp 73 140366361650880 "GET /admin/app/user/ HTTP/1.1" 200 9558
+INFO 2025-04-20 05:03:51,094 basehttp 73 140366361650880 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,099 basehttp 73 140366349063872 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,100 basehttp 73 140366370043584 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,102 basehttp 73 140366340671168 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,104 basehttp 73 140366323885760 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,104 basehttp 73 140366349063872 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,105 basehttp 73 140366332278464 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,106 basehttp 73 140366340671168 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,107 basehttp 73 140366370043584 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,107 basehttp 73 140366349063872 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,109 basehttp 73 140366323885760 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,110 basehttp 73 140366332278464 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,110 basehttp 73 140366340671168 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,110 basehttp 73 140366370043584 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,119 basehttp 73 140366361650880 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 05:03:51,238 basehttp 73 140366361650880 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,239 basehttp 73 140366370043584 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,245 basehttp 73 140366370043584 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:51,245 basehttp 73 140366361650880 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:52,369 basehttp 73 140366361650880 "GET /admin/app/document/ HTTP/1.1" 200 9552
+INFO 2025-04-20 05:03:52,407 basehttp 73 140366361650880 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 05:03:53,385 basehttp 73 140366370043584 "GET /admin/app/document/4/change/ HTTP/1.1" 200 16586
+INFO 2025-04-20 05:03:53,418 basehttp 73 140366370043584 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:53,449 basehttp 73 140366370043584 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 05:03:53,463 basehttp 73 140366361650880 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:53,466 basehttp 73 140366361650880 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:53,469 basehttp 73 140366361650880 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:53,481 basehttp 73 140366340671168 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-04-20 05:03:53,483 basehttp 73 140366361650880 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2025-04-20 05:03:53,483 basehttp 73 140366370043584 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2025-04-20 05:04:01,916 tasks 30 140113883831168 Starting summary generation for Document ID: 4
+INFO 2025-04-20 05:04:01,939 tasks 30 140113883831168 Document status updated to 'generating_summary' for Document ID: 4
+INFO 2025-04-20 05:04:01,941 doc_processor 30 140113883831168 Generating title and summary for text: Thomas Hobbes
+
+Thomas Hobbes
+1588-1679 (Westport, England)
+
+• He was abandoned by his father at an early
+
+age; was brought up by his uncle
+
+• He studied at the University of Oxford at 15
+
+years old
+
+• Experienced the turbulent half of the
+
+seventeenth century in England (conflict
+between royalists and Parliamentarians)
+
+• Sought refuge in France because of his
+
+association with the royalist circles (he was
+the tutor to Charles II of Wales) and his
+antiparliamentarian writings
+
+• Hobbes was a defender of an absolute
+
+government
+
+• He wrote the Leviathan (1651) before he
+
+returned to England
+
+https://www.biography.com/scholar/thomas-hobbes
+
+Key Points
+
+• Theory of human nature
+• State of nature and laws of nature
+• The social contract
+• Sovereign power
+• Types of government
+• The right to resist
+
+Key Questions
+
+1. How did Hobbes describe the state of nature?
+2. What is the social contract according to
+
+Thomas Hobbes?
+
+3. What is the difference between the life in the
+INFO 2025-04-20 05:04:02,828 doc_processor 30 140113883831168 Title and summary generated successfully.
+INFO 2025-04-20 05:04:02,846 tasks 30 140113883831168 Document status updated to 'summary_generated' for Document ID: 4
+INFO 2025-04-20 05:04:02,846 tasks 30 140113883831168 Summary and title generated for Document ID: 4
+INFO 2025-04-20 05:04:02,858 tasks 30 140113883831168 Document status updated to 'embedding_text' for Document ID: 4
+INFO 2025-04-20 05:04:03,183 tasks 30 140113883831168 Document status updated to 'completed' for Document ID: 4
+INFO 2025-04-20 05:04:03,452 basehttp 73 140366370043584 "GET /admin/app/documentchunk/ HTTP/1.1" 200 12058
+INFO 2025-04-20 05:04:03,488 basehttp 73 140366370043584 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 05:04:04,809 basehttp 73 140366370043584 "GET /admin/app/documentchunk/36/change/ HTTP/1.1" 200 12019
+INFO 2025-04-20 05:04:04,851 basehttp 73 140366370043584 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 05:04:06,440 basehttp 73 140366370043584 "GET /admin/app/documentchunk/ HTTP/1.1" 200 12058
+INFO 2025-04-20 05:04:07,378 basehttp 73 140366370043584 "GET /admin/app/documentchunk/28/change/ HTTP/1.1" 200 12705
+INFO 2025-04-20 05:04:07,414 basehttp 73 140366370043584 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 05:04:09,120 basehttp 73 140366361650880 "GET /admin/app/documentchunk/ HTTP/1.1" 200 12058
+INFO 2025-04-20 05:04:10,635 basehttp 73 140366361650880 "GET /admin/app/document/4/change/ HTTP/1.1" 200 16586
+INFO 2025-04-20 05:05:30,892 basehttp 73 140366361650880 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:05:30,906 basehttp 73 140366370043584 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:06:07,548 basehttp 73 140366361650880 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:06:07,563 basehttp 73 140366370043584 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:06:11,886 basehttp 73 140366370043584 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:06:11,899 basehttp 73 140366361650880 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:06:13,421 basehttp 73 140366361650880 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:06:13,436 basehttp 73 140366370043584 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:06:40,331 autoreload 73 140367399181184 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 05:06:41,445 autoreload 118 140262498286464 Watching for file changes with StatReloader
+INFO 2025-04-20 05:06:43,726 basehttp 118 140261468870336 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:06:43,739 basehttp 118 140261460477632 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:13:52,642 autoreload 118 140262498286464 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 05:13:53,887 autoreload 143 140570467601280 Watching for file changes with StatReloader
+INFO 2025-04-20 05:13:59,904 autoreload 143 140570467601280 /usr/src/app/app/serializers.py changed, reloading.
+INFO 2025-04-20 05:14:00,904 autoreload 166 140363178126208 Watching for file changes with StatReloader
+INFO 2025-04-20 05:14:14,917 autoreload 166 140363178126208 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 05:14:16,017 autoreload 189 140018680896384 Watching for file changes with StatReloader
+INFO 2025-04-20 05:14:29,969 autoreload 189 140018680896384 /usr/src/app/app/urls.py changed, reloading.
+INFO 2025-04-20 05:14:30,908 autoreload 212 139803691514752 Watching for file changes with StatReloader
+INFO 2025-04-20 05:14:43,832 autoreload 212 139803691514752 /usr/src/app/inteldocs/settings.py changed, reloading.
+INFO 2025-04-20 05:14:44,759 autoreload 235 140168196017024 Watching for file changes with StatReloader
+INFO 2025-04-20 05:14:57,682 autoreload 235 140168196017024 /usr/src/app/inteldocs/urls.py changed, reloading.
+INFO 2025-04-20 05:14:58,690 autoreload 258 140661318765440 Watching for file changes with StatReloader
+INFO 2025-04-20 05:16:53,845 autoreload 258 140661318765440 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 05:16:55,166 autoreload 281 139916756433792 Watching for file changes with StatReloader
+INFO 2025-04-20 05:17:06,209 autoreload 281 139916756433792 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 05:17:07,115 autoreload 304 140400256498560 Watching for file changes with StatReloader
+INFO 2025-04-20 05:17:23,061 autoreload 304 140400256498560 /usr/src/app/app/serializers.py changed, reloading.
+INFO 2025-04-20 05:17:24,005 autoreload 327 140082443090816 Watching for file changes with StatReloader
+INFO 2025-04-20 05:18:21,747 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:18:21,760 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:18:28,189 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:18:28,202 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:19:12,832 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:19:12,845 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:28:27,484 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:28:27,501 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:28:28,372 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:28:28,386 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:28:28,583 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:28:28,602 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:28:28,826 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:28:28,838 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:28:33,317 basehttp 327 140081413691072 "OPTIONS /api/auth/profile HTTP/1.1" 200 0
+INFO 2025-04-20 05:28:33,333 basehttp 327 140081413691072 "PATCH /api/auth/profile HTTP/1.1" 200 180
+INFO 2025-04-20 05:38:50,109 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:38:50,122 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:38:53,165 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:38:53,178 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:38:57,562 basehttp 327 140081413691072 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:38:57,574 basehttp 327 140081405298368 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 05:43:08,308 autoreload 327 140082443090816 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 05:43:09,650 autoreload 410 139659501837184 Watching for file changes with StatReloader
+INFO 2025-04-20 05:43:22,750 autoreload 410 139659501837184 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 05:43:23,716 autoreload 433 140141276896128 Watching for file changes with StatReloader
+INFO 2025-04-20 05:43:41,699 autoreload 433 140141276896128 /usr/src/app/app/serializers.py changed, reloading.
+INFO 2025-04-20 05:43:42,707 autoreload 456 140383547693952 Watching for file changes with StatReloader
+INFO 2025-04-20 05:47:37,015 autoreload 456 140383547693952 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 05:47:38,005 autoreload 506 140598764481408 Watching for file changes with StatReloader
+INFO 2025-04-20 05:48:13,942 basehttp 506 140597735339712 "POST /api/auth/login HTTP/1.1" 200 684
+WARNING 2025-04-20 05:48:18,793 log 506 140597735339712 Unsupported Media Type: /api/auth/profile
+WARNING 2025-04-20 05:48:18,794 basehttp 506 140597735339712 "PATCH /api/auth/profile HTTP/1.1" 415 68
+INFO 2025-04-20 05:48:26,789 basehttp 506 140597735339712 "PATCH /api/auth/profile HTTP/1.1" 200 262
+INFO 2025-04-20 05:48:26,820 basehttp 506 140597720217280 "GET /media/avatars/fe0b3646-22f9-428b-8c4c-68d1b0d47354.png HTTP/1.1" 200 1920845
+INFO 2025-04-20 05:48:30,724 basehttp 506 140597720217280 "GET /media/avatars/fe0b3646-22f9-428b-8c4c-68d1b0d47354.png HTTP/1.1" 304 0
+WARNING 2025-04-20 05:48:33,347 log 506 140597735339712 Unsupported Media Type: /api/auth/profile
+WARNING 2025-04-20 05:48:33,347 basehttp 506 140597735339712 "PATCH /api/auth/profile HTTP/1.1" 415 68
+INFO 2025-04-20 05:49:14,671 basehttp 506 140597720217280 "GET /media/avatars/fe0b3646-22f9-428b-8c4c-68d1b0d47354.png HTTP/1.1" 304 0
+WARNING 2025-04-20 05:49:18,249 log 506 140597735339712 Unsupported Media Type: /api/auth/profile
+WARNING 2025-04-20 05:49:18,250 basehttp 506 140597735339712 "PATCH /api/auth/profile HTTP/1.1" 415 68
+INFO 2025-04-20 05:49:22,912 basehttp 506 140597735339712 "PATCH /api/auth/profile HTTP/1.1" 200 257
+INFO 2025-04-20 05:49:22,930 basehttp 506 140597720217280 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 200 1920845
+INFO 2025-04-20 05:49:25,136 basehttp 506 140597720217280 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+INFO 2025-04-20 05:49:25,855 basehttp 506 140597720217280 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+INFO 2025-04-20 05:49:33,445 autoreload 506 140598764481408 /usr/src/app/app/migrations/convert_favorite_models.py changed, reloading.
+INFO 2025-04-20 05:49:34,742 autoreload 612 140025812437888 Watching for file changes with StatReloader
+INFO 2025-04-20 05:54:21,823 basehttp 612 140024782780096 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+INFO 2025-04-20 05:54:24,796 basehttp 612 140024774387392 "PATCH /api/auth/profile HTTP/1.1" 200 257
+INFO 2025-04-20 05:54:28,969 basehttp 612 140024774387392 "PATCH /api/auth/profile HTTP/1.1" 200 262
+INFO 2025-04-20 05:54:32,100 basehttp 612 140024774387392 "PATCH /api/auth/profile HTTP/1.1" 200 262
+INFO 2025-04-20 05:54:36,274 basehttp 612 140024774387392 "POST /api/auth/login HTTP/1.1" 200 764
+INFO 2025-04-20 05:54:57,830 basehttp 612 140024782780096 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+INFO 2025-04-20 05:55:01,982 basehttp 612 140024774387392 "PATCH /api/auth/profile HTTP/1.1" 200 282
+INFO 2025-04-20 05:55:11,070 basehttp 612 140024774387392 "PATCH /api/auth/profile HTTP/1.1" 200 282
+INFO 2025-04-20 05:55:15,989 basehttp 612 140024774387392 "PATCH /api/auth/profile HTTP/1.1" 200 282
+INFO 2025-04-20 05:55:19,571 basehttp 612 140024774387392 "PATCH /api/auth/profile HTTP/1.1" 200 282
+INFO 2025-04-20 05:55:53,702 basehttp 612 140024782780096 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+INFO 2025-04-20 05:56:04,969 basehttp 612 140024774387392 "PATCH /api/auth/profile HTTP/1.1" 200 282
+INFO 2025-04-20 05:57:05,320 autoreload 612 140025812437888 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 05:57:06,296 autoreload 637 140203633937280 Watching for file changes with StatReloader
+INFO 2025-04-20 05:57:07,359 basehttp 637 140202606008000 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+WARNING 2025-04-20 05:57:09,217 log 637 140202596566720 Bad Request: /api/auth/profile
+WARNING 2025-04-20 05:57:09,217 basehttp 637 140202596566720 "PATCH /api/auth/profile HTTP/1.1" 400 101
+WARNING 2025-04-20 05:57:13,264 log 637 140202596566720 Bad Request: /api/auth/profile
+WARNING 2025-04-20 05:57:13,265 basehttp 637 140202596566720 "PATCH /api/auth/profile HTTP/1.1" 400 101
+INFO 2025-04-20 05:57:23,789 autoreload 637 140203633937280 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 05:57:24,723 autoreload 662 140562089556864 Watching for file changes with StatReloader
+WARNING 2025-04-20 05:57:29,281 log 662 140561059149504 Bad Request: /api/auth/profile
+WARNING 2025-04-20 05:57:29,281 basehttp 662 140561059149504 "PATCH /api/auth/profile HTTP/1.1" 400 101
+INFO 2025-04-20 05:58:19,077 basehttp 662 140561059149504 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+WARNING 2025-04-20 05:58:20,619 log 662 140561050756800 Bad Request: /api/auth/profile
+WARNING 2025-04-20 05:58:20,619 basehttp 662 140561050756800 "PATCH /api/auth/profile HTTP/1.1" 400 101
+WARNING 2025-04-20 05:58:24,657 log 662 140561050756800 Bad Request: /api/auth/profile
+WARNING 2025-04-20 05:58:24,657 basehttp 662 140561050756800 "PATCH /api/auth/profile HTTP/1.1" 400 101
+WARNING 2025-04-20 05:58:49,000 log 662 140561050756800 Bad Request: /api/auth/profile
+WARNING 2025-04-20 05:58:49,000 basehttp 662 140561050756800 "PATCH /api/auth/profile HTTP/1.1" 400 101
+INFO 2025-04-20 06:01:28,389 autoreload 662 140562089556864 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:01:29,348 autoreload 688 139800745388928 Watching for file changes with StatReloader
+INFO 2025-04-20 06:01:43,765 autoreload 688 139800745388928 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:01:44,761 autoreload 711 139722807606144 Watching for file changes with StatReloader
+INFO 2025-04-20 06:01:55,658 autoreload 711 139722807606144 /usr/src/app/app/serializers.py changed, reloading.
+INFO 2025-04-20 06:01:56,674 autoreload 734 140263365831552 Watching for file changes with StatReloader
+INFO 2025-04-20 06:02:12,634 autoreload 734 140263365831552 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:02:14,053 autoreload 757 139703280671616 Watching for file changes with StatReloader
+INFO 2025-04-20 06:02:27,984 autoreload 757 139703280671616 /usr/src/app/app/migrations/convert_favorite_models.py changed, reloading.
+INFO 2025-04-20 06:02:28,957 autoreload 780 140087848704896 Watching for file changes with StatReloader
+INFO 2025-04-20 06:02:48,412 autoreload 780 140087848704896 /usr/src/app/app/migrations/convert_favorite_models.py changed, reloading.
+INFO 2025-04-20 06:02:49,353 autoreload 803 139678701169536 Watching for file changes with StatReloader
+INFO 2025-04-20 06:06:09,075 autoreload 803 139678701169536 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:06:10,396 autoreload 880 139756550372224 Watching for file changes with StatReloader
+INFO 2025-04-20 06:07:20,689 autoreload 880 139756550372224 /usr/src/app/app/migrations/0004_merge_20250420_0547.py changed, reloading.
+INFO 2025-04-20 06:07:22,079 autoreload 903 140049896463232 Watching for file changes with StatReloader
+INFO 2025-04-20 06:07:49,092 0005_convert_favorite_models 980 140099973393280 User 1 already has valid JSON: ["llama3.2:1b"]
+INFO 2025-04-20 06:07:51,912 basehttp 903 140048866940608 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+INFO 2025-04-20 06:07:55,803 auth 903 140048857499328 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["llama3.2:1b","deepseek-r1:1.5b"]']}>
+INFO 2025-04-20 06:07:55,803 auth 903 140048857499328 favorite_llm_models raw value: ["llama3.2:1b","deepseek-r1:1.5b"]
+ERROR 2025-04-20 06:07:55,806 auth 903 140048857499328 Serializer errors: {'favorite_llm_models': {0: [ErrorDetail(string='Not a valid string.', code='invalid')]}}
+WARNING 2025-04-20 06:07:55,806 log 903 140048857499328 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:07:55,806 basehttp 903 140048857499328 "PATCH /api/auth/profile HTTP/1.1" 400 53
+INFO 2025-04-20 06:18:37,861 autoreload 73 140485480393600 Watching for file changes with StatReloader
+WARNING 2025-04-20 06:23:54,540 log 73 140484451382976 Not Found: /
+WARNING 2025-04-20 06:23:54,541 basehttp 73 140484451382976 "GET / HTTP/1.1" 404 2482
+INFO 2025-04-20 06:23:56,705 basehttp 73 140484451382976 "GET /admin/ HTTP/1.1" 200 7690
+INFO 2025-04-20 06:23:56,764 basehttp 73 140484442990272 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-04-20 06:23:56,765 basehttp 73 140484451382976 "GET /static/admin/css/base.css HTTP/1.1" 200 22092
+INFO 2025-04-20 06:23:56,765 basehttp 73 140484433548992 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+INFO 2025-04-20 06:23:56,765 basehttp 73 140484211107520 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-04-20 06:23:56,767 basehttp 73 140484219500224 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+INFO 2025-04-20 06:23:56,768 basehttp 73 140484202714816 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-04-20 06:23:56,812 basehttp 73 140484202714816 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-04-20 06:23:56,814 basehttp 73 140484219500224 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-04-20 06:23:56,814 basehttp 73 140484211107520 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-04-20 06:23:58,049 basehttp 73 140484211107520 "GET /admin/ HTTP/1.1" 200 7690
+INFO 2025-04-20 06:23:58,913 basehttp 73 140484211107520 "GET /admin/app/user/ HTTP/1.1" 200 9535
+INFO 2025-04-20 06:23:58,944 basehttp 73 140484202714816 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-04-20 06:23:58,945 basehttp 73 140484433548992 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-04-20 06:23:58,945 basehttp 73 140484451382976 "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-04-20 06:23:58,945 basehttp 73 140484442990272 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+INFO 2025-04-20 06:23:58,946 basehttp 73 140484211107520 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2025-04-20 06:23:58,947 basehttp 73 140484442990272 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-04-20 06:23:58,948 basehttp 73 140484219500224 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-04-20 06:23:58,969 basehttp 73 140484202714816 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-04-20 06:23:58,971 basehttp 73 140484451382976 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-04-20 06:23:58,980 basehttp 73 140484433548992 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:23:58,997 basehttp 73 140484451382976 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-04-20 06:23:59,010 basehttp 73 140484451382976 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-04-20 06:23:59,970 basehttp 73 140484451382976 "GET /admin/app/user/1/change/ HTTP/1.1" 200 24278
+INFO 2025-04-20 06:23:59,992 basehttp 73 140484451382976 "GET /static/admin/css/forms.css HTTP/1.1" 200 8794
+INFO 2025-04-20 06:23:59,993 basehttp 73 140484442990272 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-04-20 06:23:59,994 basehttp 73 140484219500224 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-04-20 06:23:59,994 basehttp 73 140484202714816 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2025-04-20 06:24:00,000 basehttp 73 140484202714816 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+INFO 2025-04-20 06:24:00,006 basehttp 73 140484433548992 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:24:00,007 basehttp 73 140484202714816 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-04-20 06:24:00,095 basehttp 73 140484202714816 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-04-20 06:24:00,099 basehttp 73 140484433548992 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2025-04-20 06:24:01,488 basehttp 73 140484433548992 "GET /admin/app/user/ HTTP/1.1" 200 9535
+INFO 2025-04-20 06:24:02,667 basehttp 73 140484433548992 "GET /admin/app/user/1/change/ HTTP/1.1" 200 24278
+INFO 2025-04-20 06:24:06,416 basehttp 73 140484433548992 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+INFO 2025-04-20 06:24:15,944 basehttp 73 140484194322112 "OPTIONS /api/auth/login HTTP/1.1" 200 0
+INFO 2025-04-20 06:24:16,145 basehttp 73 140484194322112 "POST /api/auth/login HTTP/1.1" 200 784
+INFO 2025-04-20 06:24:20,607 auth 73 140484194322112 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["llama3.2:1b","deepseek-r1:1.5b"]']}>
+INFO 2025-04-20 06:24:20,607 auth 73 140484194322112 favorite_llm_models raw value: ["llama3.2:1b","deepseek-r1:1.5b"]
+ERROR 2025-04-20 06:24:20,610 auth 73 140484194322112 Serializer errors: {'favorite_llm_models': {0: [ErrorDetail(string='Not a valid string.', code='invalid')]}}
+WARNING 2025-04-20 06:24:20,610 log 73 140484194322112 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:24:20,610 basehttp 73 140484194322112 "PATCH /api/auth/profile HTTP/1.1" 400 53
+INFO 2025-04-20 06:25:03,410 autoreload 73 140485480393600 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:25:04,438 autoreload 157 140435293563776 Watching for file changes with StatReloader
+INFO 2025-04-20 06:25:06,893 auth 157 140434263709376 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["llama3.2:1b","deepseek-r1:1.5b"]']}>
+INFO 2025-04-20 06:25:06,893 auth 157 140434263709376 Favorite LLM models: ["llama3.2:1b","deepseek-r1:1.5b"]
+INFO 2025-04-20 06:25:06,902 basehttp 157 140434263709376 "PATCH /api/auth/profile HTTP/1.1" 200 309
+INFO 2025-04-20 06:26:19,486 autoreload 157 140435293563776 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:26:20,382 autoreload 181 140288277093248 Watching for file changes with StatReloader
+INFO 2025-04-20 06:26:23,194 auth 181 140287247644352 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["[\\"llama3.2:1b\\",\\"deepseek-r1:1.5b\\"]","llama3.2:1b","deepseek-r1:1.5b"]']}>
+WARNING 2025-04-20 06:26:23,195 log 181 140287247644352 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:26:23,195 basehttp 181 140287247644352 "PATCH /api/auth/profile HTTP/1.1" 400 101
+INFO 2025-04-20 06:26:26,483 auth 181 140287247644352 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["[\\"llama3.2:1b\\",\\"deepseek-r1:1.5b\\"]","llama3.2:1b","deepseek-r1:1.5b"]']}>
+WARNING 2025-04-20 06:26:26,483 log 181 140287247644352 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:26:26,483 basehttp 181 140287247644352 "PATCH /api/auth/profile HTTP/1.1" 400 101
+INFO 2025-04-20 06:27:10,246 autoreload 181 140288277093248 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:27:11,139 autoreload 205 139717700107136 Watching for file changes with StatReloader
+INFO 2025-04-20 06:27:19,984 autoreload 205 139717700107136 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:27:20,905 autoreload 228 140703904717696 Watching for file changes with StatReloader
+INFO 2025-04-20 06:27:23,157 autoreload 228 140703904717696 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:27:24,097 autoreload 251 139998145809280 Watching for file changes with StatReloader
+INFO 2025-04-20 06:27:25,143 auth 251 139997117617856 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["[\\"llama3.2:1b\\",\\"deepseek-r1:1.5b\\"]","llama3.2:1b","deepseek-r1:1.5b"]']}>
+ERROR 2025-04-20 06:27:25,146 auth 251 139997117617856 Serializer errors: {'favorite_llm_models': {0: [ErrorDetail(string='This field may not be blank.', code='blank')]}}
+WARNING 2025-04-20 06:27:25,147 log 251 139997117617856 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:27:25,147 basehttp 251 139997117617856 "PATCH /api/auth/profile HTTP/1.1" 400 62
+INFO 2025-04-20 06:27:27,255 auth 251 139997117617856 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["[\\"llama3.2:1b\\",\\"deepseek-r1:1.5b\\"]","llama3.2:1b","deepseek-r1:1.5b"]']}>
+ERROR 2025-04-20 06:27:27,258 auth 251 139997117617856 Serializer errors: {'favorite_llm_models': {0: [ErrorDetail(string='This field may not be blank.', code='blank')]}}
+WARNING 2025-04-20 06:27:27,259 log 251 139997117617856 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:27:27,259 basehttp 251 139997117617856 "PATCH /api/auth/profile HTTP/1.1" 400 62
+INFO 2025-04-20 06:27:44,096 autoreload 251 139998145809280 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:27:45,011 autoreload 275 140333455711104 Watching for file changes with StatReloader
+INFO 2025-04-20 06:27:48,851 autoreload 275 140333455711104 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:27:49,775 autoreload 298 140460144880512 Watching for file changes with StatReloader
+INFO 2025-04-20 06:27:52,247 auth 298 140459115542208 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["[\\"llama3.2:1b\\",\\"deepseek-r1:1.5b\\"]","llama3.2:1b","deepseek-r1:1.5b"]']}>
+INFO 2025-04-20 06:27:52,247 auth 298 140459115542208 Favorite LLM models: ["[\"llama3.2:1b\",\"deepseek-r1:1.5b\"]","llama3.2:1b","deepseek-r1:1.5b"]
+ERROR 2025-04-20 06:27:52,250 auth 298 140459115542208 Serializer errors: {'favorite_llm_models': {0: [ErrorDetail(string='This field may not be blank.', code='blank')]}}
+WARNING 2025-04-20 06:27:52,250 log 298 140459115542208 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:27:52,250 basehttp 298 140459115542208 "PATCH /api/auth/profile HTTP/1.1" 400 62
+INFO 2025-04-20 06:27:59,749 auth 298 140459115542208 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["[\\"llama3.2:1b\\",\\"deepseek-r1:1.5b\\"]","llama3.2:1b","deepseek-r1:1.5b"]']}>
+INFO 2025-04-20 06:27:59,749 auth 298 140459115542208 Favorite LLM models: ["[\"llama3.2:1b\",\"deepseek-r1:1.5b\"]","llama3.2:1b","deepseek-r1:1.5b"]
+ERROR 2025-04-20 06:27:59,752 auth 298 140459115542208 Serializer errors: {'favorite_llm_models': {0: [ErrorDetail(string='This field may not be blank.', code='blank')]}}
+WARNING 2025-04-20 06:27:59,752 log 298 140459115542208 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:27:59,753 basehttp 298 140459115542208 "PATCH /api/auth/profile HTTP/1.1" 400 62
+INFO 2025-04-20 06:28:11,951 auth 298 140459115542208 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["[\\"llama3.2:1b\\",\\"deepseek-r1:1.5b\\"]","llama3.2:1b","deepseek-r1:1.5b"]']}>
+INFO 2025-04-20 06:28:11,951 auth 298 140459115542208 Favorite LLM models: ["[\"llama3.2:1b\",\"deepseek-r1:1.5b\"]","llama3.2:1b","deepseek-r1:1.5b"]
+ERROR 2025-04-20 06:28:11,954 auth 298 140459115542208 Serializer errors: {'favorite_llm_models': {0: [ErrorDetail(string='This field may not be blank.', code='blank')]}}
+WARNING 2025-04-20 06:28:11,954 log 298 140459115542208 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:28:11,954 basehttp 298 140459115542208 "PATCH /api/auth/profile HTTP/1.1" 400 62
+INFO 2025-04-20 06:28:50,867 autoreload 298 140460144880512 /usr/src/app/app/serializers.py changed, reloading.
+INFO 2025-04-20 06:28:51,840 autoreload 322 140327925848960 Watching for file changes with StatReloader
+INFO 2025-04-20 06:28:57,655 autoreload 322 140327925848960 /usr/src/app/app/serializers.py changed, reloading.
+INFO 2025-04-20 06:28:58,733 autoreload 345 140685059881856 Watching for file changes with StatReloader
+INFO 2025-04-20 06:28:59,603 auth 345 140684031219392 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["[\\"llama3.2:1b\\",\\"deepseek-r1:1.5b\\"]","llama3.2:1b","deepseek-r1:1.5b"]']}>
+INFO 2025-04-20 06:28:59,603 auth 345 140684031219392 Favorite LLM models: ["[\"llama3.2:1b\",\"deepseek-r1:1.5b\"]","llama3.2:1b","deepseek-r1:1.5b"]
+ERROR 2025-04-20 06:28:59,606 auth 345 140684031219392 Serializer errors: {'favorite_llm_models': {0: [ErrorDetail(string='This field may not be blank.', code='blank')]}}
+WARNING 2025-04-20 06:28:59,606 log 345 140684031219392 Bad Request: /api/auth/profile
+WARNING 2025-04-20 06:28:59,607 basehttp 345 140684031219392 "PATCH /api/auth/profile HTTP/1.1" 400 62
+INFO 2025-04-20 06:29:06,090 autoreload 345 140685059881856 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:29:07,038 autoreload 370 140581450754944 Watching for file changes with StatReloader
+INFO 2025-04-20 06:29:22,985 autoreload 370 140581450754944 /usr/src/app/app/serializers.py changed, reloading.
+INFO 2025-04-20 06:29:24,008 autoreload 393 140544472521600 Watching for file changes with StatReloader
+INFO 2025-04-20 06:29:24,782 auth 393 140543444268736 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["[\\"llama3.2:1b\\",\\"deepseek-r1:1.5b\\"]","llama3.2:1b","deepseek-r1:1.5b"]']}>
+INFO 2025-04-20 06:29:24,782 auth 393 140543444268736 Favorite LLM models: ["[\"llama3.2:1b\",\"deepseek-r1:1.5b\"]","llama3.2:1b","deepseek-r1:1.5b"]
+INFO 2025-04-20 06:29:24,801 basehttp 393 140543444268736 "PATCH /api/auth/profile HTTP/1.1" 200 269
+INFO 2025-04-20 06:29:38,477 autoreload 393 140544472521600 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:29:39,395 autoreload 418 139784244538240 Watching for file changes with StatReloader
+INFO 2025-04-20 06:31:06,420 auth 418 139783282845376 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['["llama3.2:1b","deepseek-r1:1.5b"]']}>
+INFO 2025-04-20 06:31:06,429 basehttp 418 139783282845376 "PATCH /api/auth/profile HTTP/1.1" 200 269
+INFO 2025-04-20 06:31:07,549 basehttp 418 139783200306880 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+INFO 2025-04-20 06:31:12,811 auth 418 139783282845376 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': [',llama3.2:1b,deepseek-r1:1.5b']}>
+INFO 2025-04-20 06:31:12,832 basehttp 418 139783282845376 "PATCH /api/auth/profile HTTP/1.1" 200 269
+INFO 2025-04-20 06:32:21,949 auth 418 139783282845376 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['', 'llama3.2:1b', 'deepseek-r1:1.5b']}>
+INFO 2025-04-20 06:32:21,955 basehttp 418 139783282845376 "PATCH /api/auth/profile HTTP/1.1" 200 269
+INFO 2025-04-20 06:35:12,729 auth 418 139783282845376 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['llama3.2:1b', 'deepseek-r1:1.5b']}>
+INFO 2025-04-20 06:35:12,735 basehttp 418 139783282845376 "PATCH /api/auth/profile HTTP/1.1" 200 269
+INFO 2025-04-20 06:35:18,544 auth 418 139783282845376 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['llama3.2:1b', 'deepseek-r1:1.5b']}>
+INFO 2025-04-20 06:35:18,549 basehttp 418 139783282845376 "PATCH /api/auth/profile HTTP/1.1" 200 269
+INFO 2025-04-20 06:35:52,180 autoreload 418 139784244538240 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:35:53,374 autoreload 443 139785164618624 Watching for file changes with StatReloader
+INFO 2025-04-20 06:35:54,787 auth 443 139784136685248 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['llama3.2:1b', 'deepseek-r1:1.5b']}>
+INFO 2025-04-20 06:35:54,788 auth 443 139784136685248 Favorite models: 
+INFO 2025-04-20 06:35:54,808 basehttp 443 139784136685248 "PATCH /api/auth/profile HTTP/1.1" 200 269
+INFO 2025-04-20 06:35:58,745 basehttp 443 139784127243968 "GET /media/avatars/8aee1deb-0515-494d-9086-5fb3e0c016e9.png HTTP/1.1" 304 0
+INFO 2025-04-20 06:36:02,885 auth 443 139784136685248 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['llama3.2:1b', 'deepseek-r1:1.5b']}>
+INFO 2025-04-20 06:36:02,885 auth 443 139784136685248 Favorite models: 
+INFO 2025-04-20 06:36:02,890 basehttp 443 139784136685248 "PATCH /api/auth/profile HTTP/1.1" 200 269
+INFO 2025-04-20 06:36:35,221 autoreload 443 139785164618624 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 06:36:36,357 autoreload 468 140114556156800 Watching for file changes with StatReloader
+INFO 2025-04-20 06:37:00,992 autoreload 468 140114556156800 /usr/src/app/app/views/auth.py changed, reloading.
+INFO 2025-04-20 06:37:02,047 autoreload 491 140477048327040 Watching for file changes with StatReloader
+INFO 2025-04-20 06:37:05,213 auth 491 140476018587328 PATCH Profile request data: <QueryDict: {'username': ['mjcarnaje'], 'first_name': ['Michael James'], 'last_name': ['Carnaje'], 'favorite_llm_models': ['llama3.2:1b', 'deepseek-r1:1.5b']}>
+INFO 2025-04-20 06:37:05,214 auth 491 140476018587328 Favorite models: llama3.2:1b,deepseek-r1:1.5b
+INFO 2025-04-20 06:37:05,221 basehttp 491 140476018587328 "PATCH /api/auth/profile HTTP/1.1" 200 297
+INFO 2025-04-20 06:37:19,319 basehttp 491 140476018587328 "OPTIONS /api/documents HTTP/1.1" 200 0
+INFO 2025-04-20 06:37:19,321 basehttp 491 140476009146048 "OPTIONS /api/documents HTTP/1.1" 200 0
+INFO 2025-04-20 06:37:19,350 basehttp 491 140476009146048 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:37:19,362 basehttp 491 140476018587328 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:37:21,414 basehttp 491 140476018587328 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:37:21,429 basehttp 491 140476009146048 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:37:37,860 basehttp 491 140476009146048 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:37:37,873 basehttp 491 140476018587328 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:37:42,777 basehttp 491 140476000753344 "GET /admin/app/document/ HTTP/1.1" 200 9529
+INFO 2025-04-20 06:37:42,808 basehttp 491 140475992360640 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,813 basehttp 491 140475983967936 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,814 basehttp 491 140476000753344 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,815 basehttp 491 140475629565632 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,816 basehttp 491 140475975575232 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,818 basehttp 491 140475983967936 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,818 basehttp 491 140476000753344 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,819 basehttp 491 140475629565632 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,819 basehttp 491 140475621172928 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,821 basehttp 491 140475975575232 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,821 basehttp 491 140475983967936 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,823 basehttp 491 140476000753344 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,823 basehttp 491 140475629565632 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,824 basehttp 491 140475621172928 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,830 basehttp 491 140475992360640 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:37:42,872 basehttp 491 140475621172928 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,873 basehttp 491 140475992360640 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,875 basehttp 491 140475621172928 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:42,875 basehttp 491 140475992360640 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:43,395 basehttp 491 140475992360640 "GET /admin/app/document/?o=1 HTTP/1.1" 200 9813
+INFO 2025-04-20 06:37:43,433 basehttp 491 140475992360640 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:37:43,482 basehttp 491 140475992360640 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2025-04-20 06:37:44,706 basehttp 491 140475992360640 "GET /admin/app/document/4/change/?_changelist_filters=o%3D1 HTTP/1.1" 200 16651
+INFO 2025-04-20 06:37:44,740 basehttp 491 140475629565632 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:44,741 basehttp 491 140475992360640 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:44,745 basehttp 491 140475992360640 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:44,745 basehttp 491 140475629565632 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:44,752 basehttp 491 140475621172928 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:37:44,806 basehttp 491 140475621172928 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2025-04-20 06:37:44,806 basehttp 491 140475629565632 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2025-04-20 06:37:44,809 basehttp 491 140475629565632 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:37:46,989 basehttp 491 140475629565632 "GET /admin/app/document/?o=1 HTTP/1.1" 200 9813
+INFO 2025-04-20 06:38:30,632 autoreload 491 140477048327040 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 06:38:31,751 autoreload 522 140507822197632 Watching for file changes with StatReloader
+INFO 2025-04-20 06:46:11,854 autoreload 522 140507822197632 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 06:46:13,209 autoreload 545 140017527348096 Watching for file changes with StatReloader
+INFO 2025-04-20 06:46:57,262 autoreload 545 140017527348096 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 06:46:58,152 autoreload 568 140520221522816 Watching for file changes with StatReloader
+INFO 2025-04-20 06:47:06,973 autoreload 568 140520221522816 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 06:47:07,921 autoreload 591 139909014084480 Watching for file changes with StatReloader
+INFO 2025-04-20 06:48:12,688 autoreload 591 139909014084480 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 06:48:13,876 autoreload 614 140144617290624 Watching for file changes with StatReloader
+INFO 2025-04-20 06:48:18,876 autoreload 614 140144617290624 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 06:48:19,700 autoreload 637 140032683944832 Watching for file changes with StatReloader
+INFO 2025-04-20 06:50:26,885 autoreload 637 140032683944832 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 06:50:28,738 autoreload 668 140547581516672 Watching for file changes with StatReloader
+INFO 2025-04-20 06:50:56,035 autoreload 668 140547581516672 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 06:50:56,900 autoreload 691 139909061323648 Watching for file changes with StatReloader
+INFO 2025-04-20 06:50:59,927 autoreload 691 139909061323648 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 06:51:01,664 autoreload 714 140431841557376 Watching for file changes with StatReloader
+INFO 2025-04-20 06:51:16,428 basehttp 714 140430798747328 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:51:16,441 basehttp 714 140430790354624 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:51:26,115 basehttp 714 140430790354624 "POST /api/documents/upload HTTP/1.1" 201 69
+INFO 2025-04-20 06:51:26,117 tasks 30 140238363454336 Starting chunk extraction for Document ID: 5
+INFO 2025-04-20 06:51:26,138 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 5
+ERROR 2025-04-20 06:51:26,363 tasks 30 140238363454336 Error processing document ID 5: [Errno 2] No such file or directory: 'docs/5/5_original.pdf'
+INFO 2025-04-20 06:51:31,302 basehttp 714 140430790354624 "GET /api/documents HTTP/1.1" 200 936
+INFO 2025-04-20 06:51:31,317 basehttp 714 140430798747328 "GET /api/documents HTTP/1.1" 200 936
+INFO 2025-04-20 06:51:33,273 basehttp 714 140430798747328 "OPTIONS /api/documents/5/delete HTTP/1.1" 200 0
+INFO 2025-04-20 06:51:33,300 documents 714 140430798747328 Task 0745f2ad-e3db-4402-a72b-99932ad5ece4 revoked successfully
+INFO 2025-04-20 06:51:33,313 documents 714 140430798747328 Document deleted successfully: 5
+INFO 2025-04-20 06:51:33,313 basehttp 714 140430798747328 "DELETE /api/documents/5/delete HTTP/1.1" 200 62
+INFO 2025-04-20 06:51:33,981 basehttp 714 140430798747328 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:51:34,593 basehttp 714 140430790354624 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:51:45,614 tasks 30 140238363454336 Starting chunk extraction for Document ID: 6
+INFO 2025-04-20 06:51:45,615 basehttp 714 140430790354624 "POST /api/documents/upload HTTP/1.1" 201 85
+INFO 2025-04-20 06:51:45,625 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 6
+ERROR 2025-04-20 06:51:45,645 tasks 30 140238363454336 Error processing document ID 6: [Errno 2] No such file or directory: 'docs/6/6_original.pdf'
+INFO 2025-04-20 06:51:47,573 basehttp 714 140430790354624 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:51:47,585 basehttp 714 140430798747328 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:06,760 basehttp 714 140430798747328 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:06,774 basehttp 714 140430790354624 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:08,042 basehttp 714 140430790354624 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:08,056 basehttp 714 140430798747328 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:12,160 basehttp 714 140430798747328 "OPTIONS /api/documents/6/delete HTTP/1.1" 200 0
+INFO 2025-04-20 06:52:12,172 documents 714 140430798747328 Task f2289a2c-f379-48de-92c5-46cd2ab3092d revoked successfully
+INFO 2025-04-20 06:52:12,177 documents 714 140430798747328 Document deleted successfully: 6
+INFO 2025-04-20 06:52:12,177 basehttp 714 140430798747328 "DELETE /api/documents/6/delete HTTP/1.1" 200 62
+INFO 2025-04-20 06:52:12,739 basehttp 714 140430798747328 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:52:12,753 basehttp 714 140430790354624 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:52:13,142 basehttp 714 140430790354624 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:52:13,156 basehttp 714 140430798747328 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:52:18,919 tasks 30 140238363454336 Starting chunk extraction for Document ID: 7
+INFO 2025-04-20 06:52:18,920 basehttp 714 140430798747328 "POST /api/documents/upload HTTP/1.1" 201 85
+INFO 2025-04-20 06:52:18,930 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 7
+ERROR 2025-04-20 06:52:18,946 tasks 30 140238363454336 Error processing document ID 7: [Errno 2] No such file or directory: 'docs/7/7_original.pdf'
+INFO 2025-04-20 06:52:32,102 autoreload 714 140431841557376 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 06:52:33,163 autoreload 739 139871272987520 Watching for file changes with StatReloader
+INFO 2025-04-20 06:52:34,275 basehttp 739 139870231066304 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:34,291 basehttp 739 139870231066304 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:35,454 basehttp 739 139870231066304 "OPTIONS /api/documents/7/delete HTTP/1.1" 200 0
+INFO 2025-04-20 06:52:35,505 documents 739 139870231066304 Task 8d5d8635-3e5a-43e3-bced-6e647bccde27 revoked successfully
+INFO 2025-04-20 06:52:35,510 documents 739 139870231066304 Document deleted successfully: 7
+INFO 2025-04-20 06:52:35,511 basehttp 739 139870231066304 "DELETE /api/documents/7/delete HTTP/1.1" 200 62
+INFO 2025-04-20 06:52:36,143 basehttp 739 139870231066304 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:52:36,155 basehttp 739 139870222673600 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:52:36,510 basehttp 739 139870222673600 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:52:36,524 basehttp 739 139870231066304 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:52:41,026 tasks 30 140238363454336 Starting chunk extraction for Document ID: 8
+INFO 2025-04-20 06:52:41,028 basehttp 739 139870231066304 "POST /api/documents/upload HTTP/1.1" 201 85
+INFO 2025-04-20 06:52:41,037 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 8
+ERROR 2025-04-20 06:52:41,049 tasks 30 140238363454336 Error processing document ID 8: [Errno 2] No such file or directory: 'docs/8/8_original.pdf'
+INFO 2025-04-20 06:52:42,547 basehttp 739 139870231066304 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:42,565 basehttp 739 139870222673600 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:55,282 autoreload 739 139871272987520 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 06:52:56,190 autoreload 765 140271694424960 Watching for file changes with StatReloader
+INFO 2025-04-20 06:52:59,927 basehttp 765 140270651627200 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:52:59,941 basehttp 765 140270651627200 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:53:00,522 basehttp 765 140270651627200 "OPTIONS /api/documents/8/delete HTTP/1.1" 200 0
+INFO 2025-04-20 06:53:00,572 documents 765 140270651627200 Task 0a5762d9-a6cc-4a0c-b171-7a07b30d6fc7 revoked successfully
+INFO 2025-04-20 06:53:00,577 documents 765 140270651627200 Document deleted successfully: 8
+INFO 2025-04-20 06:53:00,578 basehttp 765 140270651627200 "DELETE /api/documents/8/delete HTTP/1.1" 200 62
+INFO 2025-04-20 06:53:04,819 tasks 30 140238363454336 Starting chunk extraction for Document ID: 9
+INFO 2025-04-20 06:53:04,821 basehttp 765 140270651627200 "POST /api/documents/upload HTTP/1.1" 201 85
+INFO 2025-04-20 06:53:04,830 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 9
+ERROR 2025-04-20 06:53:04,845 tasks 30 140238363454336 Error processing document ID 9: [Errno 2] No such file or directory: 'docs/9/9_original.pdf'
+INFO 2025-04-20 06:53:26,244 autoreload 765 140271694424960 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 06:53:27,363 autoreload 790 140656502094720 Watching for file changes with StatReloader
+INFO 2025-04-20 06:53:28,282 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:53:28,296 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:53:28,639 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:53:28,652 basehttp 790 140655465588416 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:53:28,834 basehttp 790 140655465588416 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:53:28,847 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 952
+INFO 2025-04-20 06:53:29,496 basehttp 790 140655473981120 "OPTIONS /api/documents/9/delete HTTP/1.1" 200 0
+INFO 2025-04-20 06:53:29,543 documents 790 140655473981120 Task a3cc41c2-ba3e-43e6-92e6-ed794a86616a revoked successfully
+INFO 2025-04-20 06:53:29,548 documents 790 140655473981120 Document deleted successfully: 9
+INFO 2025-04-20 06:53:29,549 basehttp 790 140655473981120 "DELETE /api/documents/9/delete HTTP/1.1" 200 62
+INFO 2025-04-20 06:53:29,763 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:29,775 basehttp 790 140655465588416 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:29,962 basehttp 790 140655465588416 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:29,975 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:30,146 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:30,157 basehttp 790 140655465588416 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:30,329 basehttp 790 140655465588416 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:30,344 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:30,484 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:30,498 basehttp 790 140655465588416 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:53:34,155 tasks 30 140238363454336 Starting chunk extraction for Document ID: 10
+INFO 2025-04-20 06:53:34,157 basehttp 790 140655465588416 "POST /api/documents/upload HTTP/1.1" 201 86
+INFO 2025-04-20 06:53:34,166 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 10
+ERROR 2025-04-20 06:53:34,180 tasks 30 140238363454336 Error processing document ID 10: [Errno 2] No such file or directory: 'docs/10/10_original.pdf'
+INFO 2025-04-20 06:53:40,409 basehttp 790 140655465588416 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:53:40,421 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:53:41,008 basehttp 790 140655473981120 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:53:41,021 basehttp 790 140655465588416 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:53:52,163 autoreload 790 140656502094720 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 06:53:53,253 autoreload 815 140130212031360 Watching for file changes with StatReloader
+INFO 2025-04-20 06:53:55,069 autoreload 815 140130212031360 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 06:53:56,040 autoreload 838 140125937335168 Watching for file changes with StatReloader
+INFO 2025-04-20 06:53:56,964 basehttp 838 140124909205184 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:53:56,976 basehttp 838 140124909205184 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:54:12,021 autoreload 838 140125937335168 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 06:54:12,978 autoreload 864 140292871699328 Watching for file changes with StatReloader
+INFO 2025-04-20 06:54:26,478 autoreload 864 140292871699328 /usr/src/app/app/services/ollama.py changed, reloading.
+INFO 2025-04-20 06:54:27,396 autoreload 887 140533704829824 Watching for file changes with StatReloader
+INFO 2025-04-20 06:54:32,178 autoreload 887 140533704829824 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 06:54:33,165 autoreload 910 140305066617728 Watching for file changes with StatReloader
+INFO 2025-04-20 06:55:10,929 autoreload 910 140305066617728 /usr/src/app/app/utils/doc_processor.py changed, reloading.
+INFO 2025-04-20 06:55:11,855 autoreload 933 139729455881088 Watching for file changes with StatReloader
+INFO 2025-04-20 06:55:15,666 basehttp 933 139728426890944 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:55:15,681 basehttp 933 139728418498240 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:55:16,355 basehttp 933 139728418498240 "OPTIONS /api/documents/10/delete HTTP/1.1" 200 0
+INFO 2025-04-20 06:55:16,406 documents 933 139728418498240 Task 7fe471ab-634a-4fae-9835-29a4b742a842 revoked successfully
+INFO 2025-04-20 06:55:16,411 documents 933 139728418498240 Document deleted successfully: 10
+INFO 2025-04-20 06:55:16,411 basehttp 933 139728418498240 "DELETE /api/documents/10/delete HTTP/1.1" 200 62
+INFO 2025-04-20 06:55:17,681 basehttp 933 139728418498240 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:55:17,694 basehttp 933 139728426890944 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:55:18,223 basehttp 933 139728426890944 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:55:18,237 basehttp 933 139728418498240 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:55:23,127 tasks 30 140238363454336 Starting chunk extraction for Document ID: 11
+INFO 2025-04-20 06:55:23,128 basehttp 933 139728418498240 "POST /api/documents/upload HTTP/1.1" 201 86
+INFO 2025-04-20 06:55:23,138 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 11
+ERROR 2025-04-20 06:55:23,154 tasks 30 140238363454336 Error processing document ID 11: [Errno 2] No such file or directory: 'docs/11/11_original.pdf'
+INFO 2025-04-20 06:56:42,502 autoreload 933 139729455881088 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 06:56:43,477 autoreload 958 139982212729728 Watching for file changes with StatReloader
+INFO 2025-04-20 06:57:07,152 autoreload 958 139982212729728 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 06:57:08,241 autoreload 981 139843671841664 Watching for file changes with StatReloader
+INFO 2025-04-20 06:57:09,144 basehttp 981 139842643498688 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:57:09,159 basehttp 981 139842634057408 "GET /api/documents HTTP/1.1" 200 955
+INFO 2025-04-20 06:57:10,707 basehttp 981 139842634057408 "OPTIONS /api/documents/11/delete HTTP/1.1" 200 0
+INFO 2025-04-20 06:57:10,762 documents 981 139842634057408 Task 7a676df3-205e-4140-b814-6e389cd193a2 revoked successfully
+INFO 2025-04-20 06:57:10,767 documents 981 139842634057408 Document deleted successfully: 11
+INFO 2025-04-20 06:57:10,768 basehttp 981 139842634057408 "DELETE /api/documents/11/delete HTTP/1.1" 200 62
+INFO 2025-04-20 06:57:16,225 basehttp 981 139842634057408 "OPTIONS /api/documents/upload HTTP/1.1" 200 0
+INFO 2025-04-20 06:57:16,269 tasks 30 140238363454336 Starting chunk extraction for Document ID: 12
+INFO 2025-04-20 06:57:16,271 basehttp 981 139842634057408 "POST /api/documents/upload HTTP/1.1" 201 86
+INFO 2025-04-20 06:57:16,283 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 12
+ERROR 2025-04-20 06:57:16,298 tasks 30 140238363454336 Error processing document ID 12: [Errno 2] No such file or directory: 'media/docs/12/12_original.pdf'
+INFO 2025-04-20 06:58:38,427 autoreload 981 139843671841664 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 06:58:39,338 autoreload 1007 139707480116096 Watching for file changes with StatReloader
+INFO 2025-04-20 06:58:43,120 autoreload 1007 139707480116096 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 06:58:44,013 autoreload 1030 140003664087936 Watching for file changes with StatReloader
+INFO 2025-04-20 06:58:51,105 basehttp 1030 140002634757824 "GET /api/documents HTTP/1.1" 200 961
+INFO 2025-04-20 06:58:51,122 basehttp 1030 140002626365120 "GET /api/documents HTTP/1.1" 200 961
+INFO 2025-04-20 06:58:52,254 basehttp 1030 140002626365120 "OPTIONS /api/documents/12/delete HTTP/1.1" 200 0
+INFO 2025-04-20 06:58:52,303 documents 1030 140002626365120 Task bcf60c58-188f-41cf-95e7-138356b3e5ef revoked successfully
+INFO 2025-04-20 06:58:52,308 documents 1030 140002626365120 Document deleted successfully: 12
+INFO 2025-04-20 06:58:52,308 basehttp 1030 140002626365120 "DELETE /api/documents/12/delete HTTP/1.1" 200 62
+INFO 2025-04-20 06:58:52,690 basehttp 1030 140002626365120 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 06:58:52,702 basehttp 1030 140002634757824 "GET /api/documents HTTP/1.1" 200 577
+ERROR 2025-04-20 06:58:56,701 upload 1030 140002634757824 Error uploading document 13: [Errno 2] No such file or directory: '/usr/src/app/media/media/docs/13/13_original.pdf'
+ERROR 2025-04-20 06:58:56,722 log 1030 140002634757824 Internal Server Error: /api/documents/upload
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/views/documents.py", line 59, in upload_doc
+    document.file = UploadUtils.upload_document(file, str(document.id))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/utils/upload.py", line 24, in upload_document
+    with default_storage.open(file_path, 'wb+') as destination:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/files/storage/base.py", line 22, in open
+    return self._open(name, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/files/storage/filesystem.py", line 81, in _open
+    return File(open(self.path(name), mode))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/usr/src/app/media/media/docs/13/13_original.pdf'
+ERROR 2025-04-20 06:58:56,724 basehttp 1030 140002634757824 "POST /api/documents/upload HTTP/1.1" 500 110722
+INFO 2025-04-20 06:58:58,965 basehttp 1030 140002634757824 "GET /api/documents HTTP/1.1" 200 899
+INFO 2025-04-20 06:58:58,979 basehttp 1030 140002626365120 "GET /api/documents HTTP/1.1" 200 899
+ERROR 2025-04-20 06:59:02,744 upload 1030 140002626365120 Error uploading document 14: [Errno 2] No such file or directory: '/usr/src/app/media/media/docs/14/14_original.pdf'
+ERROR 2025-04-20 06:59:02,762 log 1030 140002626365120 Internal Server Error: /api/documents/upload
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/views/documents.py", line 59, in upload_doc
+    document.file = UploadUtils.upload_document(file, str(document.id))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/utils/upload.py", line 24, in upload_document
+    with default_storage.open(file_path, 'wb+') as destination:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/files/storage/base.py", line 22, in open
+    return self._open(name, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/files/storage/filesystem.py", line 81, in _open
+    return File(open(self.path(name), mode))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/usr/src/app/media/media/docs/14/14_original.pdf'
+ERROR 2025-04-20 06:59:02,764 basehttp 1030 140002626365120 "POST /api/documents/upload HTTP/1.1" 500 110722
+INFO 2025-04-20 06:59:09,841 autoreload 1030 140003664087936 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 06:59:10,759 autoreload 1055 140245590555520 Watching for file changes with StatReloader
+INFO 2025-04-20 06:59:12,889 tasks 30 140238363454336 Starting chunk extraction for Document ID: 15
+INFO 2025-04-20 06:59:12,890 basehttp 1055 140244561163968 "POST /api/documents/upload HTTP/1.1" 201 86
+INFO 2025-04-20 06:59:12,900 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 15
+ERROR 2025-04-20 06:59:12,914 tasks 30 140238363454336 Error processing document ID 15: [Errno 2] No such file or directory: 'docs/15/15_original.pdf'
+INFO 2025-04-20 06:59:27,541 basehttp 1055 140244548576960 "GET /admin/app/document/ HTTP/1.1" 200 10532
+INFO 2025-04-20 06:59:27,569 basehttp 1055 140244548576960 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,572 basehttp 1055 140244531791552 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,573 basehttp 1055 140244548576960 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,573 basehttp 1055 140244540184256 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,578 basehttp 1055 140244523398848 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,580 basehttp 1055 140244171093696 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,581 basehttp 1055 140244531791552 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,582 basehttp 1055 140244540184256 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,583 basehttp 1055 140244171093696 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,584 basehttp 1055 140244523398848 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,585 basehttp 1055 140244548576960 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,586 basehttp 1055 140244531791552 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,587 basehttp 1055 140244540184256 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,587 basehttp 1055 140244171093696 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,598 basehttp 1055 140244162700992 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:59:27,685 basehttp 1055 140244162700992 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,690 basehttp 1055 140244162700992 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,702 basehttp 1055 140244162700992 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:27,702 basehttp 1055 140244171093696 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:34,890 basehttp 1055 140244162700992 "GET /admin/app/document/15/change/ HTTP/1.1" 200 16451
+INFO 2025-04-20 06:59:34,916 basehttp 1055 140244162700992 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:34,917 basehttp 1055 140244540184256 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:34,927 basehttp 1055 140244171093696 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:59:34,946 basehttp 1055 140244171093696 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:34,970 basehttp 1055 140244171093696 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:34,971 basehttp 1055 140244540184256 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:34,975 basehttp 1055 140244171093696 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:34,975 basehttp 1055 140244540184256 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 06:59:40,446 basehttp 1055 140244540184256 "GET /admin/app/document/ HTTP/1.1" 200 10532
+INFO 2025-04-20 06:59:46,349 basehttp 1055 140244540184256 "GET /admin/app/document/13/change/ HTTP/1.1" 200 16362
+INFO 2025-04-20 06:59:46,392 basehttp 1055 140244540184256 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:59:47,931 basehttp 1055 140244540184256 "GET /admin/app/document/13/delete/ HTTP/1.1" 200 8286
+INFO 2025-04-20 06:59:47,958 basehttp 1055 140244540184256 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2025-04-20 06:59:49,228 basehttp 1055 140244540184256 "POST /admin/app/document/13/delete/ HTTP/1.1" 302 0
+INFO 2025-04-20 06:59:49,248 basehttp 1055 140244540184256 "GET /admin/app/document/ HTTP/1.1" 200 10391
+INFO 2025-04-20 06:59:49,339 basehttp 1055 140244540184256 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:59:49,376 basehttp 1055 140244540184256 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2025-04-20 06:59:51,128 basehttp 1055 140244540184256 "GET /admin/app/document/15/change/ HTTP/1.1" 200 16451
+INFO 2025-04-20 06:59:51,163 basehttp 1055 140244540184256 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:59:51,816 basehttp 1055 140244540184256 "GET /admin/app/document/15/delete/ HTTP/1.1" 200 8286
+INFO 2025-04-20 06:59:52,836 basehttp 1055 140244540184256 "POST /admin/app/document/15/delete/ HTTP/1.1" 302 0
+INFO 2025-04-20 06:59:52,859 basehttp 1055 140244540184256 "GET /admin/app/document/ HTTP/1.1" 200 10057
+INFO 2025-04-20 06:59:52,944 basehttp 1055 140244540184256 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:59:54,306 basehttp 1055 140244540184256 "GET /admin/app/document/14/change/ HTTP/1.1" 200 16362
+INFO 2025-04-20 06:59:54,345 basehttp 1055 140244540184256 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:59:54,966 basehttp 1055 140244540184256 "GET /admin/app/document/14/delete/ HTTP/1.1" 200 8286
+INFO 2025-04-20 06:59:56,119 basehttp 1055 140244540184256 "POST /admin/app/document/14/delete/ HTTP/1.1" 302 0
+INFO 2025-04-20 06:59:56,139 basehttp 1055 140244540184256 "GET /admin/app/document/ HTTP/1.1" 200 9722
+INFO 2025-04-20 06:59:56,227 basehttp 1055 140244540184256 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:59:57,103 basehttp 1055 140244540184256 "GET /admin/app/documentchunk/ HTTP/1.1" 200 12035
+INFO 2025-04-20 06:59:57,136 basehttp 1055 140244540184256 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 06:59:58,728 basehttp 1055 140244540184256 "GET /admin/app/document/ HTTP/1.1" 200 9529
+INFO 2025-04-20 06:59:58,765 basehttp 1055 140244540184256 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:00:26,327 autoreload 1055 140245590555520 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 07:00:27,379 autoreload 1085 140603553422208 Watching for file changes with StatReloader
+INFO 2025-04-20 07:00:49,478 autoreload 1085 140603553422208 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 07:00:50,392 autoreload 1108 140481726520192 Watching for file changes with StatReloader
+INFO 2025-04-20 07:00:56,260 autoreload 1108 140481726520192 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 07:00:57,810 autoreload 1131 139781418318720 Watching for file changes with StatReloader
+INFO 2025-04-20 07:01:05,685 autoreload 1131 139781418318720 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 07:01:06,651 autoreload 1154 140128339630976 Watching for file changes with StatReloader
+INFO 2025-04-20 07:01:12,457 basehttp 1154 140127301469888 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 07:01:12,472 basehttp 1154 140127301469888 "GET /api/documents HTTP/1.1" 200 577
+ERROR 2025-04-20 07:01:17,387 upload 1154 140127301469888 Error uploading document 16: File failed to save at /usr/src/app/media/docs/docs/16/16_original.pdf
+ERROR 2025-04-20 07:01:17,421 log 1154 140127301469888 Internal Server Error: /api/documents/upload
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/views/documents.py", line 59, in upload_doc
+    document.file = UploadUtils.upload_document(file, str(document.id))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/utils/upload.py", line 31, in upload_document
+    raise IOError(f"File failed to save at {full_path}")
+OSError: File failed to save at /usr/src/app/media/docs/docs/16/16_original.pdf
+ERROR 2025-04-20 07:01:17,423 basehttp 1154 140127301469888 "POST /api/documents/upload HTTP/1.1" 500 107679
+INFO 2025-04-20 07:01:52,665 autoreload 1154 140128339630976 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 07:01:53,542 autoreload 1180 140658180967296 Watching for file changes with StatReloader
+INFO 2025-04-20 07:01:58,482 tasks 30 140238363454336 Starting chunk extraction for Document ID: 17
+INFO 2025-04-20 07:01:58,483 basehttp 1180 140657151702720 "POST /api/documents/upload HTTP/1.1" 201 86
+INFO 2025-04-20 07:01:58,493 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 17
+ERROR 2025-04-20 07:01:58,508 tasks 30 140238363454336 Error processing document ID 17: [Errno 2] No such file or directory: 'docs/17/17_original.pdf'
+INFO 2025-04-20 07:02:07,851 basehttp 1180 140657130723008 "GET /admin/app/document/?o=1 HTTP/1.1" 200 10534
+INFO 2025-04-20 07:02:07,894 basehttp 1180 140657130723008 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:02:07,957 basehttp 1180 140657130723008 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-04-20 07:02:10,583 basehttp 1180 140657130723008 "GET /admin/app/document/16/change/?_changelist_filters=o%3D1 HTTP/1.1" 200 16450
+INFO 2025-04-20 07:02:10,618 basehttp 1180 140657130723008 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:02:12,311 basehttp 1180 140657130723008 "GET /admin/app/document/16/delete/?_changelist_filters=o%3D1 HTTP/1.1" 200 8286
+INFO 2025-04-20 07:02:13,159 basehttp 1180 140657130723008 "POST /admin/app/document/16/delete/?_changelist_filters=o%3D1 HTTP/1.1" 302 0
+INFO 2025-04-20 07:02:13,181 basehttp 1180 140657130723008 "GET /admin/app/document/?o=1 HTTP/1.1" 200 10367
+INFO 2025-04-20 07:02:13,272 basehttp 1180 140657130723008 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:02:14,330 basehttp 1180 140657130723008 "GET /admin/app/document/17/change/?_changelist_filters=o%3D1 HTTP/1.1" 200 16539
+INFO 2025-04-20 07:02:14,368 basehttp 1180 140657130723008 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:02:19,860 basehttp 1180 140657130723008 "GET /admin/app/document/17/delete/?_changelist_filters=o%3D1 HTTP/1.1" 200 8286
+INFO 2025-04-20 07:02:20,960 basehttp 1180 140657130723008 "POST /admin/app/document/17/delete/?_changelist_filters=o%3D1 HTTP/1.1" 302 0
+INFO 2025-04-20 07:02:20,981 basehttp 1180 140657130723008 "GET /admin/app/document/?o=1 HTTP/1.1" 200 10006
+INFO 2025-04-20 07:02:21,066 basehttp 1180 140657130723008 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:02:39,048 autoreload 1180 140658180967296 /usr/src/app/app/utils/upload.py changed, reloading.
+INFO 2025-04-20 07:02:39,985 autoreload 1206 140025912904576 Watching for file changes with StatReloader
+INFO 2025-04-20 07:02:47,410 basehttp 1206 140024875370176 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 07:02:47,424 basehttp 1206 140024875370176 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 07:02:51,106 tasks 30 140238363454336 Starting chunk extraction for Document ID: 18
+INFO 2025-04-20 07:02:51,108 basehttp 1206 140024875370176 "POST /api/documents/upload HTTP/1.1" 201 86
+INFO 2025-04-20 07:02:51,118 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 18
+INFO 2025-04-20 07:02:51,437 tasks 30 140238363454336 Document status updated to 'text_extracted' for Document ID: 18
+INFO 2025-04-20 07:02:51,437 tasks 30 140238363454336 Successfully processed and saved chunks for Document ID: 18
+INFO 2025-04-20 07:02:51,444 tasks 30 140238363454336 Starting summary generation for Document ID: 18
+INFO 2025-04-20 07:02:51,453 tasks 30 140238363454336 Document status updated to 'generating_summary' for Document ID: 18
+INFO 2025-04-20 07:02:51,457 doc_processor 30 140238363454336 Generating title and summary for text: Individualized Care & Engagement Plan for Karen
+
+This care plan has been developed to ensure that Karen, receives the highest level of care
+and  support  while  allowing  her  to  continue  living  comfortably  at  home  with  her  beloved
+dog,  Casey.  As  her  cognitive  challenges  progresses  and  arthritis  affects  her  hand
+coordination, this plan is designed to support her cognitive function, mobility, and personal
+care while promoting independence and respecting her dignity.
+
+Karen’s care has transitioned from 8-hour shifts to live-in support at your request to provide
+more  consistent  supervision  and  assistance.  To  further  enhance  nighttime  safety,  an
+assistive  device  bed  alarm  will  be  implemented  to  alert  caregivers  during  her  nighttime
+awakenings, ensuring immediate assistance and reducing fall risks.
+INFO 2025-04-20 07:02:52,523 basehttp 1206 140024875370176 "GET /api/documents HTTP/1.1" 200 978
+INFO 2025-04-20 07:02:52,537 basehttp 1206 140024792217280 "GET /api/documents HTTP/1.1" 200 978
+INFO 2025-04-20 07:02:55,317 doc_processor 30 140238363454336 Title and summary generated successfully.
+INFO 2025-04-20 07:02:55,319 tasks 30 140238363454336 Document status updated to 'summary_generated' for Document ID: 18
+INFO 2025-04-20 07:02:55,320 tasks 30 140238363454336 Summary and title generated for Document ID: 18
+INFO 2025-04-20 07:02:55,331 tasks 30 140238363454336 Document status updated to 'embedding_text' for Document ID: 18
+INFO 2025-04-20 07:02:57,942 tasks 30 140238363454336 Document status updated to 'completed' for Document ID: 18
+INFO 2025-04-20 07:03:00,872 basehttp 1206 140024792217280 "GET /api/documents HTTP/1.1" 200 1220
+INFO 2025-04-20 07:03:00,885 basehttp 1206 140024875370176 "GET /api/documents HTTP/1.1" 200 1220
+INFO 2025-04-20 07:03:10,105 basehttp 1206 140024875370176 "GET /api/documents HTTP/1.1" 200 1220
+INFO 2025-04-20 07:03:10,121 basehttp 1206 140024792217280 "GET /api/documents HTTP/1.1" 200 1220
+INFO 2025-04-20 07:03:27,925 autoreload 1206 140025912904576 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:03:28,969 autoreload 1232 140190151764864 Watching for file changes with StatReloader
+INFO 2025-04-20 07:03:30,174 basehttp 1232 140189109786304 "GET /api/documents HTTP/1.1" 200 1220
+INFO 2025-04-20 07:03:30,187 basehttp 1232 140189100345024 "GET /api/documents HTTP/1.1" 200 1220
+INFO 2025-04-20 07:03:35,788 tasks 30 140238363454336 Starting chunk extraction for Document ID: 19
+INFO 2025-04-20 07:03:35,789 basehttp 1232 140189100345024 "POST /api/documents/upload HTTP/1.1" 201 79
+INFO 2025-04-20 07:03:35,799 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 19
+INFO 2025-04-20 07:03:36,162 tasks 30 140238363454336 Document status updated to 'text_extracted' for Document ID: 19
+INFO 2025-04-20 07:03:36,162 tasks 30 140238363454336 Successfully processed and saved chunks for Document ID: 19
+INFO 2025-04-20 07:03:36,164 tasks 30 140238363454336 Starting summary generation for Document ID: 19
+INFO 2025-04-20 07:03:36,181 tasks 30 140238363454336 Document status updated to 'generating_summary' for Document ID: 19
+INFO 2025-04-20 07:03:36,184 doc_processor 30 140238363454336 Generating title and summary for text: Individualized In-Home Care & Engagement Plan for Coral
+
+1. Introduction
+
+Welcome to Coral's personalized in-home care plan, crafted with the utmost care and
+consideration for her well-being, comfort, and independence. Our primary focus is to
+ensure that Coral receives compassionate and empathetic support that respects her
+dignity and autonomy while providing emotional security in the comfort of her familiar
+surroundings.
+
+Transitioning to home care can be a significant lifestyle change, and we are committed to
+making this transition as smooth and supportive as possible. Our approach is grounded in
+understanding Coral's unique life story, including her interests, cultural values, and
+cherished memories. This plan is designed to be holistic, taking into account her love for
+instrumental music, particularly the piano, and her spiritual connection through virtual
+church services.
+INFO 2025-04-20 07:03:36,804 doc_processor 30 140238363454336 Title and summary generated successfully.
+INFO 2025-04-20 07:03:36,819 tasks 30 140238363454336 Document status updated to 'summary_generated' for Document ID: 19
+INFO 2025-04-20 07:03:36,819 tasks 30 140238363454336 Summary and title generated for Document ID: 19
+INFO 2025-04-20 07:03:36,830 tasks 30 140238363454336 Document status updated to 'embedding_text' for Document ID: 19
+INFO 2025-04-20 07:03:37,129 tasks 30 140238363454336 Document status updated to 'completed' for Document ID: 19
+INFO 2025-04-20 07:03:40,028 basehttp 1232 140189100345024 "GET /api/documents HTTP/1.1" 200 1751
+INFO 2025-04-20 07:03:40,042 basehttp 1232 140189109786304 "GET /api/documents HTTP/1.1" 200 1751
+INFO 2025-04-20 07:03:40,685 basehttp 1232 140189109786304 "GET /api/documents HTTP/1.1" 200 1751
+INFO 2025-04-20 07:03:40,699 basehttp 1232 140189100345024 "GET /api/documents HTTP/1.1" 200 1751
+INFO 2025-04-20 07:04:08,062 basehttp 1232 140188873389760 "GET /admin/app/document/ HTTP/1.1" 200 10250
+INFO 2025-04-20 07:04:08,087 basehttp 1232 140188873389760 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,092 basehttp 1232 140188864997056 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,093 basehttp 1232 140188848211648 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,093 basehttp 1232 140188839818944 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,094 basehttp 1232 140188831426240 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,095 basehttp 1232 140188856604352 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,097 basehttp 1232 140188848211648 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,097 basehttp 1232 140188864997056 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,098 basehttp 1232 140188839818944 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,099 basehttp 1232 140188831426240 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,099 basehttp 1232 140188848211648 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,099 basehttp 1232 140188856604352 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,100 basehttp 1232 140188864997056 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,100 basehttp 1232 140188839818944 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,107 basehttp 1232 140188873389760 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:04:08,147 basehttp 1232 140188864997056 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,148 basehttp 1232 140188873389760 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,148 basehttp 1232 140188848211648 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,149 basehttp 1232 140188839818944 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:04:08,435 basehttp 1232 140188839818944 "GET /admin/app/document/ HTTP/1.1" 200 10250
+INFO 2025-04-20 07:04:08,462 basehttp 1232 140188839818944 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:04:08,715 basehttp 1232 140188839818944 "GET /admin/app/document/ HTTP/1.1" 200 10250
+INFO 2025-04-20 07:04:08,748 basehttp 1232 140188839818944 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:04:08,960 basehttp 1232 140188839818944 "GET /admin/app/document/ HTTP/1.1" 200 10250
+INFO 2025-04-20 07:04:08,993 basehttp 1232 140188839818944 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:04:09,175 basehttp 1232 140188839818944 "GET /admin/app/document/ HTTP/1.1" 200 10250
+INFO 2025-04-20 07:04:09,205 basehttp 1232 140188839818944 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:04:09,356 basehttp 1232 140188839818944 "GET /admin/app/document/ HTTP/1.1" 200 10250
+INFO 2025-04-20 07:04:09,382 basehttp 1232 140188839818944 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:04:09,540 basehttp 1232 140188839818944 "GET /admin/app/document/ HTTP/1.1" 200 10250
+INFO 2025-04-20 07:04:09,571 basehttp 1232 140188839818944 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:06:48,960 autoreload 1232 140190151764864 /usr/src/app/app/services/vectorstore.py changed, reloading.
+INFO 2025-04-20 07:06:49,961 autoreload 1264 140593229372288 Watching for file changes with StatReloader
+INFO 2025-04-20 07:09:07,751 basehttp 1264 140592186128064 "GET /admin/app/document/ HTTP/1.1" 200 10250
+INFO 2025-04-20 07:09:07,778 basehttp 1264 140592186128064 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,782 basehttp 1264 140592168294080 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,783 basehttp 1264 140592177735360 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,786 basehttp 1264 140592159901376 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,786 basehttp 1264 140592168294080 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,787 basehttp 1264 140592186128064 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,789 basehttp 1264 140592151508672 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,792 basehttp 1264 140592168294080 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,792 basehttp 1264 140592159901376 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,793 basehttp 1264 140592177735360 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,794 basehttp 1264 140592186128064 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,798 basehttp 1264 140592168294080 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,802 basehttp 1264 140592151508672 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,804 basehttp 1264 140592159901376 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,824 basehttp 1264 140592143115968 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-20 07:09:07,878 basehttp 1264 140592143115968 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,880 basehttp 1264 140592159901376 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,886 basehttp 1264 140592143115968 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:07,887 basehttp 1264 140592159901376 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-04-20 07:09:08,984 basehttp 1264 140591795009216 "GET /api/documents HTTP/1.1" 200 1751
+INFO 2025-04-20 07:09:09,004 basehttp 1264 140591786616512 "GET /api/documents HTTP/1.1" 200 1751
+INFO 2025-04-20 07:09:09,542 basehttp 1264 140591786616512 "OPTIONS /api/documents/19/delete HTTP/1.1" 200 0
+INFO 2025-04-20 07:09:09,653 documents 1264 140591786616512 Task 94b3ec47-ca96-47bf-a9c6-175897d2789b revoked successfully
+INFO 2025-04-20 07:09:09,659 documents 1264 140591786616512 Document deleted successfully: 19
+INFO 2025-04-20 07:09:09,661 basehttp 1264 140591786616512 "DELETE /api/documents/19/delete HTTP/1.1" 200 62
+INFO 2025-04-20 07:09:10,266 basehttp 1264 140591786616512 "GET /api/documents HTTP/1.1" 200 1220
+INFO 2025-04-20 07:09:10,279 basehttp 1264 140591795009216 "GET /api/documents HTTP/1.1" 200 1220
+INFO 2025-04-20 07:09:10,501 basehttp 1264 140591795009216 "OPTIONS /api/documents/18/delete HTTP/1.1" 200 0
+INFO 2025-04-20 07:09:10,516 documents 1264 140591795009216 Task 662142f9-cd08-43f0-861e-c9af1e4e50f2 revoked successfully
+INFO 2025-04-20 07:09:10,522 documents 1264 140591795009216 Document deleted successfully: 18
+INFO 2025-04-20 07:09:10,523 basehttp 1264 140591795009216 "DELETE /api/documents/18/delete HTTP/1.1" 200 62
+INFO 2025-04-20 07:09:11,112 basehttp 1264 140591795009216 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 07:09:11,123 basehttp 1264 140591786616512 "GET /api/documents HTTP/1.1" 200 577
+INFO 2025-04-20 07:09:12,253 basehttp 1264 140591786616512 "OPTIONS /api/documents/4/delete HTTP/1.1" 200 0
+INFO 2025-04-20 07:09:12,266 documents 1264 140591786616512 Task 976ca667-1fc9-4116-8ce4-b54a5f2b5330 revoked successfully
+INFO 2025-04-20 07:09:12,271 documents 1264 140591786616512 Document deleted successfully: 4
+INFO 2025-04-20 07:09:12,272 basehttp 1264 140591786616512 "DELETE /api/documents/4/delete HTTP/1.1" 200 62
+INFO 2025-04-20 07:09:12,532 basehttp 1264 140591786616512 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:09:12,544 basehttp 1264 140591795009216 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:09:12,857 basehttp 1264 140591795009216 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:09:12,867 basehttp 1264 140591786616512 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:09:18,868 tasks 30 140238363454336 Starting chunk extraction for Document ID: 20
+INFO 2025-04-20 07:09:18,869 basehttp 1264 140591786616512 "POST /api/documents/upload HTTP/1.1" 201 86
+INFO 2025-04-20 07:09:18,879 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 20
+INFO 2025-04-20 07:09:19,281 tasks 30 140238363454336 Document status updated to 'text_extracted' for Document ID: 20
+INFO 2025-04-20 07:09:19,281 tasks 30 140238363454336 Successfully processed and saved chunks for Document ID: 20
+INFO 2025-04-20 07:09:19,283 tasks 30 140238363454336 Starting summary generation for Document ID: 20
+INFO 2025-04-20 07:09:19,293 tasks 30 140238363454336 Document status updated to 'generating_summary' for Document ID: 20
+INFO 2025-04-20 07:09:19,295 doc_processor 30 140238363454336 Generating title and summary for text: Individualized Care & Engagement Plan for Karen
+
+This care plan has been developed to ensure that Karen, receives the highest level of care
+and  support  while  allowing  her  to  continue  living  comfortably  at  home  with  her  beloved
+dog,  Casey.  As  her  cognitive  challenges  progresses  and  arthritis  affects  her  hand
+coordination, this plan is designed to support her cognitive function, mobility, and personal
+care while promoting independence and respecting her dignity.
+
+Karen’s care has transitioned from 8-hour shifts to live-in support at your request to provide
+more  consistent  supervision  and  assistance.  To  further  enhance  nighttime  safety,  an
+assistive  device  bed  alarm  will  be  implemented  to  alert  caregivers  during  her  nighttime
+awakenings, ensuring immediate assistance and reducing fall risks.
+INFO 2025-04-20 07:09:19,986 doc_processor 30 140238363454336 Title and summary generated successfully.
+INFO 2025-04-20 07:09:19,988 tasks 30 140238363454336 Document status updated to 'summary_generated' for Document ID: 20
+INFO 2025-04-20 07:09:19,988 tasks 30 140238363454336 Summary and title generated for Document ID: 20
+INFO 2025-04-20 07:09:19,999 tasks 30 140238363454336 Document status updated to 'embedding_text' for Document ID: 20
+INFO 2025-04-20 07:09:20,287 tasks 30 140238363454336 Document status updated to 'completed' for Document ID: 20
+INFO 2025-04-20 07:09:21,225 basehttp 1264 140591786616512 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:09:21,237 basehttp 1264 140591795009216 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:09:26,900 basehttp 1264 140591795009216 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:09:26,913 basehttp 1264 140591786616512 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:09:27,435 basehttp 1264 140591786616512 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:09:27,447 basehttp 1264 140591795009216 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:09:48,656 autoreload 1264 140593229372288 /usr/src/app/app/services/vectorstore.py changed, reloading.
+INFO 2025-04-20 07:09:49,667 autoreload 1295 139641116167040 Watching for file changes with StatReloader
+INFO 2025-04-20 07:09:57,696 autoreload 1295 139641116167040 /usr/src/app/app/services/vectorstore.py changed, reloading.
+INFO 2025-04-20 07:09:58,742 autoreload 1318 140679094414208 Watching for file changes with StatReloader
+INFO 2025-04-20 07:10:35,750 autoreload 1318 140679094414208 /usr/src/app/app/services/vectorstore.py changed, reloading.
+INFO 2025-04-20 07:10:36,768 autoreload 1341 140709643123584 Watching for file changes with StatReloader
+INFO 2025-04-20 07:10:48,843 autoreload 1341 140709643123584 /usr/src/app/app/services/vectorstore.py changed, reloading.
+INFO 2025-04-20 07:10:49,812 autoreload 1364 139954282134400 Watching for file changes with StatReloader
+INFO 2025-04-20 07:10:56,305 autoreload 1364 139954282134400 /usr/src/app/app/services/vectorstore.py changed, reloading.
+INFO 2025-04-20 07:10:57,335 autoreload 1387 140305321905024 Watching for file changes with StatReloader
+INFO 2025-04-20 07:10:59,278 autoreload 1387 140305321905024 /usr/src/app/app/services/vectorstore.py changed, reloading.
+INFO 2025-04-20 07:11:00,350 autoreload 1410 140220858510208 Watching for file changes with StatReloader
+INFO 2025-04-20 07:12:38,139 autoreload 1410 140220858510208 /usr/src/app/app/utils/extractor.py changed, reloading.
+INFO 2025-04-20 07:12:39,240 autoreload 1433 140589933968256 Watching for file changes with StatReloader
+INFO 2025-04-20 07:12:41,355 autoreload 1433 140589933968256 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:12:42,371 autoreload 1456 140265020771200 Watching for file changes with StatReloader
+INFO 2025-04-20 07:13:00,525 autoreload 1456 140265020771200 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:13:01,510 autoreload 1479 140363928710016 Watching for file changes with StatReloader
+INFO 2025-04-20 07:13:29,344 autoreload 1479 140363928710016 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 07:13:30,404 autoreload 1502 139882693172096 Watching for file changes with StatReloader
+INFO 2025-04-20 07:13:33,478 autoreload 1502 139882693172096 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 07:13:34,478 autoreload 1525 140515709758336 Watching for file changes with StatReloader
+INFO 2025-04-20 07:13:48,095 autoreload 1525 140515709758336 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 07:13:49,147 autoreload 1548 139930682370944 Watching for file changes with StatReloader
+INFO 2025-04-20 07:14:04,581 autoreload 1548 139930682370944 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 07:14:05,456 autoreload 1571 140187139087232 Watching for file changes with StatReloader
+INFO 2025-04-20 07:14:15,227 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:14:15,241 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:14:15,771 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:14:15,785 basehttp 1571 140186087319232 "GET /api/documents HTTP/1.1" 200 541
+INFO 2025-04-20 07:14:16,662 basehttp 1571 140186087319232 "OPTIONS /api/documents/20/delete HTTP/1.1" 200 0
+INFO 2025-04-20 07:14:16,711 documents 1571 140186087319232 Task e6b24ea4-0965-40ee-a3ec-2ade91ab2f31 revoked successfully
+INFO 2025-04-20 07:14:16,717 documents 1571 140186087319232 Document deleted successfully: 20
+INFO 2025-04-20 07:14:16,717 basehttp 1571 140186087319232 "DELETE /api/documents/20/delete HTTP/1.1" 200 62
+INFO 2025-04-20 07:14:17,187 basehttp 1571 140186087319232 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:14:17,201 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:14:21,960 tasks 30 140238363454336 Starting chunk extraction for Document ID: 21
+INFO 2025-04-20 07:14:21,960 basehttp 1571 140186095711936 "POST /api/documents/upload HTTP/1.1" 201 86
+INFO 2025-04-20 07:14:21,971 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 21
+INFO 2025-04-20 07:14:22,291 tasks 30 140238363454336 Document status updated to 'text_extracted' for Document ID: 21
+INFO 2025-04-20 07:14:22,291 tasks 30 140238363454336 Successfully processed and saved chunks for Document ID: 21
+INFO 2025-04-20 07:14:22,295 tasks 30 140238363454336 Starting summary generation for Document ID: 21
+INFO 2025-04-20 07:14:22,304 tasks 30 140238363454336 Document status updated to 'generating_summary' for Document ID: 21
+INFO 2025-04-20 07:14:22,308 doc_processor 30 140238363454336 Generating title and summary for text: Individualized Care & Engagement Plan for Karen
+
+This care plan has been developed to ensure that Karen, receives the highest level of care
+and  support  while  allowing  her  to  continue  living  comfortably  at  home  with  her  beloved
+dog,  Casey.  As  her  cognitive  challenges  progresses  and  arthritis  affects  her  hand
+coordination, this plan is designed to support her cognitive function, mobility, and personal
+care while promoting independence and respecting her dignity.
+
+Karen’s care has transitioned from 8-hour shifts to live-in support at your request to provide
+more  consistent  supervision  and  assistance.  To  further  enhance  nighttime  safety,  an
+assistive  device  bed  alarm  will  be  implemented  to  alert  caregivers  during  her  nighttime
+awakenings, ensuring immediate assistance and reducing fall risks.
+INFO 2025-04-20 07:14:22,857 doc_processor 30 140238363454336 Title and summary generated successfully.
+INFO 2025-04-20 07:14:22,873 tasks 30 140238363454336 Document status updated to 'summary_generated' for Document ID: 21
+INFO 2025-04-20 07:14:22,873 tasks 30 140238363454336 Summary and title generated for Document ID: 21
+INFO 2025-04-20 07:14:23,223 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:23,236 basehttp 1571 140186087319232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:24,384 basehttp 1571 140186087319232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:24,396 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:25,044 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:25,056 basehttp 1571 140186087319232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:31,319 basehttp 1571 140186087319232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:31,331 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:32,052 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:32,069 basehttp 1571 140186087319232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:32,609 basehttp 1571 140186087319232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:14:32,621 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:15:18,896 basehttp 1571 140186095711936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:15:18,911 basehttp 1571 140186087319232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:17:40,248 autoreload 1571 140187139087232 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:17:41,351 autoreload 1596 140505945963392 Watching for file changes with StatReloader
+INFO 2025-04-20 07:17:56,506 autoreload 1596 140505945963392 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:17:57,486 autoreload 1619 140530268666752 Watching for file changes with StatReloader
+INFO 2025-04-20 07:18:25,307 autoreload 1619 140530268666752 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:18:26,322 autoreload 1642 139905450298240 Watching for file changes with StatReloader
+INFO 2025-04-20 07:18:48,063 autoreload 1642 139905450298240 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:18:48,985 autoreload 1665 139913829174144 Watching for file changes with StatReloader
+INFO 2025-04-20 07:18:55,008 basehttp 1665 139912785426112 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:18:55,025 basehttp 1665 139912785426112 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:18:55,498 basehttp 1665 139912785426112 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:18:55,511 basehttp 1665 139912777033408 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:18:55,961 basehttp 1665 139912777033408 "OPTIONS /api/documents/21/delete HTTP/1.1" 200 0
+INFO 2025-04-20 07:18:56,011 documents 1665 139912777033408 Task e7a35a5c-1d06-4ad0-b48a-6964ca6abfa5 revoked successfully
+INFO 2025-04-20 07:18:56,069 documents 1665 139912777033408 Document deleted successfully: 21
+INFO 2025-04-20 07:18:56,069 basehttp 1665 139912777033408 "DELETE /api/documents/21/delete HTTP/1.1" 200 62
+INFO 2025-04-20 07:18:56,354 basehttp 1665 139912777033408 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:18:56,365 basehttp 1665 139912785426112 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:18:56,618 basehttp 1665 139912785426112 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:18:56,630 basehttp 1665 139912777033408 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:18:56,796 basehttp 1665 139912777033408 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:18:56,808 basehttp 1665 139912785426112 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:18:56,971 basehttp 1665 139912785426112 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:18:56,983 basehttp 1665 139912777033408 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:19:00,567 tasks 30 140238363454336 Starting chunk extraction for Document ID: 22
+INFO 2025-04-20 07:19:00,568 basehttp 1665 139912777033408 "POST /api/documents/upload HTTP/1.1" 201 86
+INFO 2025-04-20 07:19:00,578 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 22
+INFO 2025-04-20 07:19:00,887 tasks 30 140238363454336 Document status updated to 'text_extracted' for Document ID: 22
+INFO 2025-04-20 07:19:00,887 tasks 30 140238363454336 Successfully processed and saved chunks for Document ID: 22
+INFO 2025-04-20 07:19:00,889 tasks 30 140238363454336 Starting summary generation for Document ID: 22
+INFO 2025-04-20 07:19:00,898 tasks 30 140238363454336 Document status updated to 'generating_summary' for Document ID: 22
+INFO 2025-04-20 07:19:00,900 doc_processor 30 140238363454336 Generating title and summary for text: Individualized Care & Engagement Plan for Karen
+
+This care plan has been developed to ensure that Karen, receives the highest level of care
+and  support  while  allowing  her  to  continue  living  comfortably  at  home  with  her  beloved
+dog,  Casey.  As  her  cognitive  challenges  progresses  and  arthritis  affects  her  hand
+coordination, this plan is designed to support her cognitive function, mobility, and personal
+care while promoting independence and respecting her dignity.
+
+Karen’s care has transitioned from 8-hour shifts to live-in support at your request to provide
+more  consistent  supervision  and  assistance.  To  further  enhance  nighttime  safety,  an
+assistive  device  bed  alarm  will  be  implemented  to  alert  caregivers  during  her  nighttime
+awakenings, ensuring immediate assistance and reducing fall risks.
+INFO 2025-04-20 07:19:01,493 doc_processor 30 140238363454336 Title and summary generated successfully.
+INFO 2025-04-20 07:19:01,501 tasks 30 140238363454336 Document status updated to 'summary_generated' for Document ID: 22
+INFO 2025-04-20 07:19:01,501 tasks 30 140238363454336 Summary and title generated for Document ID: 22
+INFO 2025-04-20 07:19:03,144 basehttp 1665 139912777033408 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:19:03,155 basehttp 1665 139912785426112 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:20:18,787 autoreload 1665 139913829174144 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:20:19,772 autoreload 1690 139805132856192 Watching for file changes with StatReloader
+INFO 2025-04-20 07:20:45,496 autoreload 1690 139805132856192 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:20:46,583 autoreload 1713 140171677506432 Watching for file changes with StatReloader
+INFO 2025-04-20 07:21:02,410 autoreload 1713 140171677506432 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:21:03,276 autoreload 1736 139765214915456 Watching for file changes with StatReloader
+INFO 2025-04-20 07:21:10,319 autoreload 1736 139765214915456 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:21:11,292 autoreload 1759 139789527165824 Watching for file changes with StatReloader
+INFO 2025-04-20 07:21:15,349 autoreload 1759 139789527165824 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:21:16,424 autoreload 1782 139659935935360 Watching for file changes with StatReloader
+INFO 2025-04-20 07:23:04,420 autoreload 1782 139659935935360 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:23:05,487 autoreload 1832 139713579867008 Watching for file changes with StatReloader
+INFO 2025-04-20 07:23:09,479 autoreload 1832 139713579867008 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:23:10,566 autoreload 1882 140260349918080 Watching for file changes with StatReloader
+INFO 2025-04-20 07:23:17,631 autoreload 1882 140260349918080 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:23:18,615 autoreload 1932 140541962382208 Watching for file changes with StatReloader
+INFO 2025-04-20 07:23:21,605 autoreload 1932 140541962382208 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:23:22,633 autoreload 1955 139977227135872 Watching for file changes with StatReloader
+INFO 2025-04-20 07:23:27,667 autoreload 1955 139977227135872 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:23:29,219 autoreload 2005 139641463344000 Watching for file changes with StatReloader
+INFO 2025-04-20 07:23:31,233 autoreload 2005 139641463344000 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:23:32,277 autoreload 2028 140676513647488 Watching for file changes with StatReloader
+INFO 2025-04-20 07:24:03,049 autoreload 2028 140676513647488 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:24:04,042 autoreload 2078 140144324115328 Watching for file changes with StatReloader
+INFO 2025-04-20 07:24:06,082 autoreload 2078 140144324115328 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:24:07,123 autoreload 2101 140576517512064 Watching for file changes with StatReloader
+INFO 2025-04-20 07:25:05,250 autoreload 2101 140576517512064 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:25:06,299 autoreload 2178 140116990405504 Watching for file changes with StatReloader
+INFO 2025-04-20 07:25:09,838 autoreload 2178 140116990405504 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:25:10,850 autoreload 2201 139701393394560 Watching for file changes with StatReloader
+INFO 2025-04-20 07:25:36,126 autoreload 2201 139701393394560 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:25:37,211 autoreload 2224 140591452666752 Watching for file changes with StatReloader
+INFO 2025-04-20 07:25:40,749 autoreload 2224 140591452666752 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:25:41,788 autoreload 2247 139707504278400 Watching for file changes with StatReloader
+INFO 2025-04-20 07:26:39,935 autoreload 2247 139707504278400 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:26:40,996 autoreload 2297 139844631620480 Watching for file changes with StatReloader
+INFO 2025-04-20 07:27:23,442 autoreload 2297 139844631620480 /usr/src/app/app/services/vectorstore.py changed, reloading.
+INFO 2025-04-20 07:27:24,485 autoreload 2374 139858140216192 Watching for file changes with StatReloader
+INFO 2025-04-20 07:27:48,764 autoreload 2374 139858140216192 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:27:49,833 autoreload 2424 140626403666816 Watching for file changes with StatReloader
+INFO 2025-04-20 07:31:32,575 autoreload 2424 140626403666816 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 07:31:33,702 autoreload 2447 140091718298496 Watching for file changes with StatReloader
+INFO 2025-04-20 07:32:20,567 basehttp 2447 140090675295936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:32:20,584 basehttp 2447 140090666903232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:32:20,762 basehttp 2447 140090666903232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:32:20,783 basehttp 2447 140090675295936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:32:20,989 basehttp 2447 140090675295936 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:32:21,006 basehttp 2447 140090666903232 "GET /api/documents HTTP/1.1" 200 549
+INFO 2025-04-20 07:32:21,401 basehttp 2447 140090666903232 "OPTIONS /api/documents/22/delete HTTP/1.1" 200 0
+INFO 2025-04-20 07:32:21,529 documents 2447 140090666903232 Task ac496164-1c3f-41e2-ba83-c5285346e3bd revoked successfully
+INFO 2025-04-20 07:32:21,539 documents 2447 140090666903232 Document deleted successfully: 22
+INFO 2025-04-20 07:32:21,540 basehttp 2447 140090666903232 "DELETE /api/documents/22/delete HTTP/1.1" 200 62
+INFO 2025-04-20 07:32:50,383 basehttp 2447 140090666903232 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:32:50,396 basehttp 2447 140090675295936 "GET /api/documents HTTP/1.1" 200 2
+INFO 2025-04-20 07:32:55,595 tasks 30 140238363454336 Starting chunk extraction for Document ID: 23
+INFO 2025-04-20 07:32:55,596 basehttp 2447 140090675295936 "POST /api/documents/upload HTTP/1.1" 201 79
+INFO 2025-04-20 07:32:55,607 tasks 30 140238363454336 Document status updated to 'text_extracting' for Document ID: 23
+INFO 2025-04-20 07:32:55,980 tasks 30 140238363454336 Document status updated to 'text_extracted' for Document ID: 23
+INFO 2025-04-20 07:32:55,981 tasks 30 140238363454336 Successfully processed and saved chunks for Document ID: 23
+INFO 2025-04-20 07:32:55,983 tasks 30 140238363454336 Starting summary generation for Document ID: 23
+INFO 2025-04-20 07:32:55,992 tasks 30 140238363454336 Document status updated to 'generating_summary' for Document ID: 23
+INFO 2025-04-20 07:32:55,995 doc_processor 30 140238363454336 Generating title and summary for text: Comprehensive In-Home Care Plan for Coral
+
+Introduction
+
+The purpose of this care plan is to provide a structured, compassionate, and personalized
+approach to in-home care for Coral, an 88-year-old woman diagnosed with Alzheimer's
+disease and incontinence issues. This plan emphasizes Coral's independence, dignity,
+and overall well-being while addressing her specific needs and preferences. Given her
+condition, the care plan is dynamic and will be regularly reviewed and updated to adapt to
+any changes in Coral's health, preferences, and environment.
+INFO 2025-04-20 07:32:56,629 doc_processor 30 140238363454336 Title and summary generated successfully.
+INFO 2025-04-20 07:32:56,646 tasks 30 140238363454336 Document status updated to 'summary_generated' for Document ID: 23
+INFO 2025-04-20 07:32:56,646 tasks 30 140238363454336 Summary and title generated for Document ID: 23
+INFO 2025-04-20 07:33:13,116 basehttp 2447 140090675295936 "GET /api/documents HTTP/1.1" 200 543
+INFO 2025-04-20 07:33:13,130 basehttp 2447 140090666903232 "GET /api/documents HTTP/1.1" 200 543
