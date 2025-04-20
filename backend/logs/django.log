@@ -5113,3 +5113,1032 @@ INFO 2025-04-20 22:33:57,794 tasks 32 140324576328576 Document status updated fr
 INFO 2025-04-20 22:33:57,794 tasks 32 140324576328576 Summary and title generated for Document ID: 61
 INFO 2025-04-20 22:34:01,748 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
 INFO 2025-04-20 22:34:06,772 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:10,595 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:15,652 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:20,687 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:25,716 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:30,749 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:35,777 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:40,802 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:45,830 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:50,860 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:34:55,884 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:00,913 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:05,945 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:10,975 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:15,998 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:21,023 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:26,057 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:27,861 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:28,543 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:33,697 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:38,738 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:43,771 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:48,806 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:53,844 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:35:58,872 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:36:03,896 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:36:08,929 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:36:13,956 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:36:18,987 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:36:24,015 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:36:29,051 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:36:34,083 basehttp 190 139639713162944 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:38:26,462 autoreload 190 139640843500416 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 22:38:28,036 autoreload 237 140300699007872 Watching for file changes with StatReloader
+INFO 2025-04-20 22:38:41,341 autoreload 237 140300699007872 /usr/src/app/app/models.py changed, reloading.
+INFO 2025-04-20 22:38:42,543 autoreload 282 139773938559872 Watching for file changes with StatReloader
+INFO 2025-04-20 22:38:54,330 autoreload 282 139773938559872 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-20 22:38:55,638 autoreload 327 140011430071168 Watching for file changes with StatReloader
+INFO 2025-04-20 22:39:14,469 autoreload 327 140011430071168 /usr/src/app/app/serializers.py changed, reloading.
+INFO 2025-04-20 22:39:15,647 autoreload 372 139903683705728 Watching for file changes with StatReloader
+INFO 2025-04-20 22:39:44,592 autoreload 372 139903683705728 /usr/src/app/app/serializers.py changed, reloading.
+INFO 2025-04-20 22:39:45,962 autoreload 417 140160770116480 Watching for file changes with StatReloader
+INFO 2025-04-20 22:39:49,698 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:39:50,469 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:39:55,622 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:00,661 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:05,699 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:10,741 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:15,772 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:17,053 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:18,301 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:23,333 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:28,372 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:33,598 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:38,617 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:43,658 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:48,687 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:53,706 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:54,243 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:40:59,303 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 1438
+INFO 2025-04-20 22:41:04,157 tasks 32 140324576328576 Starting chunk extraction for Document ID: 62
+INFO 2025-04-20 22:41:04,177 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 62 history
+INFO 2025-04-20 22:41:04,177 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 62
+INFO 2025-04-20 22:41:04,281 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 62 history
+INFO 2025-04-20 22:41:04,281 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 62
+INFO 2025-04-20 22:41:04,288 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 62 history
+INFO 2025-04-20 22:41:04,288 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 62
+INFO 2025-04-20 22:41:04,350 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 5990
+INFO 2025-04-20 22:41:04,412 tasks 32 140324576328576 Successfully added 2 chunks to vector store for document 62
+INFO 2025-04-20 22:41:04,422 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 62 history
+INFO 2025-04-20 22:41:04,423 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 62
+INFO 2025-04-20 22:41:04,423 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 62
+INFO 2025-04-20 22:41:04,428 tasks 32 140324576328576 Starting chunk extraction for Document ID: 63
+INFO 2025-04-20 22:41:04,449 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 63 history
+INFO 2025-04-20 22:41:04,449 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 63
+INFO 2025-04-20 22:41:04,481 basehttp 417 140159718364864 "POST /api/documents/upload HTTP/1.1" 201 604
+INFO 2025-04-20 22:41:04,539 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 63 history
+INFO 2025-04-20 22:41:04,539 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 63
+INFO 2025-04-20 22:41:04,542 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 10588
+INFO 2025-04-20 22:41:04,547 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 63 history
+INFO 2025-04-20 22:41:04,548 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 63
+INFO 2025-04-20 22:41:04,632 tasks 32 140324576328576 Successfully added 1 chunks to vector store for document 63
+INFO 2025-04-20 22:41:04,640 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 63 history
+INFO 2025-04-20 22:41:04,640 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 63
+INFO 2025-04-20 22:41:04,640 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 63
+INFO 2025-04-20 22:41:04,644 tasks 32 140324576328576 Starting chunk extraction for Document ID: 64
+INFO 2025-04-20 22:41:04,667 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 64 history
+INFO 2025-04-20 22:41:04,667 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 64
+INFO 2025-04-20 22:41:04,827 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 64 history
+INFO 2025-04-20 22:41:04,828 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 64
+INFO 2025-04-20 22:41:04,834 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 64 history
+INFO 2025-04-20 22:41:04,834 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 64
+INFO 2025-04-20 22:41:04,915 tasks 32 140324576328576 Successfully added 1 chunks to vector store for document 64
+INFO 2025-04-20 22:41:04,922 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 64 history
+INFO 2025-04-20 22:41:04,923 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 64
+INFO 2025-04-20 22:41:04,923 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 64
+INFO 2025-04-20 22:41:04,926 tasks 32 140324576328576 Starting chunk extraction for Document ID: 65
+INFO 2025-04-20 22:41:04,945 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 65 history
+INFO 2025-04-20 22:41:04,945 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 65
+INFO 2025-04-20 22:41:05,038 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 65 history
+INFO 2025-04-20 22:41:05,038 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 65
+INFO 2025-04-20 22:41:05,045 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 65 history
+INFO 2025-04-20 22:41:05,045 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 65
+INFO 2025-04-20 22:41:05,248 tasks 32 140324576328576 Successfully added 4 chunks to vector store for document 65
+INFO 2025-04-20 22:41:05,256 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 65 history
+INFO 2025-04-20 22:41:05,257 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 65
+INFO 2025-04-20 22:41:05,257 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 65
+INFO 2025-04-20 22:41:05,259 tasks 32 140324576328576 Starting chunk extraction for Document ID: 66
+INFO 2025-04-20 22:41:05,277 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 66 history
+INFO 2025-04-20 22:41:05,277 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 66
+INFO 2025-04-20 22:41:05,458 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 66 history
+INFO 2025-04-20 22:41:05,458 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 66
+INFO 2025-04-20 22:41:05,466 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 66 history
+INFO 2025-04-20 22:41:05,466 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 66
+INFO 2025-04-20 22:41:05,782 tasks 32 140324576328576 Successfully added 8 chunks to vector store for document 66
+INFO 2025-04-20 22:41:05,804 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 66 history
+INFO 2025-04-20 22:41:05,804 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 66
+INFO 2025-04-20 22:41:05,804 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 66
+INFO 2025-04-20 22:41:05,807 tasks 32 140324576328576 Starting summary generation for Document ID: 62
+INFO 2025-04-20 22:41:05,824 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 62 history
+INFO 2025-04-20 22:41:05,824 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 62
+INFO 2025-04-20 22:41:05,897 doc_processor 32 140324576328576 Generating title and summary for text: ROM THE MIN Z_S OF THE  122nd
+
+y
+
+(cid:9) MEETING OF THE. MSU BOARD OF
+
+D. (cid:9)
+
+****  ************** (cid:9)
+
+Ju,i.lr 124, 1984  (cid:9) 4,
+ON
+**** * *** *************i************i:** .7*
+
+t (cid:9)
+
+V CIF
+
+THE
+
+THE
+
+ENGAGING THE SERV CIS -
+ON OF THE
+
+CAL NAAS
+
+lid
+
+'RESOLUTION NO•  16_4.4 S. 1984
+
+RESOLVED (cid:9)
+
+t upon the recommendation of the Acting
+
+President of the University, the agreement entered into by
+
+and between MSLIALLIT and Architect Mel V. Calderbn for the
+
+eparatim of the MSU...IIT physical master development plan
+
+covering the Tibanga Campus for a fee of P108,800.00 as
+
+provided under Annex "AA-lit_ to "AA-10" attached her
+
+and .'made an integral part of this resolution, is herOy
+
+approved, o a c**able against funds appropriated for the
+
+same purpose subject to account (cid:9)
+
+and auditing regulations.
+
+ARPROYED*"
+
+XI.X..X.1  X.. X (cid:9)
+
+X".X..X.. X
+
+CERTIFIED TE Sc (cid:9)
+
+fo;-,—
+
+Secre (cid:9)
+
+of the 'Institute
+
+APUGA.1
+INFO 2025-04-20 22:41:06,500 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 22:41:06,526 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 62 history
+INFO 2025-04-20 22:41:06,526 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 62
+INFO 2025-04-20 22:41:06,532 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 62 history
+INFO 2025-04-20 22:41:06,532 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 62
+INFO 2025-04-20 22:41:06,532 tasks 32 140324576328576 Summary and title generated for Document ID: 62
+INFO 2025-04-20 22:41:06,534 tasks 32 140324576328576 Starting chunk extraction for Document ID: 67
+INFO 2025-04-20 22:41:06,550 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 67 history
+INFO 2025-04-20 22:41:06,550 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 67
+INFO 2025-04-20 22:41:06,643 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 67 history
+INFO 2025-04-20 22:41:06,643 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 67
+INFO 2025-04-20 22:41:06,649 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 67 history
+INFO 2025-04-20 22:41:06,649 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 67
+INFO 2025-04-20 22:41:06,723 tasks 32 140324576328576 Successfully added 1 chunks to vector store for document 67
+INFO 2025-04-20 22:41:06,731 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 67 history
+INFO 2025-04-20 22:41:06,731 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 67
+INFO 2025-04-20 22:41:06,731 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 67
+INFO 2025-04-20 22:41:06,733 tasks 32 140324576328576 Starting chunk extraction for Document ID: 68
+INFO 2025-04-20 22:41:06,754 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 68 history
+INFO 2025-04-20 22:41:06,754 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 68
+INFO 2025-04-20 22:41:06,787 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 68 history
+INFO 2025-04-20 22:41:06,787 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 68
+INFO 2025-04-20 22:41:06,794 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 68 history
+INFO 2025-04-20 22:41:06,794 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 68
+INFO 2025-04-20 22:41:06,876 tasks 32 140324576328576 Successfully added 1 chunks to vector store for document 68
+INFO 2025-04-20 22:41:06,883 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 68 history
+INFO 2025-04-20 22:41:06,883 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 68
+INFO 2025-04-20 22:41:06,884 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 68
+INFO 2025-04-20 22:41:06,887 tasks 32 140324576328576 Starting chunk extraction for Document ID: 69
+INFO 2025-04-20 22:41:06,904 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 69 history
+INFO 2025-04-20 22:41:06,904 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 69
+INFO 2025-04-20 22:41:07,116 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 69 history
+INFO 2025-04-20 22:41:07,116 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 69
+INFO 2025-04-20 22:41:07,122 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 69 history
+INFO 2025-04-20 22:41:07,122 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 69
+INFO 2025-04-20 22:41:07,428 tasks 32 140324576328576 Successfully added 11 chunks to vector store for document 69
+INFO 2025-04-20 22:41:07,436 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 69 history
+INFO 2025-04-20 22:41:07,436 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 69
+INFO 2025-04-20 22:41:07,436 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 69
+INFO 2025-04-20 22:41:07,438 tasks 32 140324576328576 Starting summary generation for Document ID: 63
+INFO 2025-04-20 22:41:07,457 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 63 history
+INFO 2025-04-20 22:41:07,457 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 63
+INFO 2025-04-20 22:41:07,526 doc_processor 32 140324576328576 Generating title and summary for text: UNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIAL
+INFO 2025-04-20 22:41:08,081 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 22:41:08,104 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 63 history
+INFO 2025-04-20 22:41:08,104 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 63
+INFO 2025-04-20 22:41:08,110 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 63 history
+INFO 2025-04-20 22:41:08,110 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 63
+INFO 2025-04-20 22:41:08,110 tasks 32 140324576328576 Summary and title generated for Document ID: 63
+INFO 2025-04-20 22:41:08,111 tasks 32 140324576328576 Starting summary generation for Document ID: 64
+INFO 2025-04-20 22:41:08,127 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 64 history
+INFO 2025-04-20 22:41:08,127 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 64
+INFO 2025-04-20 22:41:08,197 doc_processor 32 140324576328576 Generating title and summary for text: UNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIAL
+INFO 2025-04-20 22:41:08,620 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 22:41:08,641 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 64 history
+INFO 2025-04-20 22:41:08,642 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 64
+INFO 2025-04-20 22:41:08,647 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 64 history
+INFO 2025-04-20 22:41:08,647 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 64
+INFO 2025-04-20 22:41:08,648 tasks 32 140324576328576 Summary and title generated for Document ID: 64
+INFO 2025-04-20 22:41:08,649 tasks 32 140324576328576 Starting summary generation for Document ID: 65
+INFO 2025-04-20 22:41:08,665 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 65 history
+INFO 2025-04-20 22:41:08,665 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 65
+INFO 2025-04-20 22:41:08,736 doc_processor 32 140324576328576 Generating title and summary for text: MSU BOARD OF REGENTS
+Minutes
+
+59
+
+6. APPROVAL OF THE PROMOTION OF THIRTEEN MSUS RETURNING
+
+FACULTY GRANTEES AND OTHER MERITORIOUS CASES
+
+RESOLUTION 18, S. 2007  4
+
+RESOLVED, That upon recommendation of the Acting President of
+
+the University and the Executive Committee of the Board of Regents, the
+
+promotion of the following thirteen (13) faculty members of the various MSU
+
+Campuses as hereinbelow listed, is hereby approved subject to submission of
+
+official report and subject further to availability of funds and approval by the
+
+Department of Budget and Management.
+
+200th Meeting, March 8, 2007
+
+UNOFFICIALMSU BOARD OF REGENTS
+Minutes
+
+60
+
+Name
+
+•
+
+Current
+Rank
+
+MSU-I17'
+
+Weighted
+Points
+Obtained
+
+Recommended
+Rank
+
+Degree/School
+
+Justification
+
+Assn. Prof. V
+1. BANAWA, Marie Joy D.
+Asso. Prof. III
+2.  BARQUILLA, Manuel B.
+3. CAGAANAN, Gilbert B.
+Asso. Prof. II
+4.  DUYAGUIT, Ma. Christina L.  Asso. Prof. I
+
+5.  LAIIOYLAHOY, Lucilyn D.
+6. LIM, Daisy Lou C.
+7. MALABANAN, Cenie V.
+INFO 2025-04-20 22:41:09,083 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 22:41:09,105 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 65 history
+INFO 2025-04-20 22:41:09,105 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 65
+INFO 2025-04-20 22:41:09,111 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 65 history
+INFO 2025-04-20 22:41:09,112 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 65
+INFO 2025-04-20 22:41:09,112 tasks 32 140324576328576 Summary and title generated for Document ID: 65
+INFO 2025-04-20 22:41:09,113 tasks 32 140324576328576 Starting summary generation for Document ID: 66
+INFO 2025-04-20 22:41:09,129 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 66 history
+INFO 2025-04-20 22:41:09,129 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 66
+INFO 2025-04-20 22:41:09,198 doc_processor 32 140324576328576 Generating title and summary for text: UNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALPROPOSAL TO AMEND CERTAIN PROVISIONS OF BOR RESOLUTION NO. 393 SERIES OF
+2013 OF MSU-IIT
+
+1.  Rationale
+
+The Mindanao State University-Iligan Institute of Technology (MSU-IIT) is consistent in its
+efforts  in  supporting  students  by  incentivizing  their  outstanding  academic  performance.  The
+primordial objective of giving incentives is to recognize students’ achievement in the pursuit of
+academic excellence. In the same vein,  the incentive is to augment  students’ cost of living by
+providing  a  monthly  stipend  based  on  their  grade  point  average  (GPA).  Thus  it  was  on  this
+premise that BOR Res No. 393, S. 2013 was approved known as The Unified MSU-IIT Internal
+Scholarship.
+INFO 2025-04-20 22:41:09,594 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 12291
+INFO 2025-04-20 22:41:09,852 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 22:41:09,876 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 66 history
+INFO 2025-04-20 22:41:09,876 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 66
+INFO 2025-04-20 22:41:09,885 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 66 history
+INFO 2025-04-20 22:41:09,885 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 66
+INFO 2025-04-20 22:41:09,885 tasks 32 140324576328576 Summary and title generated for Document ID: 66
+INFO 2025-04-20 22:41:09,887 tasks 32 140324576328576 Starting summary generation for Document ID: 67
+INFO 2025-04-20 22:41:09,907 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 67 history
+INFO 2025-04-20 22:41:09,907 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 67
+INFO 2025-04-20 22:41:09,983 doc_processor 32 140324576328576 Generating title and summary for text: UNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIALUNOFFICIAL
+INFO 2025-04-20 22:41:10,466 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 22:41:10,489 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 67 history
+INFO 2025-04-20 22:41:10,489 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 67
+INFO 2025-04-20 22:41:10,495 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 67 history
+INFO 2025-04-20 22:41:10,495 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 67
+INFO 2025-04-20 22:41:10,496 tasks 32 140324576328576 Summary and title generated for Document ID: 67
+INFO 2025-04-20 22:41:10,498 tasks 32 140324576328576 Starting summary generation for Document ID: 68
+INFO 2025-04-20 22:41:10,517 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 68 history
+INFO 2025-04-20 22:41:10,517 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 68
+INFO 2025-04-20 22:41:10,590 doc_processor 32 140324576328576 Generating title and summary for text: UNOFFICIAL
+INFO 2025-04-20 22:41:10,960 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 22:41:10,983 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 68 history
+INFO 2025-04-20 22:41:10,983 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 68
+INFO 2025-04-20 22:41:10,991 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 68 history
+INFO 2025-04-20 22:41:10,991 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 68
+INFO 2025-04-20 22:41:10,991 tasks 32 140324576328576 Summary and title generated for Document ID: 68
+INFO 2025-04-20 22:41:10,993 tasks 32 140324576328576 Starting summary generation for Document ID: 69
+INFO 2025-04-20 22:41:11,010 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 69 history
+INFO 2025-04-20 22:41:11,010 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 69
+INFO 2025-04-20 22:41:11,082 doc_processor 32 140324576328576 Generating title and summary for text: Republic of the Philippines
+MINDANAO STATE UNIVERSITY
+Marawi City
+
+OFFICE OF THE SECRETARY OF THE UNIVERSITY
+AND OF THE BOARD OF REGENTS
+
+EXCERPTS FROM THE MINUTES OF THE 263RD MEETING OF THE BOARD OF REGENTS
+HELD  ON  JULY  7,  2023  AT  CHED  CONFERENCE  ROOM,  HEDC  BUILDING,  C.P.  GARCIA
+AVENUE, DILIMAN, QUEZON CITY
+======================================================================
+                     x-x-x
+x-x-x
+
+       x-x-x
+
+“RESOLUTION NO. 131, S. 2023”
+
+RESOLVED,  that  upon  the  recommendation  of  the  President  of  the
+
+University and the Executive Committee of the Board of Regents, the proposal to
+
+convert in the database History 003 (History of Filipino Muslims and Indigenous
+
+Peoples  of  MINSUPALA)  as  GEC  110,  Filipino  101  (Wika  at  Kultura  sa
+
+Mapayapang  Lipunan)  as  GEC  120,  and  FILIPINO  102  (Ekokritisismo  at
+
+Pagpapahalaga ng Kalikasan) as GEC 130, herein appended as Annex “F” and
+
+made integral part of this resolution, is hereby APPROVED.
+INFO 2025-04-20 22:41:11,441 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 22:41:11,465 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 69 history
+INFO 2025-04-20 22:41:11,465 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 69
+INFO 2025-04-20 22:41:11,472 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 69 history
+INFO 2025-04-20 22:41:11,472 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 69
+INFO 2025-04-20 22:41:11,472 tasks 32 140324576328576 Summary and title generated for Document ID: 69
+INFO 2025-04-20 22:41:14,639 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:41:19,687 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:41:24,725 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:41:29,763 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:41:35,964 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:41:41,002 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:41:46,047 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:41:51,094 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:41:56,140 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:01,179 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:11,736 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:16,787 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:21,835 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:26,870 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:29,492 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:34,530 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:39,569 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:44,611 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:49,659 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:54,703 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:42:59,748 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:43:04,796 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:43:09,853 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:43:14,904 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:43:19,940 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:43:24,984 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:43:30,033 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:43:35,089 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:53:28,839 basehttp 417 140159412565696 "POST /api/auth/login HTTP/1.1" 200 771
+INFO 2025-04-20 22:53:34,319 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:53:38,544 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:53:39,738 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:53:44,694 basehttp 417 140159412565696 "POST /api/auth/login HTTP/1.1" 200 771
+INFO 2025-04-20 22:54:19,183 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:19,960 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:20,208 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:20,380 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:25,454 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:30,531 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:30,748 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:31,237 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:33,761 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:34,101 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:34,285 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:34,445 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:54:34,657 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:56:16,065 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:56:17,544 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:56:19,347 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:56:41,237 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:56:46,286 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:56:51,322 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:56:56,673 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:57:01,713 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:57:09,264 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:57:14,301 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:57:19,340 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:57:24,386 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:57:29,443 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:57:30,003 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:57:38,847 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:57:40,436 basehttp 417 140159412565696 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 22:59:12,099 basehttp 417 140159412565696 "OPTIONS /api/documents/chat HTTP/1.1" 200 0
+INFO 2025-04-20 22:59:12,103 basehttp 417 140159718364864 "OPTIONS /api/documents/chat HTTP/1.1" 200 0
+INFO 2025-04-20 22:59:12,123 chat_agent 417 140159412565696 Retrieving documents for query: What is the academic calendar?
+INFO 2025-04-20 22:59:12,130 chat_agent 417 140159718364864 Retrieving documents for query: What is the academic calendar?
+WARNING 2025-04-20 22:59:12,505 chat_agent 417 140159718364864 Doc 52 not found, skipping.
+WARNING 2025-04-20 22:59:12,506 chat_agent 417 140159718364864 Doc 37 not found, skipping.
+WARNING 2025-04-20 22:59:12,509 chat_agent 417 140159718364864 Doc 43 not found, skipping.
+WARNING 2025-04-20 22:59:12,512 chat_agent 417 140159718364864 Doc 49 not found, skipping.
+WARNING 2025-04-20 22:59:12,514 chat_agent 417 140159718364864 Doc 55 not found, skipping.
+INFO 2025-04-20 22:59:12,515 chat_agent 417 140159718364864 Generating answer based on context
+WARNING 2025-04-20 22:59:12,523 chat_agent 417 140159412565696 Doc 52 not found, skipping.
+WARNING 2025-04-20 22:59:12,525 chat_agent 417 140159412565696 Doc 37 not found, skipping.
+WARNING 2025-04-20 22:59:12,527 chat_agent 417 140159412565696 Doc 43 not found, skipping.
+WARNING 2025-04-20 22:59:12,528 chat_agent 417 140159412565696 Doc 49 not found, skipping.
+WARNING 2025-04-20 22:59:12,530 chat_agent 417 140159412565696 Doc 55 not found, skipping.
+INFO 2025-04-20 22:59:12,531 chat_agent 417 140159412565696 Generating answer based on context
+INFO 2025-04-20 22:59:13,533 chat_agent 417 140159718364864 Grading the generated answer
+INFO 2025-04-20 22:59:13,559 chat_agent 417 140159412565696 Grading the generated answer
+INFO 2025-04-20 22:59:13,781 chat_agent 417 140159718364864 Formatting final payload
+INFO 2025-04-20 22:59:13,782 basehttp 417 140159718364864 "POST /api/documents/chat HTTP/1.1" 200 6038
+INFO 2025-04-20 22:59:13,798 chat_agent 417 140159412565696 Formatting final payload
+INFO 2025-04-20 22:59:13,799 basehttp 417 140159412565696 "POST /api/documents/chat HTTP/1.1" 200 6037
+INFO 2025-04-20 22:59:14,376 chat_agent 417 140159718364864 Retrieving documents for query: How does AI work?
+INFO 2025-04-20 22:59:14,380 chat_agent 417 140159412565696 Retrieving documents for query: How does AI work?
+WARNING 2025-04-20 22:59:14,478 chat_agent 417 140159412565696 Doc 29 not found, skipping.
+WARNING 2025-04-20 22:59:14,480 chat_agent 417 140159718364864 Doc 29 not found, skipping.
+WARNING 2025-04-20 22:59:14,482 chat_agent 417 140159718364864 Doc 29 not found, skipping.
+WARNING 2025-04-20 22:59:14,483 chat_agent 417 140159412565696 Doc 29 not found, skipping.
+WARNING 2025-04-20 22:59:14,485 chat_agent 417 140159718364864 Doc 34 not found, skipping.
+WARNING 2025-04-20 22:59:14,487 chat_agent 417 140159412565696 Doc 34 not found, skipping.
+WARNING 2025-04-20 22:59:14,488 chat_agent 417 140159718364864 Doc 31 not found, skipping.
+WARNING 2025-04-20 22:59:14,489 chat_agent 417 140159412565696 Doc 31 not found, skipping.
+WARNING 2025-04-20 22:59:14,491 chat_agent 417 140159718364864 Doc 40 not found, skipping.
+WARNING 2025-04-20 22:59:14,492 chat_agent 417 140159412565696 Doc 40 not found, skipping.
+INFO 2025-04-20 22:59:14,492 chat_agent 417 140159718364864 Generating answer based on context
+INFO 2025-04-20 22:59:14,493 chat_agent 417 140159412565696 Generating answer based on context
+INFO 2025-04-20 22:59:15,596 chat_agent 417 140159718364864 Grading the generated answer
+INFO 2025-04-20 22:59:15,615 chat_agent 417 140159412565696 Grading the generated answer
+INFO 2025-04-20 22:59:15,875 chat_agent 417 140159718364864 Formatting final payload
+INFO 2025-04-20 22:59:15,876 basehttp 417 140159718364864 "POST /api/documents/chat HTTP/1.1" 200 6025
+INFO 2025-04-20 22:59:15,893 chat_agent 417 140159412565696 Formatting final payload
+INFO 2025-04-20 22:59:15,894 basehttp 417 140159412565696 "POST /api/documents/chat HTTP/1.1" 200 6025
+INFO 2025-04-20 22:59:19,786 chat_agent 417 140159412565696 Retrieving documents for query: What is the academic calendar?
+INFO 2025-04-20 22:59:19,791 chat_agent 417 140159718364864 Retrieving documents for query: What is the academic calendar?
+WARNING 2025-04-20 22:59:19,910 chat_agent 417 140159718364864 Doc 52 not found, skipping.
+WARNING 2025-04-20 22:59:19,912 chat_agent 417 140159718364864 Doc 37 not found, skipping.
+WARNING 2025-04-20 22:59:19,914 chat_agent 417 140159718364864 Doc 43 not found, skipping.
+WARNING 2025-04-20 22:59:19,916 chat_agent 417 140159718364864 Doc 49 not found, skipping.
+WARNING 2025-04-20 22:59:19,917 chat_agent 417 140159718364864 Doc 55 not found, skipping.
+INFO 2025-04-20 22:59:19,918 chat_agent 417 140159718364864 Generating answer based on context
+WARNING 2025-04-20 22:59:20,021 chat_agent 417 140159412565696 Doc 52 not found, skipping.
+WARNING 2025-04-20 22:59:20,023 chat_agent 417 140159412565696 Doc 37 not found, skipping.
+WARNING 2025-04-20 22:59:20,025 chat_agent 417 140159412565696 Doc 43 not found, skipping.
+WARNING 2025-04-20 22:59:20,026 chat_agent 417 140159412565696 Doc 49 not found, skipping.
+WARNING 2025-04-20 22:59:20,028 chat_agent 417 140159412565696 Doc 55 not found, skipping.
+INFO 2025-04-20 22:59:20,029 chat_agent 417 140159412565696 Generating answer based on context
+INFO 2025-04-20 22:59:21,146 chat_agent 417 140159412565696 Grading the generated answer
+INFO 2025-04-20 22:59:21,212 chat_agent 417 140159718364864 Grading the generated answer
+INFO 2025-04-20 22:59:21,408 chat_agent 417 140159412565696 Formatting final payload
+INFO 2025-04-20 22:59:21,409 basehttp 417 140159412565696 "POST /api/documents/chat HTTP/1.1" 200 6037
+INFO 2025-04-20 22:59:21,449 chat_agent 417 140159718364864 Formatting final payload
+INFO 2025-04-20 22:59:21,450 basehttp 417 140159718364864 "POST /api/documents/chat HTTP/1.1" 200 6068
+INFO 2025-04-20 23:00:38,575 basehttp 417 140159718364864 "OPTIONS /api/llm-models HTTP/1.1" 200 0
+INFO 2025-04-20 23:00:38,596 basehttp 417 140159718364864 "GET /api/llm-models HTTP/1.1" 200 749
+INFO 2025-04-20 23:05:03,665 chat_agent 417 140159718364864 Retrieving documents for query: what is the meaning of BOR
+INFO 2025-04-20 23:05:03,971 chat_agent 417 140159718364864 Generating answer based on context
+INFO 2025-04-20 23:05:04,233 chat_agent 417 140159718364864 Grading the generated answer
+INFO 2025-04-20 23:05:04,484 chat_agent 417 140159718364864 Formatting final payload
+INFO 2025-04-20 23:05:04,485 basehttp 417 140159718364864 "POST /api/documents/chat HTTP/1.1" 200 9248
+INFO 2025-04-20 23:05:25,754 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:05:27,314 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:05:31,032 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:05:31,973 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:05:38,431 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:05:43,481 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:05:48,520 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:05:53,577 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:05:58,616 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:03,662 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:08,708 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:13,753 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:18,807 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:23,855 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:28,893 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:33,939 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:38,991 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:41,756 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:42,921 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:47,979 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:53,028 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:06:58,074 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:03,122 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:08,179 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:13,229 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:17,541 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:19,568 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:20,923 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:25,958 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:31,011 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:36,060 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:41,095 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:07:46,149 basehttp 417 140159718364864 "GET /api/documents HTTP/1.1" 200 13034
+INFO 2025-04-20 23:11:41,549 autoreload 417 140160770116480 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:11:43,113 autoreload 482 139852600437632 Watching for file changes with StatReloader
+INFO 2025-04-20 23:12:50,866 autoreload 482 139852600437632 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:12:52,188 autoreload 527 140285333711744 Watching for file changes with StatReloader
+INFO 2025-04-20 23:13:00,350 basehttp 527 140284281964224 "GET /api/documents HTTP/1.1" 200 13107
+INFO 2025-04-20 23:13:01,026 basehttp 527 140284281964224 "OPTIONS /api/documents?page=1&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:13:01,134 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 13107
+INFO 2025-04-20 23:13:06,256 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 13107
+INFO 2025-04-20 23:13:11,297 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 13107
+INFO 2025-04-20 23:13:16,349 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 13107
+INFO 2025-04-20 23:13:21,395 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 13107
+INFO 2025-04-20 23:13:24,430 tasks 32 140324576328576 Starting chunk extraction for Document ID: 70
+INFO 2025-04-20 23:13:24,457 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 70 history
+INFO 2025-04-20 23:13:24,457 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 70
+INFO 2025-04-20 23:13:24,499 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 70 history
+INFO 2025-04-20 23:13:24,499 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 70
+INFO 2025-04-20 23:13:24,509 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 70 history
+INFO 2025-04-20 23:13:24,509 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 70
+INFO 2025-04-20 23:13:24,555 basehttp 527 140284281964224 "POST /api/documents/upload HTTP/1.1" 201 894
+ERROR 2025-04-20 23:13:24,563 tasks 32 140324576328576 Error adding chunks to vector store: (psycopg.errors.NotNullViolation) null value in column "id" of relation "langchain_pg_embedding" violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, null, null).
+[SQL: INSERT INTO langchain_pg_embedding DEFAULT VALUES ON CONFLICT (id) DO UPDATE SET embedding = excluded.embedding, document = excluded.document, cmetadata = excluded.cmetadata]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO 2025-04-20 23:13:24,575 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 70 history
+INFO 2025-04-20 23:13:24,575 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 70
+INFO 2025-04-20 23:13:24,575 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 70
+INFO 2025-04-20 23:13:24,580 tasks 32 140324576328576 Starting chunk extraction for Document ID: 71
+INFO 2025-04-20 23:13:24,602 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 71 history
+INFO 2025-04-20 23:13:24,603 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 71
+INFO 2025-04-20 23:13:24,647 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11599
+INFO 2025-04-20 23:13:24,786 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 71 history
+INFO 2025-04-20 23:13:24,786 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 71
+INFO 2025-04-20 23:13:24,793 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 71 history
+INFO 2025-04-20 23:13:24,793 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 71
+INFO 2025-04-20 23:13:25,146 tasks 32 140324576328576 Successfully added 8 chunks to vector store for document 71
+INFO 2025-04-20 23:13:25,154 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 71 history
+INFO 2025-04-20 23:13:25,154 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 71
+INFO 2025-04-20 23:13:25,154 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 71
+INFO 2025-04-20 23:13:25,157 tasks 32 140324576328576 Starting chunk extraction for Document ID: 72
+INFO 2025-04-20 23:13:25,176 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 72 history
+INFO 2025-04-20 23:13:25,177 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 72
+INFO 2025-04-20 23:13:25,700 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 72 history
+INFO 2025-04-20 23:13:25,700 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 72
+INFO 2025-04-20 23:13:25,706 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 72 history
+INFO 2025-04-20 23:13:25,706 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 72
+INFO 2025-04-20 23:13:25,958 tasks 32 140324576328576 Successfully added 7 chunks to vector store for document 72
+INFO 2025-04-20 23:13:25,967 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 72 history
+INFO 2025-04-20 23:13:25,967 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 72
+INFO 2025-04-20 23:13:25,967 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 72
+INFO 2025-04-20 23:13:25,970 tasks 32 140324576328576 Starting chunk extraction for Document ID: 73
+INFO 2025-04-20 23:13:25,990 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 73 history
+INFO 2025-04-20 23:13:25,990 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 73
+INFO 2025-04-20 23:13:26,019 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 73 history
+INFO 2025-04-20 23:13:26,019 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 73
+INFO 2025-04-20 23:13:26,026 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 73 history
+INFO 2025-04-20 23:13:26,026 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 73
+ERROR 2025-04-20 23:13:26,057 tasks 32 140324576328576 Error adding chunks to vector store: (psycopg.errors.NotNullViolation) null value in column "id" of relation "langchain_pg_embedding" violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, null, null).
+[SQL: INSERT INTO langchain_pg_embedding DEFAULT VALUES ON CONFLICT (id) DO UPDATE SET embedding = excluded.embedding, document = excluded.document, cmetadata = excluded.cmetadata]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO 2025-04-20 23:13:26,064 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 73 history
+INFO 2025-04-20 23:13:26,064 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 73
+INFO 2025-04-20 23:13:26,064 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 73
+INFO 2025-04-20 23:13:26,067 tasks 32 140324576328576 Starting chunk extraction for Document ID: 74
+INFO 2025-04-20 23:13:26,085 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 74 history
+INFO 2025-04-20 23:13:26,085 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 74
+INFO 2025-04-20 23:13:26,405 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 74 history
+INFO 2025-04-20 23:13:26,406 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 74
+INFO 2025-04-20 23:13:26,411 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 74 history
+INFO 2025-04-20 23:13:26,411 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 74
+INFO 2025-04-20 23:13:26,938 tasks 32 140324576328576 Successfully added 16 chunks to vector store for document 74
+INFO 2025-04-20 23:13:26,950 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 74 history
+INFO 2025-04-20 23:13:26,950 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 74
+INFO 2025-04-20 23:13:26,950 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 74
+INFO 2025-04-20 23:13:26,952 tasks 32 140324576328576 Starting chunk extraction for Document ID: 75
+INFO 2025-04-20 23:13:26,972 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 75 history
+INFO 2025-04-20 23:13:26,972 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 75
+INFO 2025-04-20 23:13:27,400 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 75 history
+INFO 2025-04-20 23:13:27,400 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 75
+INFO 2025-04-20 23:13:27,406 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 75 history
+INFO 2025-04-20 23:13:27,406 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 75
+INFO 2025-04-20 23:13:28,091 tasks 32 140324576328576 Successfully added 21 chunks to vector store for document 75
+INFO 2025-04-20 23:13:28,099 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 75 history
+INFO 2025-04-20 23:13:28,099 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 75
+INFO 2025-04-20 23:13:28,099 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 75
+INFO 2025-04-20 23:13:28,102 tasks 32 140324576328576 Starting summary generation for Document ID: 70
+INFO 2025-04-20 23:13:28,122 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 70 history
+INFO 2025-04-20 23:13:28,122 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 70
+INFO 2025-04-20 23:13:28,192 tasks 32 140324576328576 No chunks found using standard filter, trying with explicit ID format
+WARNING 2025-04-20 23:13:28,265 tasks 32 140324576328576 No chunks found for Document ID: 70, cannot generate summary.
+INFO 2025-04-20 23:13:28,272 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 70 history
+INFO 2025-04-20 23:13:28,273 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 70
+INFO 2025-04-20 23:13:28,275 tasks 32 140324576328576 Starting summary generation for Document ID: 71
+INFO 2025-04-20 23:13:28,293 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 71 history
+INFO 2025-04-20 23:13:28,293 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 71
+INFO 2025-04-20 23:13:28,364 doc_processor 32 140324576328576 Generating title and summary for text: Office of the Chancellor
+
+J-S-
+
+chancellor@g.msuiit.edu.ph
+
+September 8, 2022
+
+MEMORANDUM
+
+TO:
+
+All Responsibility Center Heads
+All Financial Analysts and Assistants
+This University
+
+SUBJECT:
+
+Deadline for Submission of Approved Project Procurement
+Management Plan (PPMP) for FY 2023
+
+All Responsibility Centers (RCs) are to submit their respective approved Project
+Procurement Management Plans (PPMPs) FY 2023 for GAA (Fund 01), Income (Fund 05), and
+Fiduciary (Fund 05) to the Procurement Management Division (PMD) on or before October 14,
+2022 for consolidation into the Annual Procurement Plan (APP). PPMPs submitted late will not
+be included in the APP.
+
+PPMPs shall strictly conform to the following:
+
+•  PPMPs shall be generated by accessing the online form, saved in the system and
+
+printed;
+INFO 2025-04-20 23:13:29,011 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 23:13:29,032 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 71 history
+INFO 2025-04-20 23:13:29,032 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 71
+INFO 2025-04-20 23:13:29,043 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 71 history
+INFO 2025-04-20 23:13:29,043 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 71
+INFO 2025-04-20 23:13:29,043 tasks 32 140324576328576 Summary and title generated for Document ID: 71
+INFO 2025-04-20 23:13:29,045 tasks 32 140324576328576 Starting summary generation for Document ID: 72
+INFO 2025-04-20 23:13:29,062 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 72 history
+INFO 2025-04-20 23:13:29,062 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 72
+INFO 2025-04-20 23:13:29,132 doc_processor 32 140324576328576 Generating title and summary for text: www.msuiit.edu.ph
+
+Office of the University Chancellor
+Mindanao State University - Iligan Institute of Technology
+
+Influencing the Future
+
+October 9, 2024
+
+MEMORANDUM
+
+TO:
+
+All Concerned Responsibility Center Heads
+This University
+
+SUBJECT:
+
+Monitoring and Submission of Report on the Number of Transactions for
+Internal and External Services Availed of by the University’s Clientele
+
+In cognizance of the Harmonized Client Satisfaction Measurement (CSM) and Anti-Red
+Tape Authority Memorandum Circulars 2022-005 and 2023-005, all Responsibility Centers
+providing internal and external services must record all received, completed, and
+pending transactions. This data will be included in the Client Satisfaction Measurement Report
+(CSMR) to be submitted by the University to the Anti-Red Tape Authority every last working day
+
+of April, as required by Section 4.7 of the circular.
+
+Section 3.1.2.3 of ARTA MC No. 2019-002-A defines internal and external services as:
+INFO 2025-04-20 23:13:29,685 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 23:13:29,695 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 72 history
+INFO 2025-04-20 23:13:29,696 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 72
+INFO 2025-04-20 23:13:29,706 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 72 history
+INFO 2025-04-20 23:13:29,707 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 72
+INFO 2025-04-20 23:13:29,707 tasks 32 140324576328576 Summary and title generated for Document ID: 72
+INFO 2025-04-20 23:13:29,708 tasks 32 140324576328576 Starting summary generation for Document ID: 73
+INFO 2025-04-20 23:13:29,710 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12251
+INFO 2025-04-20 23:13:29,727 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 73 history
+INFO 2025-04-20 23:13:29,727 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 73
+INFO 2025-04-20 23:13:29,803 tasks 32 140324576328576 No chunks found using standard filter, trying with explicit ID format
+WARNING 2025-04-20 23:13:29,876 tasks 32 140324576328576 No chunks found for Document ID: 73, cannot generate summary.
+INFO 2025-04-20 23:13:29,884 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 73 history
+INFO 2025-04-20 23:13:29,884 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 73
+INFO 2025-04-20 23:13:29,887 tasks 32 140324576328576 Starting summary generation for Document ID: 74
+INFO 2025-04-20 23:13:29,906 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 74 history
+INFO 2025-04-20 23:13:29,906 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 74
+INFO 2025-04-20 23:13:29,976 doc_processor 32 140324576328576 Generating title and summary for text: www.msuiit.edu.ph
+
+SPECIAL ORDER
+No. 00775 -iit
+Series of 2024
+
+Office of the University Chancellor
+Mindanao State University - Iligan Institute of Technology
+
+Influencing the Future
+
+April 2, 2024
+
+SUBJECT:
+
+Constitution of Working Committees for the University Palakasan 2024
+
+In order to ensure the effective and successful conduct of the 2024 Palakasan on April
+
+27-30, 2024, committees are created, to be composed of the following:
+
+STEERING COMMITTEE
+
+The following personnel shall supervise the overall planning and conduct of the
+reports from all working committees for submission to the
+
+Palakasan, and consolidate
+Management.
+
+Chairperson:
+Vice Chairperson:
+Members:
+
+Student Representatives:
+
+Secretariat
+Faculty/Staff Coordinator:
+Chairperson:
+Members:
+INFO 2025-04-20 23:13:30,521 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 23:13:30,550 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 74 history
+INFO 2025-04-20 23:13:30,550 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 74
+INFO 2025-04-20 23:13:30,557 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 74 history
+INFO 2025-04-20 23:13:30,558 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 74
+INFO 2025-04-20 23:13:30,558 tasks 32 140324576328576 Summary and title generated for Document ID: 74
+INFO 2025-04-20 23:13:30,559 tasks 32 140324576328576 Starting summary generation for Document ID: 75
+INFO 2025-04-20 23:13:30,582 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 75 history
+INFO 2025-04-20 23:13:30,582 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 75
+INFO 2025-04-20 23:13:30,660 doc_processor 32 140324576328576 Generating title and summary for text: www.msuiit edu.ph
+
+Office of the University Chancellor
+Mindanao State University - Iligan Institute of Technology
+
+Influencing the Future
+
+SPECIAL ORDER
+no. 008 09 -iit
+Series of 2023
+
+March 28, 2023
+
+SUBJECT:
+
+Constitution of Working Committees for the University Palakasan 2023
+
+In order to ensure the effective and successful conduct of the 2023 Palakasan on April
+
+22-26, 2023, committees are created, to be composed of the following:
+
+STEERING COMMITTEE
+
+The following personnel shall supervise the overall planning and conduct of the
+committees for submission to the
+
+Palakasan, and consolidate reports from all working
+Management.
+
+Chairperson:
+Co-Chairperson:
+
+Rohane M. Derogongan
+Phyllis Marie S. Teanco
+
+Members:
+INFO 2025-04-20 23:13:31,214 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 23:13:31,236 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 75 history
+INFO 2025-04-20 23:13:31,237 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 75
+INFO 2025-04-20 23:13:31,243 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 75 history
+INFO 2025-04-20 23:13:31,244 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 75
+INFO 2025-04-20 23:13:31,244 tasks 32 140324576328576 Summary and title generated for Document ID: 75
+INFO 2025-04-20 23:13:34,757 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:13:43,729 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:13:48,783 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:13:53,826 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:13:58,878 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:03,932 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:08,981 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:14,021 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:19,069 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:24,116 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:29,155 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:31,592 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:36,637 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:41,701 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:14:42,616 basehttp 527 140284281964224 "OPTIONS /api/documents?page=2&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:14:42,648 basehttp 527 140284281964224 "GET /api/documents?page=2&page_size=9 HTTP/1.1" 200 8908
+INFO 2025-04-20 23:14:47,696 basehttp 527 140284281964224 "GET /api/documents?page=2&page_size=9 HTTP/1.1" 200 8908
+INFO 2025-04-20 23:14:52,732 basehttp 527 140284281964224 "GET /api/documents?page=2&page_size=9 HTTP/1.1" 200 8908
+INFO 2025-04-20 23:14:59,444 chat_agent 527 140284281964224 Retrieving documents for query: who is jesus\
+WARNING 2025-04-20 23:14:59,672 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:14:59,675 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:14:59,677 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:14:59,679 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:14:59,681 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+INFO 2025-04-20 23:14:59,681 chat_agent 527 140284281964224 Generating answer based on context
+INFO 2025-04-20 23:15:00,318 chat_agent 527 140284281964224 Grading the generated answer
+INFO 2025-04-20 23:15:00,525 chat_agent 527 140284281964224 Formatting final payload
+INFO 2025-04-20 23:15:00,526 basehttp 527 140284281964224 "POST /api/documents/chat HTTP/1.1" 200 5481
+INFO 2025-04-20 23:15:05,771 chat_agent 527 140284281964224 Retrieving documents for query: who is jesus
+WARNING 2025-04-20 23:15:05,907 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:15:05,909 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:15:05,911 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:15:05,912 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:15:05,914 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+INFO 2025-04-20 23:15:05,915 chat_agent 527 140284281964224 Generating answer based on context
+INFO 2025-04-20 23:15:06,395 chat_agent 527 140284281964224 Grading the generated answer
+INFO 2025-04-20 23:15:06,583 chat_agent 527 140284281964224 Formatting final payload
+INFO 2025-04-20 23:15:06,583 basehttp 527 140284281964224 "POST /api/documents/chat HTTP/1.1" 200 5379
+INFO 2025-04-20 23:15:15,669 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:15:19,385 basehttp 527 140284281964224 "GET /api/documents?page=2&page_size=9 HTTP/1.1" 200 8908
+INFO 2025-04-20 23:15:23,067 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:15:28,101 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:15:33,146 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12713
+INFO 2025-04-20 23:15:38,066 tasks 32 140324576328576 Starting chunk extraction for Document ID: 76
+INFO 2025-04-20 23:15:38,068 basehttp 527 140284281964224 "POST /api/documents/upload HTTP/1.1" 201 67
+INFO 2025-04-20 23:15:38,088 tasks 32 140324576328576 Updated timestamp for status 'text_extracting' in document 76 history
+INFO 2025-04-20 23:15:38,088 tasks 32 140324576328576 Document status updated from 'pending' to 'text_extracting' for Document ID: 76
+INFO 2025-04-20 23:15:38,128 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12387
+INFO 2025-04-20 23:15:40,289 tasks 32 140324576328576 Updated timestamp for status 'text_extracted' in document 76 history
+INFO 2025-04-20 23:15:40,289 tasks 32 140324576328576 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 76
+INFO 2025-04-20 23:15:40,295 tasks 32 140324576328576 Updated timestamp for status 'embedding_text' in document 76 history
+INFO 2025-04-20 23:15:40,295 tasks 32 140324576328576 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 76
+INFO 2025-04-20 23:15:43,170 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12436
+INFO 2025-04-20 23:15:44,206 tasks 32 140324576328576 Successfully added 139 chunks to vector store for document 76
+INFO 2025-04-20 23:15:44,214 tasks 32 140324576328576 Updated timestamp for status 'embedded_text' in document 76 history
+INFO 2025-04-20 23:15:44,214 tasks 32 140324576328576 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 76
+INFO 2025-04-20 23:15:44,214 tasks 32 140324576328576 Successfully processed and saved chunks for Document ID: 76
+INFO 2025-04-20 23:15:44,217 tasks 32 140324576328576 Starting summary generation for Document ID: 76
+INFO 2025-04-20 23:15:44,236 tasks 32 140324576328576 Updated timestamp for status 'generating_summary' in document 76 history
+INFO 2025-04-20 23:15:44,237 tasks 32 140324576328576 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 76
+INFO 2025-04-20 23:15:44,305 doc_processor 32 140324576328576 Generating title and summary for text: Gospel of John
+
+1 In the beginning was the Word, and the Word was with God, and the Word
+was God. 2 He was in the beginning with God. 3 All things were made through Him, and
+without Him nothing was made that was made. 4 In Him was life, and the life was the
+light of men. 5 And the light shines in the darkness, and the darkness did
+not [a]comprehend it.
+
+John’s Witness: The True Light
+
+6 There was a man sent from God, whose name was John. 7 This man came for
+a witness, to bear witness of the Light, that all through him might believe. 8 He was not
+that Light, but was sent to bear witness of that Light. 9 That[b] was the true Light which
+gives light to every man coming into the world.
+INFO 2025-04-20 23:15:44,672 doc_processor 32 140324576328576 Title and summary generated successfully.
+INFO 2025-04-20 23:15:44,695 tasks 32 140324576328576 Updated timestamp for status 'summary_generated' in document 76 history
+INFO 2025-04-20 23:15:44,695 tasks 32 140324576328576 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 76
+INFO 2025-04-20 23:15:44,703 tasks 32 140324576328576 Updated timestamp for status 'completed' in document 76 history
+INFO 2025-04-20 23:15:44,703 tasks 32 140324576328576 Document status updated from 'summary_generated' to 'completed' for Document ID: 76
+INFO 2025-04-20 23:15:44,703 tasks 32 140324576328576 Summary and title generated for Document ID: 76
+INFO 2025-04-20 23:15:48,217 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:15:56,245 chat_agent 527 140284281964224 Retrieving documents for query: who is jesus
+WARNING 2025-04-20 23:15:56,539 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:15:56,543 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:15:56,545 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+INFO 2025-04-20 23:15:56,546 chat_agent 527 140284281964224 Generating answer based on context
+INFO 2025-04-20 23:15:57,035 chat_agent 527 140284281964224 Grading the generated answer
+INFO 2025-04-20 23:15:57,242 chat_agent 527 140284281964224 Formatting final payload
+INFO 2025-04-20 23:15:57,243 basehttp 527 140284281964224 "POST /api/documents/chat HTTP/1.1" 200 7556
+INFO 2025-04-20 23:16:32,468 chat_agent 527 140284281964224 Retrieving documents for query: are you sure?
+WARNING 2025-04-20 23:16:32,730 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:16:32,733 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+WARNING 2025-04-20 23:16:32,737 chat_agent 527 140284281964224 Doc 30 not found, skipping.
+INFO 2025-04-20 23:16:32,738 chat_agent 527 140284281964224 Generating answer based on context
+INFO 2025-04-20 23:16:33,007 chat_agent 527 140284281964224 Grading the generated answer
+INFO 2025-04-20 23:16:33,201 chat_agent 527 140284281964224 Formatting final payload
+INFO 2025-04-20 23:16:33,202 basehttp 527 140284281964224 "POST /api/documents/chat HTTP/1.1" 200 5939
+INFO 2025-04-20 23:16:45,662 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:16:47,499 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:16:52,570 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:16:57,624 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:02,665 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:07,719 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:12,750 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:17,782 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:22,833 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:27,877 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:32,928 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:37,978 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:43,024 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:48,075 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:17:53,136 basehttp 527 140284281964224 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:20:19,928 autoreload 527 140285333711744 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:20:21,362 autoreload 573 140290219936640 Watching for file changes with StatReloader
+INFO 2025-04-20 23:21:26,591 autoreload 573 140290219936640 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:21:27,952 autoreload 618 140674858007424 Watching for file changes with StatReloader
+INFO 2025-04-20 23:21:30,678 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:21:31,703 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:21:36,831 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:21:41,889 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:21:46,943 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:21:51,995 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:21:57,046 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:22:02,082 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:22:07,127 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:22:12,187 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:22:17,225 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:22:22,263 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:22:27,262 basehttp 618 140673734932160 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:22:29,513 basehttp 618 140673734932160 "OPTIONS /api/documents/search?query=test&page=1&page_size=10 HTTP/1.1" 200 0
+INFO 2025-04-20 23:22:29,724 basehttp 618 140673734932160 "GET /api/documents/search?query=test&page=1&page_size=10 HTTP/1.1" 200 3404
+INFO 2025-04-20 23:23:22,255 autoreload 618 140674858007424 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:23:23,301 autoreload 664 139680783788928 Watching for file changes with StatReloader
+INFO 2025-04-20 23:23:30,913 autoreload 664 139680783788928 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:23:31,927 autoreload 709 139806529510272 Watching for file changes with StatReloader
+INFO 2025-04-20 23:23:48,570 autoreload 709 139806529510272 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:23:49,877 autoreload 754 139848905956224 Watching for file changes with StatReloader
+INFO 2025-04-20 23:23:51,530 basehttp 754 139847854282432 "GET /api/documents/search?query=test&page=1&page_size=10 HTTP/1.1" 200 9434
+INFO 2025-04-20 23:24:06,498 autoreload 754 139848905956224 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:24:07,524 autoreload 801 139897343925120 Watching for file changes with StatReloader
+INFO 2025-04-20 23:29:15,848 autoreload 801 139897343925120 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:29:17,098 autoreload 846 140491501538176 Watching for file changes with StatReloader
+INFO 2025-04-20 23:29:39,876 autoreload 846 140491501538176 /usr/src/app/app/utils/extractor.py changed, reloading.
+INFO 2025-04-20 23:29:40,890 autoreload 891 139723535653760 Watching for file changes with StatReloader
+INFO 2025-04-20 23:29:47,432 autoreload 891 139723535653760 /usr/src/app/app/utils/extractor.py changed, reloading.
+INFO 2025-04-20 23:29:48,431 autoreload 936 140015556139904 Watching for file changes with StatReloader
+INFO 2025-04-20 23:29:59,003 autoreload 936 140015556139904 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:29:59,983 autoreload 981 139792226810752 Watching for file changes with StatReloader
+INFO 2025-04-20 23:30:10,546 autoreload 981 139792226810752 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:30:11,565 autoreload 1026 140435130325888 Watching for file changes with StatReloader
+INFO 2025-04-20 23:32:07,543 autoreload 1026 140435130325888 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:32:08,923 autoreload 1071 140296181197696 Watching for file changes with StatReloader
+INFO 2025-04-20 23:33:51,808 autoreload 1071 140296181197696 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:33:53,412 autoreload 1116 140572406356864 Watching for file changes with StatReloader
+INFO 2025-04-20 23:33:58,501 autoreload 1116 140572406356864 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:33:59,576 autoreload 1161 140006493903744 Watching for file changes with StatReloader
+INFO 2025-04-20 23:39:20,762 basehttp 1161 140005442078400 "OPTIONS /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:39:20,979 basehttp 1161 140005442078400 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:39:40,916 autoreload 1161 140006493903744 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-20 23:39:42,346 autoreload 1207 139866066709376 Watching for file changes with StatReloader
+INFO 2025-04-20 23:40:32,298 basehttp 1207 139865014933184 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:40:59,813 basehttp 1207 139865014933184 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:41:01,371 basehttp 1207 139865014933184 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:41:20,555 basehttp 1207 139865014933184 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:41:56,294 basehttp 1207 139865014933184 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:42:16,144 basehttp 1207 139865014933184 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:42:28,395 basehttp 1207 139865014933184 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:46:32,695 basehttp 1207 139865014933184 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:46:34,105 basehttp 1207 139865014933184 "GET /api/documents/search?query=test&page=1&page_size=9 HTTP/1.1" 200 9153
+INFO 2025-04-20 23:46:41,157 basehttp 1207 139865014933184 "OPTIONS /api/documents/search?query=hello&page=1&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:46:41,297 basehttp 1207 139865014933184 "GET /api/documents/search?query=hello&page=1&page_size=9 HTTP/1.1" 200 9502
+INFO 2025-04-20 23:46:48,223 basehttp 1207 139865014933184 "OPTIONS /api/documents/search?query=jesus&page=1&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:46:48,562 basehttp 1207 139865014933184 "GET /api/documents/search?query=jesus&page=1&page_size=9 HTTP/1.1" 200 7875
+INFO 2025-04-20 23:46:58,890 basehttp 1207 139865014933184 "OPTIONS /api/documents/search?query=jesus&page=2&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:46:59,000 basehttp 1207 139865014933184 "GET /api/documents/search?query=jesus&page=2&page_size=9 HTTP/1.1" 200 9892
+INFO 2025-04-20 23:47:05,750 basehttp 1207 139865014933184 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12552
+INFO 2025-04-20 23:47:10,574 basehttp 1207 139865014933184 "OPTIONS /api/documents/search?query=gospel+of+john&page=1&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:47:10,676 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=1&page_size=9 HTTP/1.1" 200 9867
+INFO 2025-04-20 23:47:22,539 basehttp 1207 139865014933184 "OPTIONS /api/documents/search?query=gospel+of+john&page=2&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:47:22,654 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=2&page_size=9 HTTP/1.1" 200 10752
+INFO 2025-04-20 23:47:24,110 basehttp 1207 139865014933184 "OPTIONS /api/documents/search?query=gospel+of+john&page=3&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:47:24,217 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=3&page_size=9 HTTP/1.1" 200 9698
+INFO 2025-04-20 23:47:31,976 basehttp 1207 139865014933184 "OPTIONS /api/documents/search?query=gospel+of+john&page=4&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:47:32,257 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=4&page_size=9 HTTP/1.1" 200 9138
+INFO 2025-04-20 23:47:36,039 basehttp 1207 139865014933184 "OPTIONS /api/documents/search?query=gospel+of+john&page=5&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:47:36,240 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=5&page_size=9 HTTP/1.1" 200 9524
+INFO 2025-04-20 23:47:39,290 basehttp 1207 139865014933184 "OPTIONS /api/documents/search?query=gospel+of+john&page=6&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-20 23:47:39,541 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=6&page_size=9 HTTP/1.1" 200 5873
+INFO 2025-04-20 23:47:43,087 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=2&page_size=9 HTTP/1.1" 200 10752
+INFO 2025-04-20 23:48:06,949 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=2&page_size=9 HTTP/1.1" 200 10752
+INFO 2025-04-20 23:48:13,577 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=2&page_size=9 HTTP/1.1" 200 10752
+INFO 2025-04-20 23:48:15,707 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=1&page_size=9 HTTP/1.1" 200 9867
+INFO 2025-04-20 23:48:52,843 basehttp 1207 139865014933184 "GET /api/documents/search?query=gospel+of+john&page=1&page_size=9 HTTP/1.1" 200 9867
