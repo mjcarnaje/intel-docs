@@ -14897,3 +14897,534 @@ INFO 2025-04-21 14:17:09,785 documents 136 140154052241088 Chunks: ['## Republic
 INFO 2025-04-21 14:17:09,786 basehttp 136 140154052241088 "GET /api/documents/21/markdown HTTP/1.1" 200 2060
 INFO 2025-04-21 14:19:14,556 autoreload 136 140160208464768 /usr/src/app/app/views/documents.py changed, reloading.
 INFO 2025-04-21 14:19:16,190 autoreload 214 140375465642880 Watching for file changes with StatReloader
+INFO 2025-04-21 14:25:59,748 autoreload 214 140375465642880 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-21 14:26:01,575 autoreload 278 140527073688448 Watching for file changes with StatReloader
+INFO 2025-04-21 14:27:16,224 autoreload 278 140527073688448 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:27:17,810 autoreload 320 140364768193408 Watching for file changes with StatReloader
+INFO 2025-04-21 14:27:46,623 autoreload 320 140364768193408 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:27:48,412 autoreload 384 140336115297152 Watching for file changes with StatReloader
+INFO 2025-04-21 14:28:21,389 autoreload 384 140336115297152 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:28:23,218 autoreload 448 140350186208128 Watching for file changes with StatReloader
+INFO 2025-04-21 14:28:45,689 autoreload 448 140350186208128 /usr/src/app/app/urls.py changed, reloading.
+INFO 2025-04-21 14:28:47,266 autoreload 512 139995097013120 Watching for file changes with StatReloader
+INFO 2025-04-21 14:29:08,094 basehttp 512 139988947650240 "GET /api/documents/21 HTTP/1.1" 200 1381
+INFO 2025-04-21 14:29:08,095 basehttp 512 139989455201984 "GET /api/documents/21/raw HTTP/1.1" 200 256873
+INFO 2025-04-21 14:29:08,206 documents 512 139988939257536 Chunks: ['## Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi City\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 264™ MEETING OF THE BOARD OF REGENTS HELD ON OCTOBER 11, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\n## "RESOLUTION NO. 240, S. 2023\n\nRESOLVED, that upon the recommendation of the Vliversity President and the Finance and Executive Commite - the Board of Regents, the Initial Rank of the one (1) faculty from MSU-IIT, is HEREBY APPROVED.\n\nRESOLVED FURTHER, that their individe a and respective recommended rank subject to the avail ility of funds and whenever necessary upon coordination-approv the separtment of Budget and Management to wit:\n\nX-X-X\n\n## APPROVED"\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIDIK/T. ABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 23 October 2023 (Not valid without seal)']
+INFO 2025-04-21 14:29:08,209 basehttp 512 139988939257536 "GET /api/documents/21/markdown HTTP/1.1" 200 2060
+INFO 2025-04-21 14:29:08,738 basehttp 512 139988939257536 "GET /api/documents/21 HTTP/1.1" 200 1381
+INFO 2025-04-21 14:29:08,900 basehttp 512 139988939257536 "GET /api/documents/21/raw HTTP/1.1" 200 256873
+INFO 2025-04-21 14:29:08,973 documents 512 139988947650240 Chunks: ['## Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi City\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 264™ MEETING OF THE BOARD OF REGENTS HELD ON OCTOBER 11, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\n## "RESOLUTION NO. 240, S. 2023\n\nRESOLVED, that upon the recommendation of the Vliversity President and the Finance and Executive Commite - the Board of Regents, the Initial Rank of the one (1) faculty from MSU-IIT, is HEREBY APPROVED.\n\nRESOLVED FURTHER, that their individe a and respective recommended rank subject to the avail ility of funds and whenever necessary upon coordination-approv the separtment of Budget and Management to wit:\n\nX-X-X\n\n## APPROVED"\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIDIK/T. ABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 23 October 2023 (Not valid without seal)']
+INFO 2025-04-21 14:29:08,976 basehttp 512 139988947650240 "GET /api/documents/21/markdown HTTP/1.1" 200 2060
+INFO 2025-04-21 14:31:14,035 basehttp 512 139988947650240 "GET /api/documents/21 HTTP/1.1" 200 1381
+INFO 2025-04-21 14:31:14,114 basehttp 512 139988947650240 "GET /api/documents/21/raw HTTP/1.1" 200 256873
+INFO 2025-04-21 14:31:14,208 documents 512 139988939257536 Chunks: ['## Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi City\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 264™ MEETING OF THE BOARD OF REGENTS HELD ON OCTOBER 11, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\n## "RESOLUTION NO. 240, S. 2023\n\nRESOLVED, that upon the recommendation of the Vliversity President and the Finance and Executive Commite - the Board of Regents, the Initial Rank of the one (1) faculty from MSU-IIT, is HEREBY APPROVED.\n\nRESOLVED FURTHER, that their individe a and respective recommended rank subject to the avail ility of funds and whenever necessary upon coordination-approv the separtment of Budget and Management to wit:\n\nX-X-X\n\n## APPROVED"\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIDIK/T. ABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 23 October 2023 (Not valid without seal)']
+INFO 2025-04-21 14:31:14,211 basehttp 512 139988939257536 "GET /api/documents/21/markdown HTTP/1.1" 200 2060
+WARNING 2025-04-21 14:31:19,818 log 512 139988939257536 Method Not Allowed: /api/documents/21/markdown
+WARNING 2025-04-21 14:31:19,818 basehttp 512 139988939257536 "PUT /api/documents/21/markdown HTTP/1.1" 405 40
+INFO 2025-04-21 14:31:38,922 autoreload 512 139995097013120 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:31:40,717 autoreload 579 140038920567680 Watching for file changes with StatReloader
+INFO 2025-04-21 14:31:45,831 basehttp 579 140033268897472 "GET /api/documents/21 HTTP/1.1" 200 1381
+INFO 2025-04-21 14:31:45,855 basehttp 579 140033268897472 "GET /api/documents/21/raw HTTP/1.1" 200 256873
+INFO 2025-04-21 14:31:46,076 documents 579 140033260504768 Chunks: ['## Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi City\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 264™ MEETING OF THE BOARD OF REGENTS HELD ON OCTOBER 11, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\n## "RESOLUTION NO. 240, S. 2023\n\nRESOLVED, that upon the recommendation of the Vliversity President and the Finance and Executive Commite - the Board of Regents, the Initial Rank of the one (1) faculty from MSU-IIT, is HEREBY APPROVED.\n\nRESOLVED FURTHER, that their individe a and respective recommended rank subject to the avail ility of funds and whenever necessary upon coordination-approv the separtment of Budget and Management to wit:\n\nX-X-X\n\n## APPROVED"\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIDIK/T. ABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 23 October 2023 (Not valid without seal)']
+INFO 2025-04-21 14:31:46,078 basehttp 579 140033260504768 "GET /api/documents/21/markdown HTTP/1.1" 200 2060
+INFO 2025-04-21 14:32:05,056 basehttp 579 140033260504768 "GET /api/documents/21 HTTP/1.1" 200 1381
+INFO 2025-04-21 14:32:05,108 basehttp 579 140033260504768 "GET /api/documents/21/raw HTTP/1.1" 200 256873
+INFO 2025-04-21 14:32:05,191 documents 579 140033268897472 Chunks: ['## Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi City\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 264™ MEETING OF THE BOARD OF REGENTS HELD ON OCTOBER 11, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\n## "RESOLUTION NO. 240, S. 2023\n\nRESOLVED, that upon the recommendation of the Vliversity President and the Finance and Executive Commite - the Board of Regents, the Initial Rank of the one (1) faculty from MSU-IIT, is HEREBY APPROVED.\n\nRESOLVED FURTHER, that their individe a and respective recommended rank subject to the avail ility of funds and whenever necessary upon coordination-approv the separtment of Budget and Management to wit:\n\nX-X-X\n\n## APPROVED"\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIDIK/T. ABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 23 October 2023 (Not valid without seal)']
+INFO 2025-04-21 14:32:05,192 basehttp 579 140033268897472 "GET /api/documents/21/markdown HTTP/1.1" 200 2060
+WARNING 2025-04-21 14:32:17,952 log 579 140033268897472 Method Not Allowed: /api/documents/21/markdown
+WARNING 2025-04-21 14:32:17,952 basehttp 579 140033268897472 "PUT /api/documents/21/markdown HTTP/1.1" 405 40
+WARNING 2025-04-21 14:32:28,011 log 579 140033268897472 Method Not Allowed: /api/documents/21/markdown
+WARNING 2025-04-21 14:32:28,012 basehttp 579 140033268897472 "PUT /api/documents/21/markdown HTTP/1.1" 405 40
+INFO 2025-04-21 14:32:30,435 basehttp 579 140033268897472 "GET /api/documents/21 HTTP/1.1" 200 1381
+INFO 2025-04-21 14:32:30,579 basehttp 579 140033268897472 "GET /api/documents/21/raw HTTP/1.1" 200 256873
+INFO 2025-04-21 14:32:30,756 documents 579 140033260504768 Chunks: ['## Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi City\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 264™ MEETING OF THE BOARD OF REGENTS HELD ON OCTOBER 11, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\n## "RESOLUTION NO. 240, S. 2023\n\nRESOLVED, that upon the recommendation of the Vliversity President and the Finance and Executive Commite - the Board of Regents, the Initial Rank of the one (1) faculty from MSU-IIT, is HEREBY APPROVED.\n\nRESOLVED FURTHER, that their individe a and respective recommended rank subject to the avail ility of funds and whenever necessary upon coordination-approv the separtment of Budget and Management to wit:\n\nX-X-X\n\n## APPROVED"\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIDIK/T. ABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 23 October 2023 (Not valid without seal)']
+INFO 2025-04-21 14:32:30,758 basehttp 579 140033260504768 "GET /api/documents/21/markdown HTTP/1.1" 200 2060
+INFO 2025-04-21 14:32:47,147 basehttp 579 140033260504768 "GET /api/documents/21 HTTP/1.1" 200 1381
+INFO 2025-04-21 14:32:47,313 basehttp 579 140033260504768 "GET /api/documents/21/raw HTTP/1.1" 200 256873
+INFO 2025-04-21 14:32:47,406 documents 579 140033268897472 Chunks: ['## Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi City\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 264™ MEETING OF THE BOARD OF REGENTS HELD ON OCTOBER 11, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\n## "RESOLUTION NO. 240, S. 2023\n\nRESOLVED, that upon the recommendation of the Vliversity President and the Finance and Executive Commite - the Board of Regents, the Initial Rank of the one (1) faculty from MSU-IIT, is HEREBY APPROVED.\n\nRESOLVED FURTHER, that their individe a and respective recommended rank subject to the avail ility of funds and whenever necessary upon coordination-approv the separtment of Budget and Management to wit:\n\nX-X-X\n\n## APPROVED"\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIDIK/T. ABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 23 October 2023 (Not valid without seal)']
+INFO 2025-04-21 14:32:47,408 basehttp 579 140033268897472 "GET /api/documents/21/markdown HTTP/1.1" 200 2060
+INFO 2025-04-21 14:32:51,639 basehttp 579 140033268897472 "OPTIONS /api/documents/21/update HTTP/1.1" 200 0
+INFO 2025-04-21 14:32:51,671 tasks 579 140033268897472 Updated history timestamp for status 'text_extracted' on document 21
+INFO 2025-04-21 14:32:51,671 tasks 579 140033268897472 Document status updated from 'completed' to 'text_extracted' for Document ID: 21
+INFO 2025-04-21 14:32:51,696 basehttp 579 140033268897472 "PUT /api/documents/21/update HTTP/1.1" 200 0
+INFO 2025-04-21 14:32:51,731 basehttp 579 140033268897472 "GET /api/documents/21 HTTP/1.1" 200 1386
+INFO 2025-04-21 14:32:51,816 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:32:56,852 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:01,849 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:06,874 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:11,915 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:16,924 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:21,961 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:27,002 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:32,046 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:37,122 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:42,167 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:47,294 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:52,407 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:33:57,409 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:02,440 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:07,449 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:12,457 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:17,510 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:22,926 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:27,835 basehttp 579 140033268897472 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:29,999 basehttp 579 140033268897472 "GET /api/documents/19 HTTP/1.1" 200 1340
+INFO 2025-04-21 14:34:30,029 basehttp 579 140033268897472 "GET /api/documents/19/raw HTTP/1.1" 200 977320
+INFO 2025-04-21 14:34:30,114 documents 579 140033260504768 Chunks: ['### Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi Citv\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 26300 MEETING OF THE BOARD OF REGENTS HELD ON JULY 7, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\n#### X-X-X\n\nX-X-X\n\n# "RESOLUTION NO. 128, S. 2023"\n\nRESOLVED, that upon the recommendation of the University President and the Executive Committee of the Board of Regents, the six \\ \\ New \\_urricular Programs and twelve (12) Revised Curricular Prog-ms as end sed by the System University Council (SUC), attached hereto as A ne ي ي سي cover), are hereby APPROVED, to wit:', '| New Curricular Programs                                                                  | ise Curricular Program                                                |\n|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|\n| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                    | -x-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X        |\n| MSU-                                                                                     |                                                                       |\n| 1. Master of Science in Robotics (MSRob)                                                 | of Science in Electrical Engineering<br>MSEE                          |\n| 2. "<br>Master<br>of<br>Science<br>Electics )<br>In<br>Communication Engineering (MSECE) | Master of Science in Civil Engineering (MSCE)                         |', '| 2. "<br>Master<br>of<br>Science<br>Electics )<br>In<br>Communication Engineering (MSECE) | Master of Science in Civil Engineering (MSCE)                         |\n| 3. Master of Science in Chemical E<br>(MSChE)                                            | Master of Science in Information Systems<br>ന്ന<br>(MSIS)             |\n|                                                                                          | 4. Master of Science in Information Technology<br>(MSIT)              |\n|                                                                                          | 5. Master of Science in Computer Applications<br>(MSCA)               |\n|                                                                                          | Master of Science in Environment Science<br>6.<br>(MSES)              |\n|                                                                                          | 7. Doctor of Philosophy in Environmental Science<br>(PhDESci)         |', '|                                                                                          | 7. Doctor of Philosophy in Environmental Science<br>(PhDESci)         |\n| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                        | X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X |', '## APPROVED"\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIPIK TABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 31 August 2023 (Not valid without seal)']
+ERROR 2025-04-21 14:34:30,149 log 579 140033260504768 Internal Server Error: /api/documents/19/markdown
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/views/documents.py", line 160, in get_doc_markdown
+    markdown_text = DocumentFullText.objects.get(document=document).text
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/query.py", line 649, in get
+    raise self.model.DoesNotExist(
+app.models.DocumentFullText.DoesNotExist: DocumentFullText matching query does not exist.
+ERROR 2025-04-21 14:34:30,151 basehttp 579 140033260504768 "GET /api/documents/19/markdown HTTP/1.1" 500 108788
+INFO 2025-04-21 14:34:31,258 documents 579 140033260504768 Chunks: ['### Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi Citv\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 26300 MEETING OF THE BOARD OF REGENTS HELD ON JULY 7, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\n#### X-X-X\n\nX-X-X\n\n# "RESOLUTION NO. 128, S. 2023"\n\nRESOLVED, that upon the recommendation of the University President and the Executive Committee of the Board of Regents, the six \\ \\ New \\_urricular Programs and twelve (12) Revised Curricular Prog-ms as end sed by the System University Council (SUC), attached hereto as A ne ي ي سي cover), are hereby APPROVED, to wit:', '| New Curricular Programs                                                                  | ise Curricular Program                                                |\n|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|\n| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                    | -x-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X        |\n| MSU-                                                                                     |                                                                       |\n| 1. Master of Science in Robotics (MSRob)                                                 | of Science in Electrical Engineering<br>MSEE                          |\n| 2. "<br>Master<br>of<br>Science<br>Electics )<br>In<br>Communication Engineering (MSECE) | Master of Science in Civil Engineering (MSCE)                         |', '| 2. "<br>Master<br>of<br>Science<br>Electics )<br>In<br>Communication Engineering (MSECE) | Master of Science in Civil Engineering (MSCE)                         |\n| 3. Master of Science in Chemical E<br>(MSChE)                                            | Master of Science in Information Systems<br>ന്ന<br>(MSIS)             |\n|                                                                                          | 4. Master of Science in Information Technology<br>(MSIT)              |\n|                                                                                          | 5. Master of Science in Computer Applications<br>(MSCA)               |\n|                                                                                          | Master of Science in Environment Science<br>6.<br>(MSES)              |\n|                                                                                          | 7. Doctor of Philosophy in Environmental Science<br>(PhDESci)         |', '|                                                                                          | 7. Doctor of Philosophy in Environmental Science<br>(PhDESci)         |\n| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                        | X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X |', '## APPROVED"\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIPIK TABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 31 August 2023 (Not valid without seal)']
+ERROR 2025-04-21 14:34:31,278 log 579 140033260504768 Internal Server Error: /api/documents/19/markdown
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/views/documents.py", line 160, in get_doc_markdown
+    markdown_text = DocumentFullText.objects.get(document=document).text
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/query.py", line 649, in get
+    raise self.model.DoesNotExist(
+app.models.DocumentFullText.DoesNotExist: DocumentFullText matching query does not exist.
+ERROR 2025-04-21 14:34:31,279 basehttp 579 140033260504768 "GET /api/documents/19/markdown HTTP/1.1" 500 108788
+INFO 2025-04-21 14:34:33,381 documents 579 140033260504768 Chunks: ['### Republic of the Philippines MINDANAO STATE UNIVERSITY Marawi Citv\n\n## OFFICE OF THE SECRETARY OF THE UNIVERSITY AND OF THE BOARD OF REGENTS\n\nEXCERPTS FROM THE MINUTES OF THE 26300 MEETING OF THE BOARD OF REGENTS HELD ON JULY 7, 2023 AT CHED CONFERENCE ROOM, HEDC BUILDING, C.P. GARCIA AVENUE, DILIMAN, QUEZON CITY\n\nX-X-X\n\n#### X-X-X\n\nX-X-X\n\n# "RESOLUTION NO. 128, S. 2023"\n\nRESOLVED, that upon the recommendation of the University President and the Executive Committee of the Board of Regents, the six \\ \\ New \\_urricular Programs and twelve (12) Revised Curricular Prog-ms as end sed by the System University Council (SUC), attached hereto as A ne ي ي سي cover), are hereby APPROVED, to wit:', '| New Curricular Programs                                                                  | ise Curricular Program                                                |\n|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|\n| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                    | -x-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X        |\n| MSU-                                                                                     |                                                                       |\n| 1. Master of Science in Robotics (MSRob)                                                 | of Science in Electrical Engineering<br>MSEE                          |\n| 2. "<br>Master<br>of<br>Science<br>Electics )<br>In<br>Communication Engineering (MSECE) | Master of Science in Civil Engineering (MSCE)                         |', '| 2. "<br>Master<br>of<br>Science<br>Electics )<br>In<br>Communication Engineering (MSECE) | Master of Science in Civil Engineering (MSCE)                         |\n| 3. Master of Science in Chemical E<br>(MSChE)                                            | Master of Science in Information Systems<br>ന്ന<br>(MSIS)             |\n|                                                                                          | 4. Master of Science in Information Technology<br>(MSIT)              |\n|                                                                                          | 5. Master of Science in Computer Applications<br>(MSCA)               |\n|                                                                                          | Master of Science in Environment Science<br>6.<br>(MSES)              |\n|                                                                                          | 7. Doctor of Philosophy in Environmental Science<br>(PhDESci)         |', '|                                                                                          | 7. Doctor of Philosophy in Environmental Science<br>(PhDESci)         |\n| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                        | X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X |', '## APPROVED"\n\nX-X-X\n\nX-X-X\n\nX-X-X\n\nCERTIFIED TRUE AND CORRECT:\n\nATTY. SHIPIK TABANTAS, MDM Secretary of the University and of the Board of Regents\n\nSTA:rlf 31 August 2023 (Not valid without seal)']
+ERROR 2025-04-21 14:34:33,399 log 579 140033260504768 Internal Server Error: /api/documents/19/markdown
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/views/documents.py", line 160, in get_doc_markdown
+    markdown_text = DocumentFullText.objects.get(document=document).text
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/db/models/query.py", line 649, in get
+    raise self.model.DoesNotExist(
+app.models.DocumentFullText.DoesNotExist: DocumentFullText matching query does not exist.
+ERROR 2025-04-21 14:34:33,400 basehttp 579 140033260504768 "GET /api/documents/19/markdown HTTP/1.1" 500 108788
+INFO 2025-04-21 14:34:35,987 basehttp 579 140033260504768 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:40,016 basehttp 579 140033260504768 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:45,036 basehttp 579 140033260504768 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:34:45,563 basehttp 579 140033260504768 "OPTIONS /api/documents/upload HTTP/1.1" 200 0
+ERROR 2025-04-21 14:34:46,115 log 579 140033260504768 Internal Server Error: /api/documents/upload
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/src/app/app/views/documents.py", line 97, in upload_doc
+    result = task_chain.apply_async()
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AsyncResult' object has no attribute 'apply_async'
+ERROR 2025-04-21 14:34:46,116 basehttp 579 140033260504768 "POST /api/documents/upload HTTP/1.1" 500 99139
+INFO 2025-04-21 14:34:50,136 basehttp 579 140033260504768 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:34:55,254 basehttp 579 140033260504768 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:35:00,292 basehttp 579 140033260504768 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:35:05,330 basehttp 579 140033260504768 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:35:10,654 basehttp 579 140033260504768 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:35:14,001 autoreload 579 140038920567680 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:35:15,909 autoreload 646 140706086034304 Watching for file changes with StatReloader
+INFO 2025-04-21 14:35:22,786 basehttp 646 140700367709888 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:35:26,752 autoreload 646 140706086034304 /usr/src/app/app/tasks/tasks.py changed, reloading.
+INFO 2025-04-21 14:35:28,611 autoreload 711 139624401570688 Watching for file changes with StatReloader
+INFO 2025-04-21 14:35:35,086 basehttp 711 139618761565888 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:35:37,397 autoreload 711 139624401570688 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:35:39,214 autoreload 776 140141199764352 Watching for file changes with StatReloader
+INFO 2025-04-21 14:35:44,369 basehttp 776 140135549097664 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:35:49,351 basehttp 776 140135549097664 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:35:54,388 basehttp 776 140135549097664 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:35:59,503 basehttp 776 140135549097664 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:36:04,564 basehttp 776 140135549097664 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:36:09,613 basehttp 776 140135549097664 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:36:14,644 basehttp 776 140135549097664 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:36:17,671 autoreload 776 140141199764352 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:36:19,419 autoreload 842 140198521342848 Watching for file changes with StatReloader
+INFO 2025-04-21 14:36:26,763 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11900
+INFO 2025-04-21 14:36:27,923 basehttp 842 140192882091712 "OPTIONS /api/documents/22/delete HTTP/1.1" 200 0
+INFO 2025-04-21 14:36:27,945 documents 842 140192882091712 Document deleted successfully: 22
+INFO 2025-04-21 14:36:27,945 basehttp 842 140192882091712 "DELETE /api/documents/22/delete HTTP/1.1" 200 62
+INFO 2025-04-21 14:36:27,987 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12225
+INFO 2025-04-21 14:36:29,046 basehttp 842 140192882091712 "OPTIONS /api/documents/21/delete HTTP/1.1" 200 0
+INFO 2025-04-21 14:36:29,089 documents 842 140192882091712 Task 888ad250-0759-44ab-931b-45cb4828a1f9 revoked successfully
+INFO 2025-04-21 14:36:29,109 documents 842 140192882091712 Document deleted successfully: 21
+INFO 2025-04-21 14:36:29,109 basehttp 842 140192882091712 "DELETE /api/documents/21/delete HTTP/1.1" 200 62
+INFO 2025-04-21 14:36:29,168 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12227
+INFO 2025-04-21 14:36:34,252 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12227
+INFO 2025-04-21 14:36:35,816 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12227
+INFO 2025-04-21 14:36:40,858 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12227
+INFO 2025-04-21 14:36:41,318 basehttp 842 140192882091712 "POST /api/documents/upload HTTP/1.1" 201 77
+INFO 2025-04-21 14:36:41,358 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:36:46,283 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:36:47,126 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:36:52,139 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:36:57,145 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:37:02,250 basehttp 842 140192882091712 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:37:03,300 autoreload 842 140198521342848 /usr/src/app/app/tasks/__init__.py changed, reloading.
+INFO 2025-04-21 14:37:05,102 autoreload 907 140271754640256 Watching for file changes with StatReloader
+INFO 2025-04-21 14:37:10,387 basehttp 907 140266114639552 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:37:15,423 basehttp 907 140266114639552 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:37:20,453 basehttp 907 140266114639552 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:37:25,470 basehttp 907 140266114639552 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:37:28,051 autoreload 907 140271754640256 /usr/src/app/app/tasks/__init__.py changed, reloading.
+INFO 2025-04-21 14:37:29,926 autoreload 972 139747595406208 Watching for file changes with StatReloader
+INFO 2025-04-21 14:37:35,178 basehttp 972 139741965055680 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:37:40,255 basehttp 972 139741965055680 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:38:22,314 autoreload 136 140251064245120 Watching for file changes with StatReloader
+INFO 2025-04-21 14:38:27,471 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:38:30,343 basehttp 136 140245434627776 "OPTIONS /api/documents/23/delete HTTP/1.1" 200 0
+INFO 2025-04-21 14:38:30,380 documents 136 140245434627776 Task 33737a2c-3212-44bf-a833-df49e11f07e7 revoked successfully
+INFO 2025-04-21 14:38:30,388 documents 136 140245434627776 Document deleted successfully: 23
+INFO 2025-04-21 14:38:30,389 basehttp 136 140245434627776 "DELETE /api/documents/23/delete HTTP/1.1" 200 62
+INFO 2025-04-21 14:38:30,429 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12227
+INFO 2025-04-21 14:38:31,167 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12227
+INFO 2025-04-21 14:38:36,266 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12227
+INFO 2025-04-21 14:38:37,253 basehttp 136 140245434627776 "POST /api/documents/upload HTTP/1.1" 201 80
+INFO 2025-04-21 14:38:37,282 tasks 71 140136752290688 Updated history timestamp for status 'text_extracting' on document 24
+INFO 2025-04-21 14:38:37,282 tasks 71 140136752290688 Document status updated from 'pending' to 'text_extracting' for Document ID: 24
+INFO 2025-04-21 14:38:37,312 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11942
+INFO 2025-04-21 14:38:37,611 tasks 71 140136752290688 Updated history timestamp for status 'text_extracted' on document 24
+INFO 2025-04-21 14:38:37,611 tasks 71 140136752290688 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 24
+INFO 2025-04-21 14:38:42,415 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:38:47,473 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:38:52,512 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:38:57,523 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:02,538 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:04,486 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:09,539 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:11,996 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:13,497 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:16,271 basehttp 136 140245434627776 "OPTIONS /api/documents/24 HTTP/1.1" 200 0
+INFO 2025-04-21 14:39:16,294 basehttp 136 140245434627776 "GET /api/documents/24 HTTP/1.1" 200 1160
+INFO 2025-04-21 14:39:16,301 basehttp 136 140245434627776 "OPTIONS /api/documents/24/raw HTTP/1.1" 200 0
+INFO 2025-04-21 14:39:16,305 basehttp 136 140245434627776 "OPTIONS /api/documents/24/markdown HTTP/1.1" 200 0
+INFO 2025-04-21 14:39:16,329 basehttp 136 140245425186496 "GET /api/documents/24/raw HTTP/1.1" 200 4234965
+INFO 2025-04-21 14:39:18,410 documents 136 140245434627776 Chunks: []
+INFO 2025-04-21 14:39:18,412 basehttp 136 140245434627776 "GET /api/documents/24/markdown HTTP/1.1" 200 6127
+INFO 2025-04-21 14:39:24,562 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:26,280 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:31,328 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:36,336 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:41,349 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:46,462 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:51,522 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:39:56,560 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:01,587 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:06,601 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:11,607 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:16,761 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:21,851 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:26,901 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:31,923 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:36,937 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:41,943 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:46,977 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:52,093 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:40:57,157 basehttp 136 140245434627776 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:41:32,190 autoreload 136 140251064245120 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:41:33,803 autoreload 202 140262494206848 Watching for file changes with StatReloader
+INFO 2025-04-21 14:41:40,330 autoreload 202 140262494206848 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:41:41,908 autoreload 266 140657231256448 Watching for file changes with StatReloader
+INFO 2025-04-21 14:41:58,670 autoreload 266 140657231256448 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:42:00,399 autoreload 330 139972121549696 Watching for file changes with StatReloader
+INFO 2025-04-21 14:42:10,774 autoreload 330 139972121549696 /usr/src/app/app/views/documents.py changed, reloading.
+INFO 2025-04-21 14:42:12,385 autoreload 394 140072645995392 Watching for file changes with StatReloader
+INFO 2025-04-21 14:42:59,584 autoreload 136 140261125663616 Watching for file changes with StatReloader
+INFO 2025-04-21 14:43:09,632 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:43:09,895 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11999
+INFO 2025-04-21 14:43:12,059 basehttp 136 140255494665920 "OPTIONS /api/documents/24/delete HTTP/1.1" 200 0
+INFO 2025-04-21 14:43:12,094 documents 136 140255494665920 Task fda482e6-ae56-40a5-8442-9cfe115bed71 revoked successfully
+INFO 2025-04-21 14:43:12,101 documents 136 140255494665920 Document deleted successfully: 24
+INFO 2025-04-21 14:43:12,101 basehttp 136 140255494665920 "DELETE /api/documents/24/delete HTTP/1.1" 200 62
+INFO 2025-04-21 14:43:12,140 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12227
+INFO 2025-04-21 14:43:16,792 basehttp 136 140255494665920 "POST /api/documents/upload HTTP/1.1" 201 77
+INFO 2025-04-21 14:43:16,827 tasks 71 139925926427520 Updated history timestamp for status 'text_extracting' on document 25
+INFO 2025-04-21 14:43:16,827 tasks 71 139925926427520 Document status updated from 'pending' to 'text_extracting' for Document ID: 25
+INFO 2025-04-21 14:43:16,864 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 11936
+INFO 2025-04-21 14:43:17,104 tasks 71 139925926427520 Updated history timestamp for status 'text_extracted' on document 25
+INFO 2025-04-21 14:43:17,104 tasks 71 139925926427520 Document status updated from 'text_extracting' to 'text_extracted' for Document ID: 25
+INFO 2025-04-21 14:43:17,133 tasks 71 139925926427520 Updated history timestamp for status 'embedding_text' on document 25
+INFO 2025-04-21 14:43:17,134 tasks 71 139925926427520 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 25
+INFO 2025-04-21 14:43:20,282 tasks 71 139925926427520 Added 2 chunks for document 25
+INFO 2025-04-21 14:43:20,291 tasks 71 139925926427520 Updated history timestamp for status 'embedded_text' on document 25
+INFO 2025-04-21 14:43:20,291 tasks 71 139925926427520 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 25
+INFO 2025-04-21 14:43:20,312 tasks 71 139925926427520 Updated history timestamp for status 'generating_summary' on document 25
+INFO 2025-04-21 14:43:20,312 tasks 71 139925926427520 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 25
+INFO 2025-04-21 14:43:20,401 doc_processor 71 139925926427520 Generating title and summary for text: ROM THE MIN Z_S OF THE  122nd
+
+y
+
+(cid:9) MEETING OF THE. MSU BOARD OF
+
+D. (cid:9)
+
+****  ************** (cid:9)
+
+Ju,i.lr 124, 1984  (cid:9) 4,
+ON
+**** * *** *************i************i:** .7*
+
+t (cid:9)
+
+V CIF
+
+THE
+
+THE
+
+ENGAGING THE SERV CIS -
+ON OF THE
+
+CAL NAAS
+
+lid
+
+'RESOLUTION NO•  16_4.4 S. 1984
+
+RESOLVED (cid:9)
+
+t upon the recommendation of the Acting
+
+President of the University, the agreement entered into by
+
+and between MSLIALLIT and Architect Mel V. Calderbn for the
+
+eparatim of the MSU...IIT physical master development plan
+
+covering the Tibanga Campus for a fee of P108,800.00 as
+
+provided under Annex "AA-lit_ to "AA-10" attached her
+
+and .'made an integral part of this resolution, is herOy
+
+approved, o a c**able against funds appropriated for the
+
+same purpose subject to account (cid:9)
+
+and auditing regulations.
+
+ARPROYED*"
+
+XI.X..X.1  X.. X (cid:9)
+
+X".X..X.. X
+
+CERTIFIED TE Sc (cid:9)
+
+fo;-,—
+
+Secre (cid:9)
+
+of the 'Institute
+
+APUGA.1
+INFO 2025-04-21 14:43:21,875 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12072
+INFO 2025-04-21 14:43:26,866 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12072
+INFO 2025-04-21 14:43:27,057 doc_processor 71 139925926427520 Title and summary generated successfully.
+INFO 2025-04-21 14:43:27,069 tasks 71 139925926427520 Updated history timestamp for status 'summary_generated' on document 25
+INFO 2025-04-21 14:43:27,069 tasks 71 139925926427520 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 25
+INFO 2025-04-21 14:43:27,076 tasks 71 139925926427520 Updated history timestamp for status 'completed' on document 25
+INFO 2025-04-21 14:43:27,076 tasks 71 139925926427520 Document status updated from 'summary_generated' to 'completed' for Document ID: 25
+INFO 2025-04-21 14:43:31,992 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12327
+INFO 2025-04-21 14:43:36,966 basehttp 136 140255494665920 "OPTIONS /api/documents/25 HTTP/1.1" 200 0
+INFO 2025-04-21 14:43:36,994 basehttp 136 140255494665920 "GET /api/documents/25 HTTP/1.1" 200 1488
+INFO 2025-04-21 14:43:37,001 basehttp 136 140255494665920 "OPTIONS /api/documents/25/raw HTTP/1.1" 200 0
+INFO 2025-04-21 14:43:37,004 basehttp 136 140255486273216 "OPTIONS /api/documents/25/markdown HTTP/1.1" 200 0
+INFO 2025-04-21 14:43:37,123 basehttp 136 140255494665920 "GET /api/documents/25/raw HTTP/1.1" 200 34874980
+INFO 2025-04-21 14:43:37,331 documents 136 140255486273216 Chunks: ['ROM THE MIN Z_S OF THE  122nd\n\ny\n\n(cid:9) MEETING OF THE. MSU BOARD OF\n\nD. (cid:9)\n\n****  ************** (cid:9)\n\nJu,i.lr 124, 1984  (cid:9) 4,\nON\n**** * *** *************i************i:** .7*\n\nt (cid:9)\n\nV CIF\n\nTHE\n\nTHE\n\nENGAGING THE SERV CIS -\nON OF THE\n\nCAL NAAS\n\nlid\n\n\'RESOLUTION NO•  16_4.4 S. 1984\n\nRESOLVED (cid:9)\n\nt upon the recommendation of the Acting\n\nPresident of the University, the agreement entered into by\n\nand between MSLIALLIT and Architect Mel V. Calderbn for the\n\neparatim of the MSU...IIT physical master development plan\n\ncovering the Tibanga Campus for a fee of P108,800.00 as\n\nprovided under Annex "AA-lit_ to "AA-10" attached her\n\nand .\'made an integral part of this resolution, is herOy\n\napproved, o a c**able against funds appropriated for the\n\nsame purpose subject to account (cid:9)\n\nand auditing regulations.\n\nARPROYED*"\n\nXI.X..X.1  X.. X (cid:9)\n\nX".X..X.. X\n\nCERTIFIED TE Sc (cid:9)\n\nfo;-,—\n\nSecre (cid:9)\n\nof the \'Institute\n\nAPUGA.1', 'same purpose subject to account (cid:9)\n\nand auditing regulations.\n\nARPROYED*"\n\nXI.X..X.1  X.. X (cid:9)\n\nX".X..X.. X\n\nCERTIFIED TE Sc (cid:9)\n\nfo;-,—\n\nSecre (cid:9)\n\nof the \'Institute\n\nAPUGA.1\n\n*******************************Int****************************** .*******\n\nSource:My.IITBORArchiveElectronicCopyUNOFFICIAL(cid:9)\n(cid:9)\n\n\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL']
+INFO 2025-04-21 14:43:37,333 basehttp 136 140255486273216 "GET /api/documents/25/markdown HTTP/1.1" 200 2914
+INFO 2025-04-21 14:43:39,131 basehttp 136 140254967187136 "GET /api/documents/25 HTTP/1.1" 200 1488
+INFO 2025-04-21 14:43:39,220 documents 136 140255494665920 Chunks: ['ROM THE MIN Z_S OF THE  122nd\n\ny\n\n(cid:9) MEETING OF THE. MSU BOARD OF\n\nD. (cid:9)\n\n****  ************** (cid:9)\n\nJu,i.lr 124, 1984  (cid:9) 4,\nON\n**** * *** *************i************i:** .7*\n\nt (cid:9)\n\nV CIF\n\nTHE\n\nTHE\n\nENGAGING THE SERV CIS -\nON OF THE\n\nCAL NAAS\n\nlid\n\n\'RESOLUTION NO•  16_4.4 S. 1984\n\nRESOLVED (cid:9)\n\nt upon the recommendation of the Acting\n\nPresident of the University, the agreement entered into by\n\nand between MSLIALLIT and Architect Mel V. Calderbn for the\n\neparatim of the MSU...IIT physical master development plan\n\ncovering the Tibanga Campus for a fee of P108,800.00 as\n\nprovided under Annex "AA-lit_ to "AA-10" attached her\n\nand .\'made an integral part of this resolution, is herOy\n\napproved, o a c**able against funds appropriated for the\n\nsame purpose subject to account (cid:9)\n\nand auditing regulations.\n\nARPROYED*"\n\nXI.X..X.1  X.. X (cid:9)\n\nX".X..X.. X\n\nCERTIFIED TE Sc (cid:9)\n\nfo;-,—\n\nSecre (cid:9)\n\nof the \'Institute\n\nAPUGA.1', 'same purpose subject to account (cid:9)\n\nand auditing regulations.\n\nARPROYED*"\n\nXI.X..X.1  X.. X (cid:9)\n\nX".X..X.. X\n\nCERTIFIED TE Sc (cid:9)\n\nfo;-,—\n\nSecre (cid:9)\n\nof the \'Institute\n\nAPUGA.1\n\n*******************************Int****************************** .*******\n\nSource:My.IITBORArchiveElectronicCopyUNOFFICIAL(cid:9)\n(cid:9)\n\n\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL']
+INFO 2025-04-21 14:43:39,229 basehttp 136 140255494665920 "GET /api/documents/25/markdown HTTP/1.1" 200 2914
+INFO 2025-04-21 14:43:39,233 basehttp 136 140255486273216 "GET /api/documents/25/raw HTTP/1.1" 200 34874980
+INFO 2025-04-21 14:44:09,600 basehttp 136 140255486273216 "OPTIONS /api/documents/25/update HTTP/1.1" 200 0
+INFO 2025-04-21 14:44:09,634 tasks 136 140255486273216 Updated history timestamp for status 'text_extracted' on document 25
+INFO 2025-04-21 14:44:09,635 tasks 136 140255486273216 Document status updated from 'completed' to 'text_extracted' for Document ID: 25
+INFO 2025-04-21 14:44:09,654 basehttp 136 140255486273216 "PUT /api/documents/25/update HTTP/1.1" 200 0
+INFO 2025-04-21 14:44:09,680 tasks 71 139925926427520 Updated history timestamp for status 'embedding_text' on document 25
+INFO 2025-04-21 14:44:09,681 tasks 71 139925926427520 Document status updated from 'text_extracted' to 'embedding_text' for Document ID: 25
+INFO 2025-04-21 14:44:09,705 basehttp 136 140255486273216 "GET /api/documents/25 HTTP/1.1" 200 1493
+INFO 2025-04-21 14:44:09,813 tasks 71 139925926427520 Added 2 chunks for document 25
+INFO 2025-04-21 14:44:09,832 tasks 71 139925926427520 Updated history timestamp for status 'embedded_text' on document 25
+INFO 2025-04-21 14:44:09,832 tasks 71 139925926427520 Document status updated from 'embedding_text' to 'embedded_text' for Document ID: 25
+INFO 2025-04-21 14:44:09,856 tasks 71 139925926427520 Updated history timestamp for status 'generating_summary' on document 25
+INFO 2025-04-21 14:44:09,856 tasks 71 139925926427520 Document status updated from 'embedded_text' to 'generating_summary' for Document ID: 25
+INFO 2025-04-21 14:44:09,857 basehttp 136 140255486273216 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12332
+INFO 2025-04-21 14:44:09,937 doc_processor 71 139925926427520 Generating title and summary for text: THE VALEDICTORIAN OF MSUIIT IS MJCARNAJE
+
+ROM THE MIN Z\_S OF THE  122nd
+
+y
+
+(cid:9) MEETING OF THE. MSU BOARD OF
+
+D. (cid:9)
+
+\*\*\*\*  \*\*\*\*\*\*\*\*\*\*\*\*\*\* (cid:9)
+
+Ju,i.lr 124, 1984  (cid:9) 4,
+ON
+\*\*\*\* \* \*\*\* \*\*\*\*\*\*\*\****i\*\*\*\*\*\*\*\*\*\*i:** .7*
+
+t (cid:9)
+
+V CIF
+
+THE
+
+THE
+
+ENGAGING THE SERV CIS -
+ON OF THE
+
+CAL NAAS
+
+lid
+
+'RESOLUTION NO•  16\_4.4 S. 1984
+
+RESOLVED (cid:9)
+
+t upon the recommendation of the Acting
+
+President of the University, the agreement entered into by
+
+and between MSLIALLIT and Architect Mel V. Calderbn for the
+
+eparatim of the MSU...IIT physical master development plan
+
+covering the Tibanga Campus for a fee of P108,800.00 as
+
+provided under Annex "AA-lit\_ to "AA-10" attached her
+
+and .'made an integral part of this resolution, is herOy
+
+approved, o a c\*\*able against funds appropriated for the
+
+same purpose subject to account (cid:9)
+
+and auditing regulations.
+
+ARPROYED\*"
+
+XI.X..X.1  X.. X (cid:9)
+
+X".X..X.. X
+INFO 2025-04-21 14:44:10,416 doc_processor 71 139925926427520 Title and summary generated successfully.
+INFO 2025-04-21 14:44:10,434 tasks 71 139925926427520 Updated history timestamp for status 'summary_generated' on document 25
+INFO 2025-04-21 14:44:10,434 tasks 71 139925926427520 Document status updated from 'generating_summary' to 'summary_generated' for Document ID: 25
+INFO 2025-04-21 14:44:10,443 tasks 71 139925926427520 Updated history timestamp for status 'completed' on document 25
+INFO 2025-04-21 14:44:10,443 tasks 71 139925926427520 Document status updated from 'summary_generated' to 'completed' for Document ID: 25
+INFO 2025-04-21 14:44:14,912 basehttp 136 140255486273216 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12162
+INFO 2025-04-21 14:44:54,053 basehttp 136 140255486273216 "OPTIONS /api/documents/search?query=who+is+the+VALEDICTORIAN%3F&page=1&page_size=9 HTTP/1.1" 200 0
+INFO 2025-04-21 14:44:54,272 basehttp 136 140255486273216 "GET /api/documents/search?query=who+is+the+VALEDICTORIAN%3F&page=1&page_size=9 HTTP/1.1" 200 9420
+INFO 2025-04-21 14:45:15,799 basehttp 136 140255486273216 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12162
+INFO 2025-04-21 14:45:18,614 basehttp 136 140254967187136 "GET /api/documents/25 HTTP/1.1" 200 1323
+INFO 2025-04-21 14:45:18,732 basehttp 136 140255486273216 "GET /api/documents/25/raw HTTP/1.1" 200 34874980
+INFO 2025-04-21 14:45:18,763 documents 136 140255494665920 Chunks: ['THE VALEDICTORIAN OF MSUIIT IS MJCARNAJE\n\nROM THE MIN Z\\_S OF THE  122nd\n\ny\n\n(cid:9) MEETING OF THE. MSU BOARD OF\n\nD. (cid:9)\n\n\\*\\*\\*\\*  \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* (cid:9)\n\nJu,i.lr 124, 1984  (cid:9) 4,\nON\n\\*\\*\\*\\* \\* \\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\****i\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*i:** .7*\n\nt (cid:9)\n\nV CIF\n\nTHE\n\nTHE\n\nENGAGING THE SERV CIS -\nON OF THE\n\nCAL NAAS\n\nlid\n\n\'RESOLUTION NO•  16\\_4.4 S. 1984\n\nRESOLVED (cid:9)\n\nt upon the recommendation of the Acting\n\nPresident of the University, the agreement entered into by\n\nand between MSLIALLIT and Architect Mel V. Calderbn for the\n\neparatim of the MSU...IIT physical master development plan\n\ncovering the Tibanga Campus for a fee of P108,800.00 as\n\nprovided under Annex "AA-lit\\_ to "AA-10" attached her\n\nand .\'made an integral part of this resolution, is herOy\n\napproved, o a c\\*\\*able against funds appropriated for the\n\nsame purpose subject to account (cid:9)\n\nand auditing regulations.\n\nARPROYED\\*"\n\nXI.X..X.1  X.. X (cid:9)\n\nX".X..X.. X', 'approved, o a c\\*\\*able against funds appropriated for the\n\nsame purpose subject to account (cid:9)\n\nand auditing regulations.\n\nARPROYED\\*"\n\nXI.X..X.1  X.. X (cid:9)\n\nX".X..X.. X\n\nCERTIFIED TE Sc (cid:9)\n\nfo;-,—\n\nSecre (cid:9)\n\nof the \'Institute\n\nAPUGA.1\n\n***Int** .*\\*\\*\\*\\*\\*\\*\n\nSource:My.IITBORArchiveElectronicCopyUNOFFICIAL(cid:9)\n(cid:9)\n\n\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL\x0cUNOFFICIAL']
+INFO 2025-04-21 14:45:18,765 basehttp 136 140255494665920 "GET /api/documents/25/markdown HTTP/1.1" 200 3084
+INFO 2025-04-21 14:45:26,100 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12162
+INFO 2025-04-21 14:45:31,152 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12162
+INFO 2025-04-21 14:45:36,136 basehttp 136 140255494665920 "GET /api/documents?page=1&page_size=9 HTTP/1.1" 200 12162
